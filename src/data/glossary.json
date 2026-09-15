@@ -1,0 +1,554 @@
+[
+ {
+  "Column 1": "Expert II Gate Lock",
+  "Season": "Season 1",
+  "Image": "Glossary_Images/Expert II Gate Lock.Image.233632.jpg",
+  "Location": "Aqualis VI",
+  "Detail": "Level 80 Level Lock",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Onsengo",
+  "Season": "Season 1",
+  "Image": "Glossary_Images/Onsengo.Image.233653.jpg",
+  "Location": "Aqualis IX",
+  "Detail": "Class Mentor Location T2 LV 16 / Class LV 48",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Naraka Well",
+  "Season": "Season 1",
+  "Image": "Glossary_Images/Naraka Well.Image.233711.jpg",
+  "Location": "Aqualis X",
+  "Detail": "Entrance to Orochis Lair. Unique Crucible boss to Aqualis.",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Expert III Gate Lock",
+  "Season": "Season 1",
+  "Image": "Glossary_Images/Expert III Gate Lock.Image.233742.jpg",
+  "Location": "Aqualis XII",
+  "Detail": "Level 90 Level Lock",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Kumoryu Vortex",
+  "Season": "Season 1",
+  "Image": "Glossary_Images/Kumoryu Vortex.Image.233803.jpg",
+  "Location": "Aqualis XIV",
+  "Detail": "Aqualis Fantasia Ascent. Max Floor is 160",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Whaleback",
+  "Season": "Season 1",
+  "Image": "Glossary_Images/Whaleback.Image.233831.jpg",
+  "Location": "Aqualis XVII",
+  "Detail": "Boat located on Tidal Platform unlock season map",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Voyage Obelisk",
+  "Season": "Season 1",
+  "Image": "Glossary_Images/Voyage Obelisk.Image.233847.jpg",
+  "Location": "Aqualis XVIII",
+  "Detail": "Aqualis' final goalpost.",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Nimbuville",
+  "Season": "Season 2",
+  "Image": "Glossary_Images/Nimbuville.Image.235301.png",
+  "Location": "Loong Haven V",
+  "Detail": "Class Mentor Location T3 LV 19 / Class LV 89",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Champion II Gate Lock",
+  "Season": "Season 2",
+  "Image": "Glossary_Images/Champion II Gate Lock.Image.235136.png",
+  "Location": "Loong Haven VI",
+  "Detail": "Level 110 Level Lock",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Demonbind Tower",
+  "Season": "Season 2",
+  "Image": "Glossary_Images/Demonbind Tower.Image.234506.jpg",
+  "Location": "Loong Haven VII",
+  "Detail": "Loong Haven Fantasia Ascent. Max floor is 200",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Split Mirage",
+  "Season": "Season 2",
+  "Image": "Glossary_Images/Split Mirage.Image.235119.png",
+  "Location": "Loong Haven XI",
+  "Detail": "Dual class gem tower. Normal mode and Endless mode.",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Champion III Gate Lock",
+  "Season": "Season 2",
+  "Image": "Glossary_Images/Champion III Gate Lock.Image.234417.jpg",
+  "Location": "Loong Haven XII",
+  "Detail": "Level 120 Level Lock",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Loongs Perch",
+  "Season": "Season 2",
+  "Image": "Glossary_Images/Loongs Perch.Image.235148.png",
+  "Location": "Loong Haven XV",
+  "Detail": "Loong's Summoning Spot. Unlocks at Level 122. Unique Crucible boss to Loong Haven.",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Acme Nexus",
+  "Season": "Season 2",
+  "Image": "Glossary_Images/Acme Nexus.Image.235200.png",
+  "Location": "Loong Haven XVIII",
+  "Detail": "Loong Haven season map. Max floor is 118. Loong Haven's final goalpost.",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Sunset Mirage",
+  "Season": "Season 2",
+  "Image": "Glossary_Images/Sunset Mirage.Image.202354.png",
+  "Location": "Acme Nexus XIII",
+  "Detail": "",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Kunwu Mirage",
+  "Season": "Season 2",
+  "Image": "Glossary_Images/Sunset Mirage.Image.202354.png",
+  "Location": "Acme Nexus XXVII",
+  "Detail": "",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 130 Starting Zone",
+  "Season": "Season 3",
+  "Image": "",
+  "Location": "Aethyris I",
+  "Detail": "Zone: Aethyris I, Aethyris II, Skyrend Cliff, Treasure of Redemption, Ancestor Woods, Sanctum Ruins, Oracle Jungle",
+  "Dungeon / Key Target": "Crystal Spire Tree"
+ },
+ {
+  "Column 1": "Level 132 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 132 Level Lock.Image.163214.jpg",
+  "Location": "Aethyris III",
+  "Detail": "Zone: Aethyris III, Psion Veins, Aerial Vault, Phantom Starwood, The Barrens",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 134 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 134 Level Lock.Image.163840.jpg",
+  "Location": "Aethyris IV",
+  "Detail": "Zone: Aethyris IV, Harmonic Crystal I, Shifting Mesa, Lost Dales, Glinting Slab",
+  "Dungeon / Key Target": "Eternal Flower Garden"
+ },
+ {
+  "Column 1": "Level 136 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 136 Level Lock.Image.163851.jpg",
+  "Location": "Aethyris V",
+  "Detail": "Zone: Aethyris V, Unbroken Camp, Mystic Highlands, Fallen Gorge, Temple of the Goddess, Blessing Slab, Isle of Plenty",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Unbroken Camp (Sanctuary)",
+  "Season": "Season 3",
+  "Image": "",
+  "Location": "Aethyris V",
+  "Detail": "Class Mentor Location T4 LV 40 / Class Level 180",
+  "Dungeon / Key Target": "Unbroken Camp"
+ },
+ {
+  "Column 1": "Level 138 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 138 Level Lock.Image.164146.jpg",
+  "Location": "Aethyris VI",
+  "Detail": "Zone: Aethyris VI, Dreamscape, Profane Grove, Harmonic Crystal II, Blessed Road, Contemplation Court, The Sundered End",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 140 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 140 Level Lock.Image.164355.jpg",
+  "Location": "Aethyris VII",
+  "Detail": "Zone: Aethyris VII, Aethyris VIII, Astral Altar, Treasure of Decay, Forest of Dread, Paleveil Woods, The Final Brink",
+  "Dungeon / Key Target": "Battle Abyss Fortress"
+ },
+ {
+  "Column 1": "Master II Gate Lock",
+  "Season": "Season 3",
+  "Image": "",
+  "Location": "Aethyris VII",
+  "Detail": "Level 140 Level Lock",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 142 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 142 Level Lock.Image.164451.jpg",
+  "Location": "Aethyris IX",
+  "Detail": "Zone: Aethyris IX, Moon's Bane, Path of Despair, Relic of Rebirth, Harmonic Crystal III, Court of Truth",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 144 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 144 Level Lock.Image.164540.jpg",
+  "Location": "Aethyris X",
+  "Detail": "Zone: Aethyris X, Celestial Temple, Corrupted Ruins, Sludge Stone, Path of Oblivion, Cataclysmic Sanctum",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 146 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 146 Level Lock.Image.164636.jpg",
+  "Location": "Aethyris XI",
+  "Detail": "Zone: Aethyris XI, Hall of Secrets, Submerged Ruins, Lifeless Vault, Starward Court, Slab of Knowledge",
+  "Dungeon / Key Target": "Purification Court"
+ },
+ {
+  "Column 1": "Level 148 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 148 Level Lock.Image.164727.jpg",
+  "Location": "Aethyris XII",
+  "Detail": "Zone: Aethyris XII, Void Promenade, Hunting Grounds, The Lorn Lands, Fallen Ruins, Harmonic Crystal IV, City of the Void",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Master III Gate Lock",
+  "Season": "Season 3",
+  "Image": "",
+  "Location": "Aethyris XII",
+  "Detail": "Level 150 Level Lock",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 150 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 150 Level Lock.Image.164935.jpg",
+  "Location": "Aethyris XIII",
+  "Detail": "Zone:Aethyris XIII, Aethyris XIV, Starfall Treasury, Derelict Garden, Place of Echoes, Harmonic Crystal V, Sanctum of Rites, Ritual Hall",
+  "Dungeon / Key Target": "Order Temple"
+ },
+ {
+  "Column 1": "Level 152 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 152 Level Lock.Image.165029.jpg",
+  "Location": "Aethyris XV",
+  "Detail": "Zone: Aethyris XV, Ashen Hoop, Scholomance Ruins, Tablet of Meaning, Eternal Debris",
+  "Dungeon / Key Target": "Blazing Sunspire"
+ },
+ {
+  "Column 1": "Level 154 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 154 Level Lock.Image.165108.jpg",
+  "Location": "Aethyris XVI",
+  "Detail": "Zone: Aethyris XVI, Oblivion Court, Abyss of Chaos, Broken Citadel, Valor Plaza, Keystone Altar",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 156 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 156 Level Lock.Image.165438.jpg",
+  "Location": "Aethyris XVII",
+  "Detail": "Zone: Aethyris XVII, Flame of the Fallen God, Void Sanctum, Palace of Illusions, Land of Benediction, Healer's Ruins, Azure Monolith",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 158 Level Lock",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Level 158 Level Lock.Image.165449.jpg",
+  "Location": "Aethyris XVIII",
+  "Detail": "Zone: Aethyris XVIII, Harmonic Crystal VI, Blocked Bridge, Voyage Harbor, Spire Vault, Sanctum's Fall, Genesis Path, Guardian's Ground, Avenue of Gods",
+  "Dungeon / Key Target": "Sovereign's Nest"
+ },
+ {
+  "Column 1": "Cosmic Voyage",
+  "Season": "Season 3",
+  "Image": "Glossary_Images/Starry Sea Cruise.Image.165536.jpg",
+  "Location": "Voyage Harbor",
+  "Detail": "Find in Voyage Harbor",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "ik",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi II",
+  "Detail": "Kingdom Shop",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Underground Factory I",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi II",
+  "Detail": "Sewer Pipeline",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 162 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi III",
+  "Detail": "Zone: Hapadi III, Whirring Wilds, Dreamfall Isle, Leisure Grounds, Playway Corridor",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 164 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi IV",
+  "Detail": "Zone: Hapadi IV, Pirate's Plunder, Eerie Statue I, Absurd Shoals, Brickstone Coast, Walrus Camp",
+  "Dungeon / Key Target": "Paradise Pirate Ship"
+ },
+ {
+  "Column 1": "Level 166 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi V",
+  "Detail": "Zone: Hapadi V, Glee Vault, Sandcastle Shoals, Foamdream Beach, Fool's Flats, Interstellar Hollow",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 168 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi VI",
+  "Detail": "Zone: Hapadi VI, Sandbay Funland, Phantom Sea, Pool Arena, Bubble Bay, Treasure Sandbox",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Underground Factory III",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi VI",
+  "Detail": "",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 170 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi VII",
+  "Detail": "Zone: Hapadi VII, Hapadi VIII, Prismstar Beach, Surge Sandcastle, Sokoban Puzzle I, Bulwark Bay, Singing Flats, Dreamwhisper Beach, Thalasson Pier, Eerie Statue II, Wonder Court, Sleepwalk Forest, Deepwater Arena",
+  "Dungeon / Key Target": "Poseidon's Submarine"
+ },
+ {
+  "Column 1": "Paragon II Gate Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi VII",
+  "Detail": "Level 170 Level Lock",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Underground Factory III",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi X",
+  "Detail": "Sewer Pipeline",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 172 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi IX",
+  "Detail": "Zone: Hapadi IX, Glee Vault, Lost Corridor, Carnival Frontier, Class Mentor",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Class Ascension",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi IX",
+  "Detail": "Class Mentor Location T5 LV 50 / Class LV 280",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 174 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi X",
+  "Detail": "Zone: Hapadi X, Plush Workshop, Gearwood, Clockwork Battlefield, Bliss Garden, Fantasy Maze, Rhaspody Hills, Riddle Rabbit Isle",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 176 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XI",
+  "Detail": "Zone: Hapadi XI, Prism Forge, Sokoban Puzzle II, Component Factory, Toy Workshop, Secret Factory, Clockwork Fortress",
+  "Dungeon / Key Target": "Clockwork Fortress"
+ },
+ {
+  "Column 1": "Armory Workshop",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XI",
+  "Detail": "Crucible Summon Spot - Red Mecha",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 178 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XII",
+  "Detail": "Zone: Hapadi XII, Graffiti Grove, Wonderwood, Armor Gallery, Eerie Statue III, Pneumatic Launcher, Stagewhisper Grounds",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Paragon III Gate Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XIII",
+  "Detail": "Level 180 Level Lock",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 180 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XIII",
+  "Detail": "Zone: Hapadi XIII, Hapadi XIV, Celestial Observatory, Sokoban Puzzle III, Curio Heights, Prism Terrace, Laughing Isle, Painted Terrace, Joysky Promenade, Eerie Statue IV, Balloon Cloud Isle, House of Giggles, Clouddream Fields",
+  "Dungeon / Key Target": "Celestial Observatory"
+ },
+ {
+  "Column 1": "Underground Factory IV",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XIV",
+  "Detail": "Fantomon Synchronizing unlocks at level 180",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 182 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XV",
+  "Detail": "Zone: Hapadi XV, Mischief Cloudway, Floating Funland, Titan Hot Air Balloon, Block Terrace",
+  "Dungeon / Key Target": "Titan Hot Air Balloon"
+ },
+ {
+  "Column 1": "Level 184 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XVI",
+  "Detail": "Zone: Hapadi XVI, Joyride Terrace, Wonder Terrace, Skycloud Haven, Missile Nest",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 186 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XVII",
+  "Detail": "Zone: Hapadi XVII, Stargazer Heights, Voyage Harbor, Star City, Sweetdream Isle, Nebula Vault, Twined Joy, Fancyfree Isle",
+  "Dungeon / Key Target": "Star City"
+ },
+ {
+  "Column 1": "Absurd Paradise",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XVII",
+  "Detail": "Hapadi season map located at Voyage Harbor",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Level 188 Level Lock",
+  "Season": "Season 4",
+  "Image": "",
+  "Location": "Hapadi XVIII",
+  "Detail": "Zone: Hapadi XVIII, Eerie Statue V, Dreamspell Terrace, Feast Plaza, Playgrounds, Strange Ring",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Frostforged Altar",
+  "Season": "Season 5",
+  "Image": "",
+  "Location": "Ignis III",
+  "Detail": "Critical: Blizzard Zone",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Molten Flame Altar",
+  "Season": "Season 5",
+  "Image": "",
+  "Location": "Ignis IV",
+  "Detail": "Critical: Lava Zone",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Frostflame City",
+  "Season": "Season 5",
+  "Image": "",
+  "Location": "Ignis VI",
+  "Detail": "Class Mentor Location T6 LV 55 / Class LV 380",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Land of Purity",
+  "Season": "Season 5",
+  "Image": "",
+  "Location": "Ignis X",
+  "Detail": "Critical: Lava Zone",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Aurora Cliff",
+  "Season": "Season 5",
+  "Image": "",
+  "Location": "Ignis XII",
+  "Detail": "Critical: Blizzard Zone",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Sealed Forbidden Land",
+  "Season": "Season 5",
+  "Image": "",
+  "Location": "Ignis XIII",
+  "Detail": "Crucible Box Chaos Wolf",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Frostflame Mountains",
+  "Season": "Season 5",
+  "Image": "",
+  "Location": "Ignis XVIII",
+  "Detail": "Ignis Season Map",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Gem Center",
+  "Season": "Season 6",
+  "Image": "",
+  "Location": "Apex V",
+  "Detail": "Class Mentor Location T7 LV 55 / Class LV 480",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Crystal Nest",
+  "Season": "Season 6",
+  "Image": "",
+  "Location": "Apex XVIII",
+  "Detail": "Sacred Beast",
+  "Dungeon / Key Target": ""
+ },
+ {
+  "Column 1": "Crystal Plains",
+  "Season": "Season 6",
+  "Image": "",
+  "Location": "Apex XVIII",
+  "Detail": "Apex Season Map",
+  "Dungeon / Key Target": ""
+ }
+]

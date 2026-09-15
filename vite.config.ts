@@ -1,9 +1,13 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-// base is set for GitHub Pages project-site hosting; override with BASE_PATH if
-// deploying somewhere else.
-export default defineConfig({
-  base: process.env.BASE_PATH ?? '/sxsguide/',
+// base suits GitHub Pages project-site hosting; set BASE_PATH to deploy the app
+// anywhere else (a custom domain wants '/').
+export default defineConfig(() => ({
+  base: loadBase(),
   plugins: [react()],
-});
+}));
+
+function loadBase(): string {
+  return globalThis.process?.env?.BASE_PATH ?? '/sxsguide/';
+}

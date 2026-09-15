@@ -1,0 +1,3762 @@
+[
+ {
+  "IMAGE": "Milestones_Images/VERDANTGLADE OPENS.IMAGE.034044.png",
+  "WEEK": 0,
+  "SEASON": "PRE-SEASON",
+  "DAY": 1,
+  "DATE": "2026-07-25T09:00:00",
+  "MILESTONE": "VERDANTGLADE",
+  "TYPE": "MILESTONE",
+  "LENGTH": 3
+ },
+ {
+  "IMAGE": "Milestones_Images/VERDANTGLADE OPENS.IMAGE.034044.png",
+  "WEEK": 0,
+  "SEASON": "PRE-SEASON",
+  "DAY": 1,
+  "DATE": "2026-07-25T09:00:00",
+  "MILESTONE": "AURORADRASIL UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 3
+ },
+ {
+  "IMAGE": "Milestones_Images/CINDER RIDGE OPENS WITH MECHA SUMMIT.IMAGE.034027.png",
+  "WEEK": 1,
+  "SEASON": "PRE-SEASON",
+  "DAY": 4,
+  "DATE": "2026-07-28T09:00:00",
+  "MILESTONE": "CINDER RIDGE",
+  "TYPE": "MILESTONE",
+  "LENGTH": 8
+ },
+ {
+  "IMAGE": "Milestones_Images/CINDER RIDGE OPENS WITH MECHA SUMMIT.IMAGE.034027.png",
+  "WEEK": 1,
+  "SEASON": "PRE-SEASON",
+  "DAY": 4,
+  "DATE": "2026-07-28T09:00:00",
+  "MILESTONE": "MECHA SUMMIT UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 8
+ },
+ {
+  "IMAGE": "Milestones_Images/AQUALIS OPENS.IMAGE.001745.png",
+  "WEEK": 2,
+  "SEASON": "SEASON 1",
+  "DAY": 12,
+  "DATE": "2026-08-05T09:00:00",
+  "MILESTONE": "AQUALIS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 35
+ },
+ {
+  "IMAGE": "Milestones_Images/OCEAN PALACE RUINS UNLOCKS.IMAGE.034254.png",
+  "WEEK": 2,
+  "SEASON": "SEASON 1",
+  "DAY": 12,
+  "DATE": "2026-08-05T09:00:00",
+  "MILESTONE": "OCEAN PALACE RUINS UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 12
+ },
+ {
+  "IMAGE": "Event Details_Images/2.1st Slot Image.224942.jpg",
+  "WEEK": 2,
+  "SEASON": "SEASON 1",
+  "DAY": 15,
+  "DATE": "2026-08-08T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 2,
+  "SEASON": "SEASON 1",
+  "DAY": 15,
+  "DATE": "2026-08-08T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 3,
+  "SEASON": "SEASON 1",
+  "DAY": 22,
+  "DATE": "2026-08-15T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (3RD JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 3,
+  "SEASON": "SEASON 1",
+  "DAY": 22,
+  "DATE": "2026-08-15T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/AQUORIGIN SHRINE UNLOCKS.IMAGE.034145.png",
+  "WEEK": 3,
+  "SEASON": "SEASON 1",
+  "DAY": 24,
+  "DATE": "2026-08-17T09:00:00",
+  "MILESTONE": "AQUORIGIN SHRINE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 9
+ },
+ {
+  "IMAGE": "Milestones_Images/AQUALIS OPENS.IMAGE.001745.png",
+  "WEEK": 4,
+  "SEASON": "SEASON 1",
+  "DAY": 26,
+  "DATE": "2026-08-19T09:00:00",
+  "MILESTONE": "TIME LOCKED SEASON MAP: WHALEBACK UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 21
+ },
+ {
+  "IMAGE": "Event Details_Images/6.1st Slot Image.154156.jpg",
+  "WEEK": 4,
+  "SEASON": "SEASON 1",
+  "DAY": 29,
+  "DATE": "2026-08-22T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 4,
+  "SEASON": "SEASON 1",
+  "DAY": 29,
+  "DATE": "2026-08-22T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/HELLHOLD UNLOCKS.IMAGE.034153.png",
+  "WEEK": 5,
+  "SEASON": "SEASON 1",
+  "DAY": 33,
+  "DATE": "2026-08-26T09:00:00",
+  "MILESTONE": "HELLHOLD UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "Event Details_Images/GRAND TREASURE HUNT (MYTHIC RELIC B_1087281589156189330.1st Slot Image.053046.jpg",
+  "WEEK": 5,
+  "SEASON": "SEASON 1",
+  "DAY": 36,
+  "DATE": "2026-08-29T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - AQUALIS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 5,
+  "SEASON": "SEASON 1",
+  "DAY": 36,
+  "DATE": "2026-08-29T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/2.1st Slot Image.224942.jpg",
+  "WEEK": 6,
+  "SEASON": "SEASON 1",
+  "DAY": 43,
+  "DATE": "2026-09-05T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 6,
+  "SEASON": "SEASON 1",
+  "DAY": 43,
+  "DATE": "2026-09-05T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/LOONG HAVEN OPENS.IMAGE.001609.png",
+  "WEEK": 7,
+  "SEASON": "SEASON 2",
+  "DAY": 47,
+  "DATE": "2026-09-09T09:00:00",
+  "MILESTONE": "LOONG HAVEN",
+  "TYPE": "MILESTONE",
+  "LENGTH": 67
+ },
+ {
+  "IMAGE": "Milestones_Images/DEMONSEAL GORGE UNLOCKS.IMAGE.032327.png",
+  "WEEK": 7,
+  "SEASON": "SEASON 2",
+  "DAY": 47,
+  "DATE": "2026-09-09T09:00:00",
+  "MILESTONE": "DEMONSEAL GORGE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 13
+ },
+ {
+  "IMAGE": "Event Details_Images/12.1st Slot Image.160135.png",
+  "WEEK": 7,
+  "SEASON": "SEASON 2",
+  "DAY": 47,
+  "DATE": "2026-09-09T09:00:00",
+  "MILESTONE": "OROCHI: CRUCIBLE BOSS CHAMPION II",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 7,
+  "SEASON": "SEASON 2",
+  "DAY": 50,
+  "DATE": "2026-09-12T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 7,
+  "SEASON": "SEASON 2",
+  "DAY": 50,
+  "DATE": "2026-09-12T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/15.1st Slot Image.160152.png",
+  "WEEK": 8,
+  "SEASON": "SEASON 2",
+  "DAY": 54,
+  "DATE": "2026-09-16T09:00:00",
+  "MILESTONE": "LOONG: CRUCIBLE BOSS CHAMPION III",
+  "TYPE": "EVENT",
+  "LENGTH": 8
+ },
+ {
+  "IMAGE": "Event Details_Images/6.1st Slot Image.154156.jpg",
+  "WEEK": 8,
+  "SEASON": "SEASON 2",
+  "DAY": 57,
+  "DATE": "2026-09-19T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 8,
+  "SEASON": "SEASON 2",
+  "DAY": 57,
+  "DATE": "2026-09-19T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/WARLORD-S REST UNLOCKS.IMAGE.034345.png",
+  "WEEK": 9,
+  "SEASON": "SEASON 2",
+  "DAY": 60,
+  "DATE": "2026-09-22T09:00:00",
+  "MILESTONE": "WARLORD'S REST UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 13
+ },
+ {
+  "IMAGE": "Glossary_Images/Acme Nexus.Image.235200.png",
+  "WEEK": 9,
+  "SEASON": "SEASON 2",
+  "DAY": 61,
+  "DATE": "2026-09-23T09:00:00",
+  "MILESTONE": "TIME LOCKED SEASON MAP: ACME NEXUS. LV 130 MIN",
+  "TYPE": "MILESTONE",
+  "LENGTH": 53
+ },
+ {
+  "IMAGE": "Event Details_Images/31.1st Slot Image.160120.png",
+  "WEEK": 9,
+  "SEASON": "SEASON 2",
+  "DAY": 62,
+  "DATE": "2026-09-24T09:00:00",
+  "MILESTONE": "STORM GRIFFIN: CRUCIBLE BOSS CHAMPION IV",
+  "TYPE": "EVENT",
+  "LENGTH": 8
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 9,
+  "SEASON": "SEASON 2",
+  "DAY": 64,
+  "DATE": "2026-09-26T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - LOONG HAVEN)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 9,
+  "SEASON": "SEASON 2",
+  "DAY": 64,
+  "DATE": "2026-09-26T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/21.1st Slot Image.160215.png",
+  "WEEK": 10,
+  "SEASON": "SEASON 2",
+  "DAY": 69,
+  "DATE": "2026-10-01T09:00:00",
+  "MILESTONE": "FLAMOENIX: CRUCIBLE BOSS CHAMPION V",
+  "TYPE": "EVENT",
+  "LENGTH": 8
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 10,
+  "SEASON": "SEASON 2",
+  "DAY": 71,
+  "DATE": "2026-10-03T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/PRIMAL QUARTET.1st Slot Image.142309.png",
+  "WEEK": 10,
+  "SEASON": "SEASON 2",
+  "DAY": 71,
+  "DATE": "2026-10-03T09:00:00",
+  "MILESTONE": "PRIMAL QUARTET",
+  "TYPE": "EVENT",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "Event Details_Images/2.1st Slot Image.224942.jpg",
+  "WEEK": 10,
+  "SEASON": "SEASON 2",
+  "DAY": 71,
+  "DATE": "2026-10-03T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 10,
+  "SEASON": "SEASON 2",
+  "DAY": 71,
+  "DATE": "2026-10-03T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CLOUDCREST TEMPLE UNLOCKS.IMAGE.034501.png",
+  "WEEK": 10,
+  "SEASON": "SEASON 2",
+  "DAY": 73,
+  "DATE": "2026-10-05T09:00:00",
+  "MILESTONE": "CLOUDCREST TEMPLE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "Milestones_Images/LOONG HAVEN OPENS.IMAGE.001609.png",
+  "WEEK": 11,
+  "SEASON": "SEASON 2",
+  "DAY": 75,
+  "DATE": "2026-10-07T09:00:00",
+  "MILESTONE": "ASTRAL FRESCO UNLOCKS",
+  "TYPE": "EVENT",
+  "LENGTH": 31
+ },
+ {
+  "IMAGE": "Event Details_Images/12.1st Slot Image.160135.png",
+  "WEEK": 11,
+  "SEASON": "SEASON 2",
+  "DAY": 77,
+  "DATE": "2026-10-09T09:00:00",
+  "MILESTONE": "OROCHI: CRUCIBLE BOSS CHAMPION VI",
+  "TYPE": "EVENT",
+  "LENGTH": 10
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 11,
+  "SEASON": "SEASON 2",
+  "DAY": 78,
+  "DATE": "2026-10-10T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/LOONG HAVEN OPENS.IMAGE.001609.png",
+  "WEEK": 11,
+  "SEASON": "SEASON 2",
+  "DAY": 78,
+  "DATE": "2026-10-10T09:00:00",
+  "MILESTONE": "LOONG HAVEN PHASE II",
+  "TYPE": "MILESTONE",
+  "LENGTH": 36
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 11,
+  "SEASON": "SEASON 2",
+  "DAY": 78,
+  "DATE": "2026-10-10T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 11,
+  "SEASON": "SEASON 2",
+  "DAY": 78,
+  "DATE": "2026-10-10T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 12,
+  "SEASON": "SEASON 2",
+  "DAY": 83,
+  "DATE": "2026-10-15T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 12,
+  "SEASON": "SEASON 2",
+  "DAY": 84,
+  "DATE": "2026-10-16T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 12,
+  "SEASON": "SEASON 2",
+  "DAY": 85,
+  "DATE": "2026-10-17T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/6.1st Slot Image.154156.jpg",
+  "WEEK": 12,
+  "SEASON": "SEASON 2",
+  "DAY": 85,
+  "DATE": "2026-10-17T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 12,
+  "SEASON": "SEASON 2",
+  "DAY": 85,
+  "DATE": "2026-10-17T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/BLADESHIRE UNLOCKS.IMAGE.034439.png",
+  "WEEK": 12,
+  "SEASON": "SEASON 2",
+  "DAY": 86,
+  "DATE": "2026-10-18T09:00:00",
+  "MILESTONE": "BLADESHIRE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 12
+ },
+ {
+  "IMAGE": "Event Details_Images/SUMMER.1st Slot Image.151849.png",
+  "WEEK": 12,
+  "SEASON": "SEASON 2",
+  "DAY": 87,
+  "DATE": "2026-10-19T09:00:00",
+  "MILESTONE": "OCEANIC FESTIVAL",
+  "TYPE": "EVENT",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "Event Details_Images/15.1st Slot Image.160152.png",
+  "WEEK": 12,
+  "SEASON": "SEASON 2",
+  "DAY": 87,
+  "DATE": "2026-10-19T09:00:00",
+  "MILESTONE": "LOONG: CRUCIBLE BOSS CHAMPION VII",
+  "TYPE": "EVENT",
+  "LENGTH": 11
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 13,
+  "SEASON": "SEASON 2",
+  "DAY": 90,
+  "DATE": "2026-10-22T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 13,
+  "SEASON": "SEASON 2",
+  "DAY": 92,
+  "DATE": "2026-10-24T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/MYTHIC FANTOMON PANDARIAL UNLOCKS.IMAGE.152055.png",
+  "WEEK": 13,
+  "SEASON": "SEASON 2",
+  "DAY": 92,
+  "DATE": "2026-10-24T09:00:00",
+  "MILESTONE": "ADVENT OF PANDARIAL",
+  "TYPE": "EVENT",
+  "LENGTH": 0
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 13,
+  "SEASON": "SEASON 2",
+  "DAY": 92,
+  "DATE": "2026-10-24T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - LOONG HAVEN)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 13,
+  "SEASON": "SEASON 2",
+  "DAY": 92,
+  "DATE": "2026-10-24T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 14,
+  "SEASON": "SEASON 2",
+  "DAY": 97,
+  "DATE": "2026-10-29T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/31.1st Slot Image.160120.png",
+  "WEEK": 14,
+  "SEASON": "SEASON 2",
+  "DAY": 98,
+  "DATE": "2026-10-30T09:00:00",
+  "MILESTONE": "STORM GRIFFIN: CRUCIBLE BOSS CHAMPION VIII",
+  "TYPE": "EVENT",
+  "LENGTH": 11
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 14,
+  "SEASON": "SEASON 2",
+  "DAY": 98,
+  "DATE": "2026-10-30T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 14,
+  "SEASON": "SEASON 2",
+  "DAY": 99,
+  "DATE": "2026-10-31T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/CELESTSHIP UNLOCKS.IMAGE.032532.png",
+  "WEEK": 14,
+  "SEASON": "SEASON 2",
+  "DAY": 99,
+  "DATE": "2026-10-31T09:00:00",
+  "MILESTONE": "CELESTSHIP UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 15
+ },
+ {
+  "IMAGE": "Event Details_Images/2.1st Slot Image.224942.jpg",
+  "WEEK": 14,
+  "SEASON": "SEASON 2",
+  "DAY": 99,
+  "DATE": "2026-10-31T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 14,
+  "SEASON": "SEASON 2",
+  "DAY": 99,
+  "DATE": "2026-10-31T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 15,
+  "SEASON": "SEASON 2",
+  "DAY": 104,
+  "DATE": "2026-11-05T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 15,
+  "SEASON": "SEASON 2",
+  "DAY": 106,
+  "DATE": "2026-11-07T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 15,
+  "SEASON": "SEASON 2",
+  "DAY": 106,
+  "DATE": "2026-11-07T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 15,
+  "SEASON": "SEASON 2",
+  "DAY": 106,
+  "DATE": "2026-11-07T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 16,
+  "SEASON": "SEASON 2",
+  "DAY": 111,
+  "DATE": "2026-11-12T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 16,
+  "SEASON": "SEASON 2",
+  "DAY": 112,
+  "DATE": "2026-11-13T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 16,
+  "SEASON": "SEASON 2",
+  "DAY": 113,
+  "DATE": "2026-11-14T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/6.1st Slot Image.154156.jpg",
+  "WEEK": 16,
+  "SEASON": "SEASON 2",
+  "DAY": 113,
+  "DATE": "2026-11-14T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 16,
+  "SEASON": "SEASON 2",
+  "DAY": 113,
+  "DATE": "2026-11-14T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/AETHYRIS UNLOCKS.IMAGE.033728.png",
+  "WEEK": 16,
+  "SEASON": "SEASON 3",
+  "DAY": 114,
+  "DATE": "2026-11-15T09:00:00",
+  "MILESTONE": "AETHYRIS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 60
+ },
+ {
+  "IMAGE": "Milestones_Images/CRYSTAL SPIRE TREE UNLOCKS.IMAGE.032650.png",
+  "WEEK": 16,
+  "SEASON": "SEASON 3",
+  "DAY": 114,
+  "DATE": "2026-11-15T09:00:00",
+  "MILESTONE": "CRYSTAL SPIRAL TREE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 13
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 17,
+  "SEASON": "SEASON 3",
+  "DAY": 118,
+  "DATE": "2026-11-19T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 17,
+  "SEASON": "SEASON 3",
+  "DAY": 120,
+  "DATE": "2026-11-21T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - AETHYRIS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 17,
+  "SEASON": "SEASON 3",
+  "DAY": 120,
+  "DATE": "2026-11-21T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 17,
+  "SEASON": "SEASON 3",
+  "DAY": 120,
+  "DATE": "2026-11-21T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 18,
+  "SEASON": "SEASON 3",
+  "DAY": 125,
+  "DATE": "2026-11-26T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 18,
+  "SEASON": "SEASON 3",
+  "DAY": 126,
+  "DATE": "2026-11-27T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/ETERNAL FLOWER GARDEN UNLOCKS.IMAGE.032846.png",
+  "WEEK": 18,
+  "SEASON": "SEASON 3",
+  "DAY": 127,
+  "DATE": "2026-11-28T09:00:00",
+  "MILESTONE": "ETERNAL FLOWER GARDEN UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9461335447220753779.IMAGE.022841.png",
+  "WEEK": 18,
+  "SEASON": "SEASON 3",
+  "DAY": 127,
+  "DATE": "2026-11-28T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 18,
+  "SEASON": "SEASON 3",
+  "DAY": 127,
+  "DATE": "2026-11-28T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 18,
+  "SEASON": "SEASON 3",
+  "DAY": 127,
+  "DATE": "2026-11-28T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 18,
+  "SEASON": "SEASON 3",
+  "DAY": 128,
+  "DATE": "2026-11-29T09:00:00",
+  "MILESTONE": "TIME LOCKED SEASON MAP: COSMIC VOYAGE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 88
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 19,
+  "SEASON": "SEASON 3",
+  "DAY": 132,
+  "DATE": "2026-12-03T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 19,
+  "SEASON": "SEASON 3",
+  "DAY": 134,
+  "DATE": "2026-12-05T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (5TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 19,
+  "SEASON": "SEASON 3",
+  "DAY": 134,
+  "DATE": "2026-12-05T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 19,
+  "SEASON": "SEASON 3",
+  "DAY": 134,
+  "DATE": "2026-12-05T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/PRIMAL QUARTET.1st Slot Image.142309.png",
+  "WEEK": 20,
+  "SEASON": "SEASON 3",
+  "DAY": 138,
+  "DATE": "2026-12-09T09:00:00",
+  "MILESTONE": "PRIMAL QUARTET",
+  "TYPE": "EVENT",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 20,
+  "SEASON": "SEASON 3",
+  "DAY": 139,
+  "DATE": "2026-12-10T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 20,
+  "SEASON": "SEASON 3",
+  "DAY": 140,
+  "DATE": "2026-12-11T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/BATTLE ABYSS FORTRESS UNLOCKS.IMAGE.032819.png",
+  "WEEK": 20,
+  "SEASON": "SEASON 3",
+  "DAY": 141,
+  "DATE": "2026-12-12T09:00:00",
+  "MILESTONE": "BATTLE ABYSS FORTRESS UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 12
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_10667626606610013260.IMAGE.022917.png",
+  "WEEK": 20,
+  "SEASON": "SEASON 3",
+  "DAY": 141,
+  "DATE": "2026-12-12T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 20,
+  "SEASON": "SEASON 3",
+  "DAY": 141,
+  "DATE": "2026-12-12T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 20,
+  "SEASON": "SEASON 3",
+  "DAY": 141,
+  "DATE": "2026-12-12T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/AETHYRIS UNLOCKS.IMAGE.033728.png",
+  "WEEK": 21,
+  "SEASON": "SEASON 3",
+  "DAY": 144,
+  "DATE": "2026-12-15T09:00:00",
+  "MILESTONE": "AETHYRIS PHASE II",
+  "TYPE": "MILESTONE",
+  "LENGTH": 18
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 21,
+  "SEASON": "SEASON 3",
+  "DAY": 146,
+  "DATE": "2026-12-17T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 21,
+  "SEASON": "SEASON 3",
+  "DAY": 148,
+  "DATE": "2026-12-19T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - AETHYRIS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 21,
+  "SEASON": "SEASON 3",
+  "DAY": 148,
+  "DATE": "2026-12-19T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 21,
+  "SEASON": "SEASON 3",
+  "DAY": 148,
+  "DATE": "2026-12-19T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 22,
+  "SEASON": "SEASON 3",
+  "DAY": 153,
+  "DATE": "2026-12-24T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 22,
+  "SEASON": "SEASON 3",
+  "DAY": 154,
+  "DATE": "2026-12-25T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/PURIFICATION COURT UNLOCKS.IMAGE.032924.png",
+  "WEEK": 22,
+  "SEASON": "SEASON 3",
+  "DAY": 155,
+  "DATE": "2026-12-26T09:00:00",
+  "MILESTONE": "PURIFICATION COURT UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9461335447220753779.IMAGE.022841.png",
+  "WEEK": 22,
+  "SEASON": "SEASON 3",
+  "DAY": 155,
+  "DATE": "2026-12-26T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 22,
+  "SEASON": "SEASON 3",
+  "DAY": 155,
+  "DATE": "2026-12-26T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 22,
+  "SEASON": "SEASON 3",
+  "DAY": 155,
+  "DATE": "2026-12-26T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/MYTHIC FANTOMON RAINBOW CELESTIAL UNLOCKS.IMAGE.024037.png",
+  "WEEK": 23,
+  "SEASON": "SEASON 3",
+  "DAY": 160,
+  "DATE": "2026-12-31T09:00:00",
+  "MILESTONE": "MYTHIC FANTOMON RAINBOW CELESTIAL UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 0
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 23,
+  "SEASON": "SEASON 3",
+  "DAY": 160,
+  "DATE": "2026-12-31T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 23,
+  "SEASON": "SEASON 3",
+  "DAY": 162,
+  "DATE": "2027-01-02T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (5TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 23,
+  "SEASON": "SEASON 3",
+  "DAY": 162,
+  "DATE": "2027-01-02T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 23,
+  "SEASON": "SEASON 3",
+  "DAY": 162,
+  "DATE": "2027-01-02T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 24,
+  "SEASON": "SEASON 3",
+  "DAY": 167,
+  "DATE": "2027-01-07T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 24,
+  "SEASON": "SEASON 3",
+  "DAY": 168,
+  "DATE": "2027-01-08T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/ORDER TEMPLE UNLOCKS.IMAGE.032959.png",
+  "WEEK": 24,
+  "SEASON": "SEASON 3",
+  "DAY": 169,
+  "DATE": "2027-01-09T09:00:00",
+  "MILESTONE": "ORDER TEMPLE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_10667626606610013260.IMAGE.022917.png",
+  "WEEK": 24,
+  "SEASON": "SEASON 3",
+  "DAY": 169,
+  "DATE": "2027-01-09T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 24,
+  "SEASON": "SEASON 3",
+  "DAY": 169,
+  "DATE": "2027-01-09T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 24,
+  "SEASON": "SEASON 3",
+  "DAY": 169,
+  "DATE": "2027-01-09T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/AETHYRIS UNLOCKS.IMAGE.033728.png",
+  "WEEK": 25,
+  "SEASON": "SEASON 3",
+  "DAY": 174,
+  "DATE": "2027-01-14T09:00:00",
+  "MILESTONE": "AETHYRIS PHASE III",
+  "TYPE": "EVENT",
+  "LENGTH": 55
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 25,
+  "SEASON": "SEASON 3",
+  "DAY": 174,
+  "DATE": "2027-01-14T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 25,
+  "SEASON": "SEASON 3",
+  "DAY": 176,
+  "DATE": "2027-01-16T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - AETHYRIS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 25,
+  "SEASON": "SEASON 3",
+  "DAY": 176,
+  "DATE": "2027-01-16T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 25,
+  "SEASON": "SEASON 3",
+  "DAY": 176,
+  "DATE": "2027-01-16T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 26,
+  "SEASON": "SEASON 3",
+  "DAY": 181,
+  "DATE": "2027-01-21T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 26,
+  "SEASON": "SEASON 3",
+  "DAY": 182,
+  "DATE": "2027-01-22T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/BLAZING SUN SPIRE UNLOCKS.IMAGE.033020.png",
+  "WEEK": 26,
+  "SEASON": "SEASON 3",
+  "DAY": 183,
+  "DATE": "2027-01-23T09:00:00",
+  "MILESTONE": "BLAZING SUN SPIRE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9461335447220753779.IMAGE.022841.png",
+  "WEEK": 26,
+  "SEASON": "SEASON 3",
+  "DAY": 183,
+  "DATE": "2027-01-23T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 26,
+  "SEASON": "SEASON 3",
+  "DAY": 183,
+  "DATE": "2027-01-23T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 26,
+  "SEASON": "SEASON 3",
+  "DAY": 183,
+  "DATE": "2027-01-23T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 27,
+  "SEASON": "SEASON 3",
+  "DAY": 188,
+  "DATE": "2027-01-28T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 27,
+  "SEASON": "SEASON 3",
+  "DAY": 190,
+  "DATE": "2027-01-30T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (5TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 27,
+  "SEASON": "SEASON 3",
+  "DAY": 190,
+  "DATE": "2027-01-30T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 27,
+  "SEASON": "SEASON 3",
+  "DAY": 190,
+  "DATE": "2027-01-30T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 28,
+  "SEASON": "SEASON 3",
+  "DAY": 195,
+  "DATE": "2027-02-04T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 28,
+  "SEASON": "SEASON 3",
+  "DAY": 196,
+  "DATE": "2027-02-05T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/SOVEREIGN-S NEST.IMAGE.033221.png",
+  "WEEK": 28,
+  "SEASON": "SEASON 3",
+  "DAY": 197,
+  "DATE": "2027-02-06T09:00:00",
+  "MILESTONE": "SOVEREIGN'S NEST",
+  "TYPE": "MILESTONE",
+  "LENGTH": 0
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_10667626606610013260.IMAGE.022917.png",
+  "WEEK": 28,
+  "SEASON": "SEASON 3",
+  "DAY": 197,
+  "DATE": "2027-02-06T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 28,
+  "SEASON": "SEASON 3",
+  "DAY": 197,
+  "DATE": "2027-02-06T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 28,
+  "SEASON": "SEASON 3",
+  "DAY": 197,
+  "DATE": "2027-02-06T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 29,
+  "SEASON": "SEASON 3",
+  "DAY": 202,
+  "DATE": "2027-02-11T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/SOVEREIGN-S NEST ABYSS DIFFICULTY UNLOCKS.IMAGE.033240.png",
+  "WEEK": 29,
+  "SEASON": "SEASON 3",
+  "DAY": 203,
+  "DATE": "2027-02-12T09:00:00",
+  "MILESTONE": "SOVEREIGN'S NEST ABYSS DIFFICULTY UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 39
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 29,
+  "SEASON": "SEASON 3",
+  "DAY": 204,
+  "DATE": "2027-02-13T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - AETHYRIS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 29,
+  "SEASON": "SEASON 3",
+  "DAY": 204,
+  "DATE": "2027-02-13T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 29,
+  "SEASON": "SEASON 3",
+  "DAY": 204,
+  "DATE": "2027-02-13T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 30,
+  "SEASON": "SEASON 3",
+  "DAY": 209,
+  "DATE": "2027-02-18T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 30,
+  "SEASON": "SEASON 3",
+  "DAY": 210,
+  "DATE": "2027-02-19T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9461335447220753779.IMAGE.022841.png",
+  "WEEK": 30,
+  "SEASON": "SEASON 3",
+  "DAY": 211,
+  "DATE": "2027-02-20T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 30,
+  "SEASON": "SEASON 3",
+  "DAY": 211,
+  "DATE": "2027-02-20T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 30,
+  "SEASON": "SEASON 3",
+  "DAY": 211,
+  "DATE": "2027-02-20T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/HAPADI UNLOCKS.IMAGE.033334.png",
+  "WEEK": 31,
+  "SEASON": "SEASON 4",
+  "DAY": 215,
+  "DATE": "2027-02-24T09:00:00",
+  "MILESTONE": "HAPADI",
+  "TYPE": "MILESTONE",
+  "LENGTH": 101
+ },
+ {
+  "IMAGE": "Milestones_Images/WONDERFUL CLOCK TOWER UNLOCKS.IMAGE.033357.png",
+  "WEEK": 31,
+  "SEASON": "SEASON 4",
+  "DAY": 215,
+  "DATE": "2027-02-24T09:00:00",
+  "MILESTONE": "WONDERFUL CLOCK TOWER UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 8
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 31,
+  "SEASON": "SEASON 4",
+  "DAY": 216,
+  "DATE": "2027-02-25T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 31,
+  "SEASON": "SEASON 4",
+  "DAY": 218,
+  "DATE": "2027-02-27T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 31,
+  "SEASON": "SEASON 4",
+  "DAY": 218,
+  "DATE": "2027-02-27T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (6TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 31,
+  "SEASON": "SEASON 4",
+  "DAY": 218,
+  "DATE": "2027-02-27T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 32,
+  "SEASON": "SEASON 4",
+  "DAY": 223,
+  "DATE": "2027-03-04T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 32,
+  "SEASON": "SEASON 4",
+  "DAY": 224,
+  "DATE": "2027-03-05T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 32,
+  "SEASON": "SEASON 4",
+  "DAY": 225,
+  "DATE": "2027-03-06T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 32,
+  "SEASON": "SEASON 4",
+  "DAY": 225,
+  "DATE": "2027-03-06T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 32,
+  "SEASON": "SEASON 4",
+  "DAY": 225,
+  "DATE": "2027-03-06T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/PARADISE PIRATE SHIP UNLOCKS.IMAGE.033427.png",
+  "WEEK": 33,
+  "SEASON": "SEASON 4",
+  "DAY": 228,
+  "DATE": "2027-03-09T09:00:00",
+  "MILESTONE": "PARADISE PIRATE SHIP UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 9
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 33,
+  "SEASON": "SEASON 4",
+  "DAY": 229,
+  "DATE": "2027-03-10T09:00:00",
+  "MILESTONE": "TIME LOCKED SEASON MAP: ABSURD PARADISE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 73
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 33,
+  "SEASON": "SEASON 4",
+  "DAY": 230,
+  "DATE": "2027-03-11T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 33,
+  "SEASON": "SEASON 4",
+  "DAY": 232,
+  "DATE": "2027-03-13T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 33,
+  "SEASON": "SEASON 4",
+  "DAY": 232,
+  "DATE": "2027-03-13T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - HAPADI)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 33,
+  "SEASON": "SEASON 4",
+  "DAY": 232,
+  "DATE": "2027-03-13T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 34,
+  "SEASON": "SEASON 4",
+  "DAY": 237,
+  "DATE": "2027-03-18T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 34,
+  "SEASON": "SEASON 4",
+  "DAY": 238,
+  "DATE": "2027-03-19T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 34,
+  "SEASON": "SEASON 4",
+  "DAY": 239,
+  "DATE": "2027-03-20T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 34,
+  "SEASON": "SEASON 4",
+  "DAY": 239,
+  "DATE": "2027-03-20T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 34,
+  "SEASON": "SEASON 4",
+  "DAY": 239,
+  "DATE": "2027-03-20T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/PRIMAL QUARTET.1st Slot Image.142309.png",
+  "WEEK": 34,
+  "SEASON": "SEASON 4",
+  "DAY": 239,
+  "DATE": "2027-03-20T09:00:00",
+  "MILESTONE": "PRIMAL QUARTET",
+  "TYPE": "EVENT",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "Milestones_Images/POSEIDONS SUBMARINE UNLOCKS.IMAGE.033436.png",
+  "WEEK": 35,
+  "SEASON": "SEASON 4",
+  "DAY": 242,
+  "DATE": "2027-03-23T09:00:00",
+  "MILESTONE": "POSEIDON'S SUBMARINE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 9
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 35,
+  "SEASON": "SEASON 4",
+  "DAY": 244,
+  "DATE": "2027-03-25T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 35,
+  "SEASON": "SEASON 4",
+  "DAY": 246,
+  "DATE": "2027-03-27T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 35,
+  "SEASON": "SEASON 4",
+  "DAY": 246,
+  "DATE": "2027-03-27T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (6TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 35,
+  "SEASON": "SEASON 4",
+  "DAY": 246,
+  "DATE": "2027-03-27T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 36,
+  "SEASON": "SEASON 4",
+  "DAY": 251,
+  "DATE": "2027-04-01T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 36,
+  "SEASON": "SEASON 4",
+  "DAY": 252,
+  "DATE": "2027-04-02T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 36,
+  "SEASON": "SEASON 4",
+  "DAY": 253,
+  "DATE": "2027-04-03T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 36,
+  "SEASON": "SEASON 4",
+  "DAY": 253,
+  "DATE": "2027-04-03T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 36,
+  "SEASON": "SEASON 4",
+  "DAY": 253,
+  "DATE": "2027-04-03T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CLOCKWORK FORTRESS UNLOCKS.IMAGE.033515.png",
+  "WEEK": 37,
+  "SEASON": "SEASON 4",
+  "DAY": 256,
+  "DATE": "2027-04-06T09:00:00",
+  "MILESTONE": "CLOCKWORK FORTRESS UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 9
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 37,
+  "SEASON": "SEASON 4",
+  "DAY": 258,
+  "DATE": "2027-04-08T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 37,
+  "SEASON": "SEASON 4",
+  "DAY": 260,
+  "DATE": "2027-04-10T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 37,
+  "SEASON": "SEASON 4",
+  "DAY": 260,
+  "DATE": "2027-04-10T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - HAPADI)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 37,
+  "SEASON": "SEASON 4",
+  "DAY": 260,
+  "DATE": "2027-04-10T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 38,
+  "SEASON": "SEASON 4",
+  "DAY": 265,
+  "DATE": "2027-04-15T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 38,
+  "SEASON": "SEASON 4",
+  "DAY": 266,
+  "DATE": "2027-04-16T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 38,
+  "SEASON": "SEASON 4",
+  "DAY": 267,
+  "DATE": "2027-04-17T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 38,
+  "SEASON": "SEASON 4",
+  "DAY": 267,
+  "DATE": "2027-04-17T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 38,
+  "SEASON": "SEASON 4",
+  "DAY": 267,
+  "DATE": "2027-04-17T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CELESTIAL OBSERVATORY UNLOCKS.IMAGE.033535.png",
+  "WEEK": 39,
+  "SEASON": "SEASON 4",
+  "DAY": 270,
+  "DATE": "2027-04-20T09:00:00",
+  "MILESTONE": "CELESTIAL OBSERVATORY UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 9
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 39,
+  "SEASON": "SEASON 4",
+  "DAY": 272,
+  "DATE": "2027-04-22T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 39,
+  "SEASON": "SEASON 4",
+  "DAY": 274,
+  "DATE": "2027-04-24T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 39,
+  "SEASON": "SEASON 4",
+  "DAY": 274,
+  "DATE": "2027-04-24T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (6TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 39,
+  "SEASON": "SEASON 4",
+  "DAY": 274,
+  "DATE": "2027-04-24T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 40,
+  "SEASON": "SEASON 4",
+  "DAY": 279,
+  "DATE": "2027-04-29T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 40,
+  "SEASON": "SEASON 4",
+  "DAY": 280,
+  "DATE": "2027-04-30T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 40,
+  "SEASON": "SEASON 4",
+  "DAY": 281,
+  "DATE": "2027-05-01T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 40,
+  "SEASON": "SEASON 4",
+  "DAY": 281,
+  "DATE": "2027-05-01T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 40,
+  "SEASON": "SEASON 4",
+  "DAY": 281,
+  "DATE": "2027-05-01T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/TITAN HOT AIR BALLOON UNLOCKS.IMAGE.033549.png",
+  "WEEK": 41,
+  "SEASON": "SEASON 4",
+  "DAY": 284,
+  "DATE": "2027-05-04T09:00:00",
+  "MILESTONE": "TITAN HOT AIR BALLOON UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 9
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 41,
+  "SEASON": "SEASON 4",
+  "DAY": 286,
+  "DATE": "2027-05-06T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 41,
+  "SEASON": "SEASON 4",
+  "DAY": 288,
+  "DATE": "2027-05-08T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 41,
+  "SEASON": "SEASON 4",
+  "DAY": 288,
+  "DATE": "2027-05-08T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - HAPADI)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 41,
+  "SEASON": "SEASON 4",
+  "DAY": 288,
+  "DATE": "2027-05-08T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 42,
+  "SEASON": "SEASON 4",
+  "DAY": 293,
+  "DATE": "2027-05-13T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 42,
+  "SEASON": "SEASON 4",
+  "DAY": 294,
+  "DATE": "2027-05-14T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 42,
+  "SEASON": "SEASON 4",
+  "DAY": 295,
+  "DATE": "2027-05-15T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 42,
+  "SEASON": "SEASON 4",
+  "DAY": 295,
+  "DATE": "2027-05-15T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 42,
+  "SEASON": "SEASON 4",
+  "DAY": 295,
+  "DATE": "2027-05-15T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/STAR CITY UNLOCKS.IMAGE.033602.png",
+  "WEEK": 43,
+  "SEASON": "SEASON 4",
+  "DAY": 298,
+  "DATE": "2027-05-18T09:00:00",
+  "MILESTONE": "STAR CITY UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 38
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 43,
+  "SEASON": "SEASON 4",
+  "DAY": 300,
+  "DATE": "2027-05-20T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 43,
+  "SEASON": "SEASON 4",
+  "DAY": 302,
+  "DATE": "2027-05-22T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 43,
+  "SEASON": "SEASON 4",
+  "DAY": 302,
+  "DATE": "2027-05-22T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (6TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 43,
+  "SEASON": "SEASON 4",
+  "DAY": 302,
+  "DATE": "2027-05-22T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 44,
+  "SEASON": "SEASON 4",
+  "DAY": 307,
+  "DATE": "2027-05-27T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 44,
+  "SEASON": "SEASON 4",
+  "DAY": 308,
+  "DATE": "2027-05-28T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 44,
+  "SEASON": "SEASON 4",
+  "DAY": 309,
+  "DATE": "2027-05-29T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 44,
+  "SEASON": "SEASON 4",
+  "DAY": 309,
+  "DATE": "2027-05-29T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 44,
+  "SEASON": "SEASON 4",
+  "DAY": 309,
+  "DATE": "2027-05-29T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 45,
+  "SEASON": "SEASON 4",
+  "DAY": 314,
+  "DATE": "2027-06-03T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 45,
+  "SEASON": "SEASON 4",
+  "DAY": 316,
+  "DATE": "2027-06-05T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/IGNIS.IMAGE.033627.png",
+  "WEEK": 45,
+  "SEASON": "SEASON 5",
+  "DAY": 316,
+  "DATE": "2027-06-05T09:00:00",
+  "MILESTONE": "IGNIS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 101
+ },
+ {
+  "IMAGE": "Milestones_Images/ICE SPIRE UNLOCKS.IMAGE.033812.png",
+  "WEEK": 45,
+  "SEASON": "SEASON 5",
+  "DAY": 316,
+  "DATE": "2027-06-05T09:00:00",
+  "MILESTONE": "ICE SPIRE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 45,
+  "SEASON": "SEASON 5",
+  "DAY": 316,
+  "DATE": "2027-06-05T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - HAPADI)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 45,
+  "SEASON": "SEASON 5",
+  "DAY": 316,
+  "DATE": "2027-06-05T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 46,
+  "SEASON": "SEASON 5",
+  "DAY": 321,
+  "DATE": "2027-06-10T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 46,
+  "SEASON": "SEASON 5",
+  "DAY": 322,
+  "DATE": "2027-06-11T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 46,
+  "SEASON": "SEASON 5",
+  "DAY": 323,
+  "DATE": "2027-06-12T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 46,
+  "SEASON": "SEASON 5",
+  "DAY": 323,
+  "DATE": "2027-06-12T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS / TRAVEL BAG)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 46,
+  "SEASON": "SEASON 5",
+  "DAY": 323,
+  "DATE": "2027-06-12T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 47,
+  "SEASON": "SEASON 5",
+  "DAY": 328,
+  "DATE": "2027-06-17T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/BLACKROCK RUINS UNLOCKS.IMAGE.033831.png",
+  "WEEK": 47,
+  "SEASON": "SEASON 5",
+  "DAY": 329,
+  "DATE": "2027-06-18T09:00:00",
+  "MILESTONE": "BLACKROCK RUINS UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 47,
+  "SEASON": "SEASON 5",
+  "DAY": 330,
+  "DATE": "2027-06-19T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 47,
+  "SEASON": "SEASON 5",
+  "DAY": 330,
+  "DATE": "2027-06-19T09:00:00",
+  "MILESTONE": "TIME LOCKED SEASON MAP: FROSTFIRE JOURNEY",
+  "TYPE": "MILESTONE",
+  "LENGTH": 49
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 47,
+  "SEASON": "SEASON 5",
+  "DAY": 330,
+  "DATE": "2027-06-19T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (7TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 47,
+  "SEASON": "SEASON 5",
+  "DAY": 330,
+  "DATE": "2027-06-19T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 48,
+  "SEASON": "SEASON 5",
+  "DAY": 335,
+  "DATE": "2027-06-24T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 48,
+  "SEASON": "SEASON 5",
+  "DAY": 336,
+  "DATE": "2027-06-25T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 48,
+  "SEASON": "SEASON 5",
+  "DAY": 337,
+  "DATE": "2027-06-26T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 48,
+  "SEASON": "SEASON 5",
+  "DAY": 337,
+  "DATE": "2027-06-26T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR / MANEKI STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 48,
+  "SEASON": "SEASON 5",
+  "DAY": 337,
+  "DATE": "2027-06-26T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/PRIMAL QUARTET.1st Slot Image.142309.png",
+  "WEEK": 49,
+  "SEASON": "SEASON 5",
+  "DAY": 340,
+  "DATE": "2027-06-29T09:00:00",
+  "MILESTONE": "PRIMAL QUARTET",
+  "TYPE": "EVENT",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 49,
+  "SEASON": "SEASON 5",
+  "DAY": 342,
+  "DATE": "2027-07-01T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/EVERFROST CASTLE UNLOCKS.IMAGE.033852.png",
+  "WEEK": 49,
+  "SEASON": "SEASON 5",
+  "DAY": 343,
+  "DATE": "2027-07-02T09:00:00",
+  "MILESTONE": "EVERFROST CASTLE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 49,
+  "SEASON": "SEASON 5",
+  "DAY": 344,
+  "DATE": "2027-07-03T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 49,
+  "SEASON": "SEASON 5",
+  "DAY": 344,
+  "DATE": "2027-07-03T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - IGNIS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 49,
+  "SEASON": "SEASON 5",
+  "DAY": 344,
+  "DATE": "2027-07-03T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 50,
+  "SEASON": "SEASON 5",
+  "DAY": 349,
+  "DATE": "2027-07-08T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 50,
+  "SEASON": "SEASON 5",
+  "DAY": 350,
+  "DATE": "2027-07-09T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 50,
+  "SEASON": "SEASON 5",
+  "DAY": 351,
+  "DATE": "2027-07-10T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 50,
+  "SEASON": "SEASON 5",
+  "DAY": 351,
+  "DATE": "2027-07-10T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS / TRAVEL BAG)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 50,
+  "SEASON": "SEASON 5",
+  "DAY": 351,
+  "DATE": "2027-07-10T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 51,
+  "SEASON": "SEASON 5",
+  "DAY": 356,
+  "DATE": "2027-07-15T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/THRONE OF INFERNO UNLOCKS.IMAGE.033907.png",
+  "WEEK": 51,
+  "SEASON": "SEASON 5",
+  "DAY": 357,
+  "DATE": "2027-07-16T09:00:00",
+  "MILESTONE": "THRONE OF INFERNO UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 51,
+  "SEASON": "SEASON 5",
+  "DAY": 358,
+  "DATE": "2027-07-17T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 51,
+  "SEASON": "SEASON 5",
+  "DAY": 358,
+  "DATE": "2027-07-17T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (7TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 51,
+  "SEASON": "SEASON 5",
+  "DAY": 358,
+  "DATE": "2027-07-17T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 52,
+  "SEASON": "SEASON 5",
+  "DAY": 363,
+  "DATE": "2027-07-22T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 52,
+  "SEASON": "SEASON 5",
+  "DAY": 364,
+  "DATE": "2027-07-23T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 52,
+  "SEASON": "SEASON 5",
+  "DAY": 365,
+  "DATE": "2027-07-24T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 52,
+  "SEASON": "SEASON 5",
+  "DAY": 365,
+  "DATE": "2027-07-24T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR / MANEKI STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 52,
+  "SEASON": "SEASON 5",
+  "DAY": 365,
+  "DATE": "2027-07-24T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 53,
+  "SEASON": "SEASON 5",
+  "DAY": 370,
+  "DATE": "2027-07-29T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/MOON PALACE UNLOCKS.IMAGE.033921.png",
+  "WEEK": 53,
+  "SEASON": "SEASON 5",
+  "DAY": 371,
+  "DATE": "2027-07-30T09:00:00",
+  "MILESTONE": "MOON PALACE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 53,
+  "SEASON": "SEASON 5",
+  "DAY": 372,
+  "DATE": "2027-07-31T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 53,
+  "SEASON": "SEASON 5",
+  "DAY": 372,
+  "DATE": "2027-07-31T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - IGNIS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 53,
+  "SEASON": "SEASON 5",
+  "DAY": 372,
+  "DATE": "2027-07-31T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 54,
+  "SEASON": "SEASON 5",
+  "DAY": 377,
+  "DATE": "2027-08-05T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 54,
+  "SEASON": "SEASON 5",
+  "DAY": 378,
+  "DATE": "2027-08-06T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 54,
+  "SEASON": "SEASON 5",
+  "DAY": 379,
+  "DATE": "2027-08-07T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 54,
+  "SEASON": "SEASON 5",
+  "DAY": 379,
+  "DATE": "2027-08-07T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS / TRAVEL BAG)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 54,
+  "SEASON": "SEASON 5",
+  "DAY": 379,
+  "DATE": "2027-08-07T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 55,
+  "SEASON": "SEASON 5",
+  "DAY": 384,
+  "DATE": "2027-08-12T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CRIMSON WEDGE UNLOCKS.IMAGE.033941.png",
+  "WEEK": 55,
+  "SEASON": "SEASON 5",
+  "DAY": 385,
+  "DATE": "2027-08-13T09:00:00",
+  "MILESTONE": "CRIMSON WEDGE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 55,
+  "SEASON": "SEASON 5",
+  "DAY": 386,
+  "DATE": "2027-08-14T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 55,
+  "SEASON": "SEASON 5",
+  "DAY": 386,
+  "DATE": "2027-08-14T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (7TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 55,
+  "SEASON": "SEASON 5",
+  "DAY": 386,
+  "DATE": "2027-08-14T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 56,
+  "SEASON": "SEASON 5",
+  "DAY": 391,
+  "DATE": "2027-08-19T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 56,
+  "SEASON": "SEASON 5",
+  "DAY": 392,
+  "DATE": "2027-08-20T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 56,
+  "SEASON": "SEASON 5",
+  "DAY": 393,
+  "DATE": "2027-08-21T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 56,
+  "SEASON": "SEASON 5",
+  "DAY": 393,
+  "DATE": "2027-08-21T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR / MANEKI STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 56,
+  "SEASON": "SEASON 5",
+  "DAY": 393,
+  "DATE": "2027-08-21T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 57,
+  "SEASON": "SEASON 5",
+  "DAY": 398,
+  "DATE": "2027-08-26T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/ORIGIN GATE UNLOCKS.IMAGE.033956.png",
+  "WEEK": 57,
+  "SEASON": "SEASON 5",
+  "DAY": 399,
+  "DATE": "2027-08-27T09:00:00",
+  "MILESTONE": "ORIGIN GATE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 15
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 57,
+  "SEASON": "SEASON 5",
+  "DAY": 400,
+  "DATE": "2027-08-28T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - IGNIS)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 57,
+  "SEASON": "SEASON 5",
+  "DAY": 400,
+  "DATE": "2027-08-28T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 57,
+  "SEASON": "SEASON 5",
+  "DAY": 400,
+  "DATE": "2027-08-28T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 58,
+  "SEASON": "SEASON 5",
+  "DAY": 405,
+  "DATE": "2027-09-02T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 58,
+  "SEASON": "SEASON 5",
+  "DAY": 406,
+  "DATE": "2027-09-03T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 58,
+  "SEASON": "SEASON 5",
+  "DAY": 407,
+  "DATE": "2027-09-04T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS / TRAVEL BAG)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 58,
+  "SEASON": "SEASON 5",
+  "DAY": 407,
+  "DATE": "2027-09-04T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 58,
+  "SEASON": "SEASON 5",
+  "DAY": 407,
+  "DATE": "2027-09-04T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 59,
+  "SEASON": "SEASON 5",
+  "DAY": 412,
+  "DATE": "2027-09-09T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 59,
+  "SEASON": "SEASON 5",
+  "DAY": 414,
+  "DATE": "2027-09-11T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (7TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 59,
+  "SEASON": "SEASON 5",
+  "DAY": 414,
+  "DATE": "2027-09-11T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 59,
+  "SEASON": "SEASON 5",
+  "DAY": 414,
+  "DATE": "2027-09-11T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/APEX UNLOCKS.IMAGE.045329.jpg",
+  "WEEK": 60,
+  "SEASON": "SEASON 6",
+  "DAY": 417,
+  "DATE": "2027-09-14T09:00:00",
+  "MILESTONE": "APEX",
+  "TYPE": "MILESTONE",
+  "LENGTH": 101
+ },
+ {
+  "IMAGE": "Dungeon Data_Images/Hurricane Pillar.IMAGE.164944.jpg",
+  "WEEK": 60,
+  "SEASON": "SEASON 6",
+  "DAY": 417,
+  "DATE": "2027-09-14T09:00:00",
+  "MILESTONE": "HURRICANE PILLAR UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 13
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 60,
+  "SEASON": "SEASON 6",
+  "DAY": 419,
+  "DATE": "2027-09-16T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 60,
+  "SEASON": "SEASON 6",
+  "DAY": 420,
+  "DATE": "2027-09-17T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 60,
+  "SEASON": "SEASON 6",
+  "DAY": 421,
+  "DATE": "2027-09-18T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 60,
+  "SEASON": "SEASON 6",
+  "DAY": 421,
+  "DATE": "2027-09-18T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR / MANEKI STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 60,
+  "SEASON": "SEASON 6",
+  "DAY": 421,
+  "DATE": "2027-09-18T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 61,
+  "SEASON": "SEASON 6",
+  "DAY": 426,
+  "DATE": "2027-09-23T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 61,
+  "SEASON": "SEASON 6",
+  "DAY": 428,
+  "DATE": "2027-09-25T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 61,
+  "SEASON": "SEASON 6",
+  "DAY": 428,
+  "DATE": "2027-09-25T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - APEX)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 61,
+  "SEASON": "SEASON 6",
+  "DAY": 428,
+  "DATE": "2027-09-25T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Dungeon Data_Images/Tide Temple.IMAGE.164957.jpg",
+  "WEEK": 61,
+  "SEASON": "SEASON 6",
+  "DAY": 430,
+  "DATE": "2027-09-27T09:00:00",
+  "MILESTONE": "TIDE TEMPLE UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 62,
+  "SEASON": "SEASON 6",
+  "DAY": 431,
+  "DATE": "2027-09-28T09:00:00",
+  "MILESTONE": "TIME LOCKED SEASON MAP: THE INNER WORLD",
+  "TYPE": "MILESTONE",
+  "LENGTH": 87
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 62,
+  "SEASON": "SEASON 6",
+  "DAY": 433,
+  "DATE": "2027-09-30T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 62,
+  "SEASON": "SEASON 6",
+  "DAY": 434,
+  "DATE": "2027-10-01T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 62,
+  "SEASON": "SEASON 6",
+  "DAY": 435,
+  "DATE": "2027-10-02T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 62,
+  "SEASON": "SEASON 6",
+  "DAY": 435,
+  "DATE": "2027-10-02T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 62,
+  "SEASON": "SEASON 6",
+  "DAY": 435,
+  "DATE": "2027-10-02T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS / TRAVEL BAG)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 63,
+  "SEASON": "SEASON 6",
+  "DAY": 440,
+  "DATE": "2027-10-07T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/PRIMAL QUARTET.1st Slot Image.142309.png",
+  "WEEK": 63,
+  "SEASON": "SEASON 6",
+  "DAY": 441,
+  "DATE": "2027-10-08T09:00:00",
+  "MILESTONE": "PRIMAL QUARTET",
+  "TYPE": "EVENT",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 63,
+  "SEASON": "SEASON 6",
+  "DAY": 442,
+  "DATE": "2027-10-09T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 63,
+  "SEASON": "SEASON 6",
+  "DAY": 442,
+  "DATE": "2027-10-09T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 63,
+  "SEASON": "SEASON 6",
+  "DAY": 442,
+  "DATE": "2027-10-09T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (8TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Dungeon Data_Images/Burning Crystal City.IMAGE.165108.jpg",
+  "WEEK": 63,
+  "SEASON": "SEASON 6",
+  "DAY": 444,
+  "DATE": "2027-10-11T09:00:00",
+  "MILESTONE": "BURNING CRYSTAL CITY UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 64,
+  "SEASON": "SEASON 6",
+  "DAY": 447,
+  "DATE": "2027-10-14T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 64,
+  "SEASON": "SEASON 6",
+  "DAY": 448,
+  "DATE": "2027-10-15T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 64,
+  "SEASON": "SEASON 6",
+  "DAY": 449,
+  "DATE": "2027-10-16T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 64,
+  "SEASON": "SEASON 6",
+  "DAY": 449,
+  "DATE": "2027-10-16T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 64,
+  "SEASON": "SEASON 6",
+  "DAY": 449,
+  "DATE": "2027-10-16T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR / MANEKI STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 65,
+  "SEASON": "SEASON 6",
+  "DAY": 454,
+  "DATE": "2027-10-21T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 65,
+  "SEASON": "SEASON 6",
+  "DAY": 456,
+  "DATE": "2027-10-23T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 65,
+  "SEASON": "SEASON 6",
+  "DAY": 456,
+  "DATE": "2027-10-23T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 65,
+  "SEASON": "SEASON 6",
+  "DAY": 456,
+  "DATE": "2027-10-23T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - APEX)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Dungeon Data_Images/Panyan Battle Formation.IMAGE.165328.jpg",
+  "WEEK": 65,
+  "SEASON": "SEASON 6",
+  "DAY": 458,
+  "DATE": "2027-10-25T09:00:00",
+  "MILESTONE": "PANYAN BATTLE FORMATION UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 66,
+  "SEASON": "SEASON 6",
+  "DAY": 461,
+  "DATE": "2027-10-28T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 66,
+  "SEASON": "SEASON 6",
+  "DAY": 462,
+  "DATE": "2027-10-29T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 66,
+  "SEASON": "SEASON 6",
+  "DAY": 463,
+  "DATE": "2027-10-30T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 66,
+  "SEASON": "SEASON 6",
+  "DAY": 463,
+  "DATE": "2027-10-30T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 66,
+  "SEASON": "SEASON 6",
+  "DAY": 463,
+  "DATE": "2027-10-30T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS / TRAVEL BAG)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 67,
+  "SEASON": "SEASON 6",
+  "DAY": 468,
+  "DATE": "2027-11-04T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 67,
+  "SEASON": "SEASON 6",
+  "DAY": 470,
+  "DATE": "2027-11-06T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 67,
+  "SEASON": "SEASON 6",
+  "DAY": 470,
+  "DATE": "2027-11-06T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 67,
+  "SEASON": "SEASON 6",
+  "DAY": 470,
+  "DATE": "2027-11-06T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (8TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Dungeon Data_Images/Holy Dawn Court.IMAGE.165650.jpg",
+  "WEEK": 67,
+  "SEASON": "SEASON 6",
+  "DAY": 472,
+  "DATE": "2027-11-08T09:00:00",
+  "MILESTONE": "HOLY DAWN COURT UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 68,
+  "SEASON": "SEASON 6",
+  "DAY": 475,
+  "DATE": "2027-11-11T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 68,
+  "SEASON": "SEASON 6",
+  "DAY": 476,
+  "DATE": "2027-11-12T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 68,
+  "SEASON": "SEASON 6",
+  "DAY": 477,
+  "DATE": "2027-11-13T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 68,
+  "SEASON": "SEASON 6",
+  "DAY": 477,
+  "DATE": "2027-11-13T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 68,
+  "SEASON": "SEASON 6",
+  "DAY": 477,
+  "DATE": "2027-11-13T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR / MANEKI STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 69,
+  "SEASON": "SEASON 6",
+  "DAY": 482,
+  "DATE": "2027-11-18T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 69,
+  "SEASON": "SEASON 6",
+  "DAY": 484,
+  "DATE": "2027-11-20T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 69,
+  "SEASON": "SEASON 6",
+  "DAY": 484,
+  "DATE": "2027-11-20T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 69,
+  "SEASON": "SEASON 6",
+  "DAY": 484,
+  "DATE": "2027-11-20T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - APEX)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Dungeon Data_Images/Abyss.IMAGE.165727.jpg",
+  "WEEK": 69,
+  "SEASON": "SEASON 6",
+  "DAY": 486,
+  "DATE": "2027-11-22T09:00:00",
+  "MILESTONE": "ABYSSAL FORTRESS UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 70,
+  "SEASON": "SEASON 6",
+  "DAY": 489,
+  "DATE": "2027-11-25T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 70,
+  "SEASON": "SEASON 6",
+  "DAY": 490,
+  "DATE": "2027-11-26T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 2V2",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 70,
+  "SEASON": "SEASON 6",
+  "DAY": 491,
+  "DATE": "2027-11-27T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 70,
+  "SEASON": "SEASON 6",
+  "DAY": 491,
+  "DATE": "2027-11-27T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (LUCKY STATUE -_9201699091862434494.IMAGE.022442.png",
+  "WEEK": 70,
+  "SEASON": "SEASON 6",
+  "DAY": 491,
+  "DATE": "2027-11-27T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (LUCKY STATUE / SACRED TREE / ENDLESS HOURGLASS / TRAVEL BAG)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 71,
+  "SEASON": "SEASON 6",
+  "DAY": 496,
+  "DATE": "2027-12-02T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 71,
+  "SEASON": "SEASON 6",
+  "DAY": 498,
+  "DATE": "2027-12-04T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY BINGO.1st Slot Image.000503.png",
+  "WEEK": 71,
+  "SEASON": "SEASON 6",
+  "DAY": 498,
+  "DATE": "2027-12-04T09:00:00",
+  "MILESTONE": "LUCKY BINGO",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (4TH JOB SKILL FRAGMENT).IMAGE.001241.png",
+  "WEEK": 71,
+  "SEASON": "SEASON 6",
+  "DAY": 498,
+  "DATE": "2027-12-04T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (8TH JOB SKILL FRAGMENT)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Dungeon Data_Images/Tianyun Fortress.IMAGE.165454.jpg",
+  "WEEK": 71,
+  "SEASON": "SEASON 6",
+  "DAY": 500,
+  "DATE": "2027-12-06T09:00:00",
+  "MILESTONE": "TIANYUN FORTRESS UNLOCKS",
+  "TYPE": "MILESTONE",
+  "LENGTH": 14
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 72,
+  "SEASON": "SEASON 6",
+  "DAY": 503,
+  "DATE": "2027-12-09T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Event Details_Images/NEXUS TOURNAMENT 4V4.1st Slot Image.135504.png",
+  "WEEK": 72,
+  "SEASON": "SEASON 6",
+  "DAY": 504,
+  "DATE": "2027-12-10T09:00:00",
+  "MILESTONE": "NEXUS TOURNAMENT 4V4",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/VOID RIFT.IMAGE.035640.png",
+  "WEEK": 72,
+  "SEASON": "SEASON 6",
+  "DAY": 505,
+  "DATE": "2027-12-11T09:00:00",
+  "MILESTONE": "VOID RIFT",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/LUCKY SCRATCH CARD.1st Slot Image.000358.png",
+  "WEEK": 72,
+  "SEASON": "SEASON 6",
+  "DAY": 505,
+  "DATE": "2027-12-11T09:00:00",
+  "MILESTONE": "LUCKY SCRATCH CARD",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Milestones_Images/GRAND TREASURE HUNT (PRIMAL GEM - P_8257379625944050658.IMAGE.022501.png",
+  "WEEK": 72,
+  "SEASON": "SEASON 6",
+  "DAY": 505,
+  "DATE": "2027-12-11T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (PRIMAL GEM / PHILOSOPHERS STONE / TREASURE DETECTOR / MANEKI STATUE)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 73,
+  "SEASON": "SEASON 6",
+  "DAY": 510,
+  "DATE": "2027-12-16T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "Milestones_Images/CHAOS INVASION.IMAGE.035933.png",
+  "WEEK": 73,
+  "SEASON": "SEASON 6",
+  "DAY": 512,
+  "DATE": "2027-12-18T09:00:00",
+  "MILESTONE": "CHAOS INVASION",
+  "TYPE": "EVENT",
+  "LENGTH": 1
+ },
+ {
+  "IMAGE": "Event Details_Images/FONIKS PUZZLE.1st Slot Image.000441.png",
+  "WEEK": 73,
+  "SEASON": "SEASON 6",
+  "DAY": 512,
+  "DATE": "2027-12-18T09:00:00",
+  "MILESTONE": "FONIKS PUZZLE",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "Event Details_Images/19.1st Slot Image.153458.jpg",
+  "WEEK": 73,
+  "SEASON": "SEASON 6",
+  "DAY": 512,
+  "DATE": "2027-12-18T09:00:00",
+  "MILESTONE": "GRAND TREASURE HUNT (MYTHIC RELIC BOX - APEX)",
+  "TYPE": "EVENT",
+  "LENGTH": 7
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 74,
+  "SEASON": "SEASON 6",
+  "DAY": 517,
+  "DATE": "2027-12-23T09:00:00",
+  "MILESTONE": "SERVER TOURNAMENT",
+  "TYPE": "EVENT",
+  "LENGTH": 2
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 74,
+  "SEASON": "SEASON 7",
+  "DAY": 518,
+  "DATE": "2027-12-24T09:00:00",
+  "MILESTONE": "TENTATIVE NEW SEASON",
+  "TYPE": "",
+  "LENGTH": ""
+ },
+ {
+  "IMAGE": "",
+  "WEEK": 74,
+  "SEASON": "",
+  "DAY": 518,
+  "DATE": "2027-12-24T09:00:00",
+  "MILESTONE": "",
+  "TYPE": "",
+  "LENGTH": ""
+ }
+]

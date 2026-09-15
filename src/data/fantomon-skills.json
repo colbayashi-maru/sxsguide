@@ -1,0 +1,422 @@
+[
+ {
+  "Name": "Trickster",
+  "Type": "Baby",
+  "Skill Image": "",
+  "Skill Name": "",
+  "Skill": ""
+ },
+ {
+  "Name": "Trickster",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "",
+  "Skill": ""
+ },
+ {
+  "Name": "Trickster",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "",
+  "Skill": ""
+ },
+ {
+  "Name": "Trickster",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "",
+  "Skill": ""
+ },
+ {
+  "Name": "Pandarial",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/2.Skill Image.023037.jpg",
+  "Skill Name": "Ink Burst",
+  "Skill": "Support (Passive): At the start of battle, reduces the duration of all self-attack skills by 1 turn and gains an undispellable damage bonus that lasts for the entire battle."
+ },
+ {
+  "Name": "Pandarial",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/3.Skill Image.023044.jpg",
+  "Skill Name": "Bamboo Gale",
+  "Skill": "Deals Physical DMG once to 1 enemy within 4 grids of the caster, with a 50% chance to deal 1.5x DMG."
+ },
+ {
+  "Name": "Pandarial",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/4.Skill Image.023050.jpg",
+  "Skill Name": "Verdant Spikes",
+  "Skill": "Selects a target within 4 grids of the caster, and deals Physical DMG once to all enemies within a 1-grid square area of that target, with a 100% base chance to inflict Fragility for 1 turn."
+ },
+ {
+  "Name": "Pandarial",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/5.Skill Image.023108.jpg",
+  "Skill Name": "Emerald Dew",
+  "Skill": "Heals allies within 4 grids of the caster once at turn start."
+ },
+ {
+  "Name": "Prismora",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/6.Skill Image.023247.png",
+  "Skill Name": "Clear Heart",
+  "Skill": "Support Passive: At the start of battle, gain 1 stack of Flawless (immunity to one abnormal or debuff, cannot be dispelled). When the character uses a healing or buff skill, gain 1 stack of Gem Crystal (reduces damage taken, cannot be dispelled), up to a maximum of 4 stacks. Upon reaching 4 stacks, gain Clarity of Heart (when an ally receives fatal HP damage for the first time, consumes Clarity of Heart to forcibly retain 1 and restores 20% of lost HP, increases the user's action by 30%, cannot be dispelled). This effect can only be gained once per battle."
+ },
+ {
+  "Name": "Prismora",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/7.Skill Image.023304.png",
+  "Skill Name": "Crystal Energy",
+  "Skill": "Heals one ally within 4 spaces of yourself once. Additionally, grants a no-failure effect."
+ },
+ {
+  "Name": "Prismora",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/8.Skill Image.023321.png",
+  "Skill Name": "Prismatic Flow",
+  "Skill": "Heals one ally within 4 spaces of yourself once, and triggers a chain reaction to a random ally within a 4-space radius. This can chain up to 4 times."
+ },
+ {
+  "Name": "Prismora",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/9.Skill Image.023341.png",
+  "Skill Name": "Purity Power",
+  "Skill": "After the mythical beast materializes, the healing effect is enhanced."
+ },
+ {
+  "Name": "Nyxarchon",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/10.Skill Image.023409.png",
+  "Skill Name": "Requiem Blast",
+  "Skill": "When a character uses a combat skill that deals damage to an enemy, this character deals one instance of dark elemental damage to one of those enemies and all enemies within a 2-square radius of the target, and has a 100% chance to reduce their defense by 10%. This effect can stack up to 3 times and lasts for 2 turns. It can be activated up to 2 times every 2 turns. (Multiple instances of damage can be dealt to large targets.)"
+ },
+ {
+  "Name": "Nyxarchon",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/11.Skill Image.023423.png",
+  "Skill Name": "Nightshade Blast",
+  "Skill": "Deals one instance of dark-element damage to a single enemy within 2 spaces of yourself. For every 5% decrease in the target's HP, the damage from this skill increases by 5%, up to a maximum of 50%. The cooldown ends immediately after materializing."
+ },
+ {
+  "Name": "Nyxarchon",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/12.Skill Image.023430.png",
+  "Skill Name": "Shadow Sweep",
+  "Skill": "Deals Dark DMG once to all enemies within a 3x2 grid area in front of the caster."
+ },
+ {
+  "Name": "Nyxarchon",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/13.Skill Image.023437.png",
+  "Skill Name": "Death Star Scatter",
+  "Skill": "Killing an enemy deals additional Dark DMG once to all enemies within 2 grids of the target."
+ },
+ {
+  "Name": "Aegiswing",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/14.Skill Image.021120.png",
+  "Skill Name": "Radiant Sanctuary",
+  "Skill": "At the start of battle, grants the character Guardian Angel for 3 turns. When this status expires, restores 50% of their lost HP and grants them Power Unsealed for the entire battle."
+ },
+ {
+  "Name": "Aegiswing",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/15.Skill Image.021133.png",
+  "Skill Name": "Radiant Halo",
+  "Skill": "Selects a grid within 3 grids of the caster. Deals Light DMG once to all enemies within a 1-grid square area around the target grid, with a 50% base chance to inflict Taunt for 2 turns."
+ },
+ {
+  "Name": "Aegiswing",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/16.Skill Image.021150.png",
+  "Skill Name": "Divine Retribution",
+  "Skill": "Selects a grid within 3 grids of the caster. Deals Light DMG once to all enemies within a 1-grid square area around the target grid, with a 50% base chance to inflict Retribution for 2 turns."
+ },
+ {
+  "Name": "Aegiswing",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/17.Skill Image.021201.png",
+  "Skill Name": "Bright Conviction",
+  "Skill": "Reduces DMG taken from Taunted enemies."
+ },
+ {
+  "Name": "Cabbage Dog",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/18.Skill Image.023522.jpg",
+  "Skill Name": "Just Nap",
+  "Skill": "Support Skill: At the end of the turn, add 1 stack of defense buff, which cannot be dispelled. When it reaches 7 stacks, consume all stacks to add attack and defense buffs."
+ },
+ {
+  "Name": "Cabbage Dog",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/19.Skill Image.023537.jpg",
+  "Skill Name": "Breather",
+  "Skill": "Heals yourself once."
+ },
+ {
+  "Name": "Cabbage Dog",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/20.Skill Image.023546.jpg",
+  "Skill Name": "Golden Cabbage",
+  "Skill": "Deals physical damage once to all enemies within a 3-tile radius of the user, and has a 50% chance to inflict taunt. Lasts for 1 turn. Cooldown is completed immediately after materialization."
+ },
+ {
+  "Name": "Thousand Bright Spirit Steed",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/21.Skill Image.022739.png",
+  "Skill Name": "Auspicious Guardian",
+  "Skill": "Support Skill: At the start of battle, gain an undispellable damage reduction buff for 3 rounds, while also increasing block rate. This buff is undispellable and lasts for the entire battle."
+ },
+ {
+  "Name": "Thousand Bright Spirit Steed",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/22.Skill Image.022852.png",
+  "Skill Name": "Luminous Ward",
+  "Skill": "Reduces damage taken by characters within a 3-square radius of yourself, lasting for 1 turn. (Standby)"
+ },
+ {
+  "Name": "Thousand Bright Spirit Steed",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/23.Skill Image.022911.png",
+  "Skill Name": "Cloudstep Hoof",
+  "Skill": "Deals physical damage once to all enemies within a 1-square radius around the user."
+ },
+ {
+  "Name": "Adventure Duck",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/24.Skill Image.021013.png",
+  "Skill Name": "Duck Down!",
+  "Skill": "Support Skill: Deals area-of-effect physical damage + has a certain base probability of reducing attack and defense by 8%."
+ },
+ {
+  "Name": "Adventure Duck",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/25.Skill Image.021028.png",
+  "Skill Name": "Dash!",
+  "Skill": "Deals physical damage once to a single enemy within 1 square of yourself."
+ },
+ {
+  "Name": "Adventure Duck",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/26.Skill Image.021040.png",
+  "Skill Name": "Help Me!",
+  "Skill": "Reduces damage taken by the character and lasts for 2 turns. If the target's health is 50% or less, grants one shield based on the character's defense and lasts for 2 turns."
+ },
+ {
+  "Name": "Terragon",
+  "Type": "Baby",
+  "Skill Image": "",
+  "Skill Name": "Sandstone Shot",
+  "Skill": "When a character uses a combat skill that deals damage to an enemy, this character deals physical damage to one of those enemies once, and has a 50% chance of reducing the enemy's attack power by 20% for 1 turn. This can be activated a maximum of once per turn."
+ },
+ {
+  "Name": "Terragon",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Tail Lash",
+  "Skill": "Deals Physical DMG once to 1 enemy within 1 grid of the caster."
+ },
+ {
+  "Name": "Terragon",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Falling Sand",
+  "Skill": "Deals Physical DMG once to all enemies within a 3×2 grid area in front of you, with a 50% base chance to reduce their DMG by 15% for 2 turns."
+ },
+ {
+  "Name": "Kels",
+  "Type": "Baby",
+  "Skill Image": "",
+  "Skill Name": "Purging Spell",
+  "Skill": "When a character uses a combat skill that deals damage to an enemy, this character deals one instance of water-element damage to one of those enemies and randomly removes one of their buffs. This can be activated up to once per turn."
+ },
+ {
+  "Name": "Kels",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Water Orb",
+  "Skill": "Deals Water DMG once to 1 enemy within 4 grids of the caster."
+ },
+ {
+  "Name": "Kels",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Water Drill",
+  "Skill": "Deals Water DMG once to all enemies in a 1×4 grid area in front of the caster, with a 50% base chance to reduce their DEF by 20% for 2 turns."
+ },
+ {
+  "Name": "Armopi",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/33.Skill Image.022418.png",
+  "Skill Name": "Armor Protection",
+  "Skill": "At the end of the character's turn, gain 1 stack of increased defense. When 3 stacks are reached, consume all stacks and grant the character one shield based on their defense."
+ },
+ {
+  "Name": "Armopi",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/34.Skill Image.022431.png",
+  "Skill Name": "Dash",
+  "Skill": "Deals Physical DMG once to 1 enemy within 1 grid of the caster."
+ },
+ {
+  "Name": "Armopi",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/35.Skill Image.022437.png",
+  "Skill Name": "Heavy Protection",
+  "Skill": "Grants a shield based on the Fantomon's DEF to the owner within 2 grids of the caster, lasting 2 turns."
+ },
+ {
+  "Name": "Zeioletus",
+  "Type": "Baby",
+  "Skill Image": "",
+  "Skill Name": "Lotus Step",
+  "Skill": "When a character uses a combat skill that deals damage to an enemy, this character deals light-element damage once to one of the enemies and all enemies within a 1-tile radius of that enemy, and launches them into the air. This can be activated up to twice every two turns. (Damage dealt to large targets is increased by 20%)"
+ },
+ {
+  "Name": "Zeioletus",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Aura Shot",
+  "Skill": "Deals Light DMG once to 1 enemy within 4 grids of the caster. (Deals 20% more DMG to large targets.)"
+ },
+ {
+  "Name": "Zeioletus",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Bolt from the Blue",
+  "Skill": "Selects a grid within 6 grids of the caster. Deals Light DMG once to all enemies within a 1-grid square area around the target grid and knocks them airborne. (Deals 20% more DMG to large targets.)"
+ },
+ {
+  "Name": "Sylvaerie",
+  "Type": "Baby",
+  "Skill Image": "",
+  "Skill Name": "Wind Embrace",
+  "Skill": "After the character's turn ends, their attack and speed increase. This lasts for 1 turn."
+ },
+ {
+  "Name": "Sylvaerie",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Glow Glob",
+  "Skill": "Deals Wind DMG once to 1 enemy within 4 grids of the caster."
+ },
+ {
+  "Name": "Sylvaerie",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Slow Wind Shot",
+  "Skill": "Deals Wind DMG once to 1 enemy within 4 grids of the caster, with a 60% base chance to delay the target's action by 15%."
+ },
+ {
+  "Name": "Herbote",
+  "Type": "Baby",
+  "Skill Image": "",
+  "Skill Name": "Emergency Aid",
+  "Skill": "At the start of a character's turn, if their HP is below 80%, they recover once and have a 50% chance of removing one random status ailment or debuff."
+ },
+ {
+  "Name": "Herbote",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Quick Fix",
+  "Skill": "Heals 1 ally within 2 grids of the caster once."
+ },
+ {
+  "Name": "Herbote",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Cure All",
+  "Skill": "Heals the owner within 2 grids of the caster once, and grants 1 random buff (+10% ATK, +10% DEF, or +10% SPD) to them for 1 turn."
+ },
+ {
+  "Name": "Chomusuke",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/45.Skill Image.020928.png",
+  "Skill Name": "Just a Kitty?",
+  "Skill": "Support Skill: Deals area-of-effect physical damage + a certain base probability of reducing defense by 15%."
+ },
+ {
+  "Name": "Boaro",
+  "Type": "Baby",
+  "Skill Image": "",
+  "Skill Name": "Mountain Protection",
+  "Skill": "This ability activates each time a character loses a cumulative 15% of their maximum health, granting them a shield based on their defense. It can be activated up to 5 times during combat."
+ },
+ {
+  "Name": "Boaro",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Crash",
+  "Skill": "Deals Physical DMG once to 1 enemy within 1 grid of the caster."
+ },
+ {
+  "Name": "Boaro",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Mountain Charge",
+  "Skill": "Deals Physical DMG once to 1 enemy within 1 grid of the caster, with a 100% base chance to knock them back by 1 grid."
+ },
+ {
+  "Name": "Mandragora",
+  "Type": "Baby",
+  "Skill Image": "",
+  "Skill Name": "Natural Power",
+  "Skill": "When a character uses a combat skill on an allied target, the character will heal one of those targets once."
+ },
+ {
+  "Name": "Mandragora",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Flying Leaf",
+  "Skill": "Deals Wind DMG once to 1 enemy within 4 grids of the caster."
+ },
+ {
+  "Name": "Mandragora",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Wakening of Vitality",
+  "Skill": "Heals 1 ally (caster excluded) within 4 grids of the caster once."
+ },
+ {
+  "Name": "Falko",
+  "Type": "Baby",
+  "Skill Image": "",
+  "Skill Name": "Golden Flash",
+  "Skill": "When a character uses a combat skill that deals damage to an enemy, this character deals physical damage once to one of those enemies and all enemies within a 1-tile radius of that enemy."
+ },
+ {
+  "Name": "Falko",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Golden Feather",
+  "Skill": "Deals Physical DMG once to 1 enemy within 4 grids of the caster."
+ },
+ {
+  "Name": "Falko",
+  "Type": "Adult",
+  "Skill Image": "",
+  "Skill Name": "Golden Storm",
+  "Skill": "Selects a grid within 4 grids of the caster. Deals Physical DMG 3 times to all enemies within a 1-grid square area around the target grid."
+ },
+ {
+  "Name": "Chicken Xiaofei",
+  "Type": "Baby",
+  "Skill Image": "Fantomon Skills_Images/55.Skill Image.022549.png",
+  "Skill Name": "Flight Up!",
+  "Skill": "After the character's turn ends, increases the character's Attack for 1 turn, with a 20% chance to advance the character's action by 10%."
+ },
+ {
+  "Name": "Chicken Xiaofei",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/56.Skill Image.022557.png",
+  "Skill Name": "Punch",
+  "Skill": "Deals 1 instance of Physical Damage to 1 enemy target within a 1-tile range of self."
+ },
+ {
+  "Name": "Chicken Xiaofei",
+  "Type": "Adult",
+  "Skill Image": "Fantomon Skills_Images/57.Skill Image.022606.png",
+  "Skill Name": "Poison Dive",
+  "Skill": "Leaps to any empty space within a 4-tile range of self, dealing 1 instance of Physical Damage to all enemy targets within a 1-tile range of self, with a 30% base chance to inflict Armor Break 2 for 2 turns."
+ }
+]

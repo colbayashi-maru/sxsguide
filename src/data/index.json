@@ -1,1 +1,417 @@
-[]
+[
+ {
+  "sheet": "Form Responses 2",
+  "slug": "class-ratings",
+  "columns": [
+   "TOTAL REVIEWS",
+   "CLASS",
+   "SEASON",
+   "PVP",
+   "PVE",
+   "4V4 (Tournament)",
+   "Chaos and Crucible",
+   "Investment",
+   "SEASON AVERAGE",
+   "RATING"
+  ],
+  "rows": 12
+ },
+ {
+  "sheet": "Community Builds",
+  "slug": "community-builds",
+  "columns": [
+   "Build Name",
+   "Class",
+   "Skill Slot 1",
+   "Skill Slot 2",
+   "Skill Slot 3",
+   "Skill Slot 4",
+   "Charm Slot 1",
+   "Charm Slot 2",
+   "Charm Slot 3",
+   "Charm Slot 4"
+  ],
+  "rows": 4
+ },
+ {
+  "sheet": "Milestones",
+  "slug": "milestones",
+  "columns": [
+   "IMAGE",
+   "WEEK",
+   "SEASON",
+   "DAY",
+   "DATE",
+   "MILESTONE",
+   "TYPE",
+   "LENGTH"
+  ],
+  "rows": 376
+ },
+ {
+  "sheet": "Bed Calculations",
+  "slug": "bed-calculations",
+  "columns": [
+   "Blessing Level",
+   "Base XP/h"
+  ],
+  "rows": 144
+ },
+ {
+  "sheet": "Dungeon Data",
+  "slug": "dungeon-data",
+  "columns": [
+   "SEASON",
+   "REGION",
+   "DUNGEON NAME",
+   "LOCATION",
+   "IMAGE",
+   "GEAR LEVEL",
+   "NORMAL",
+   "HARD",
+   "NIGHTMARE",
+   "PURGATORY",
+   "ABYSS",
+   "LEGENDARY",
+   "MYTHIC",
+   "DIVINE",
+   "DIVINE+"
+  ],
+  "rows": 38
+ },
+ {
+  "sheet": "Copy of Servers",
+  "slug": "servers",
+  "columns": [
+   "NEXUS",
+   "SERVER #",
+   "SERVER NAME",
+   "STATUS",
+   "SERVER CREATION TIME",
+   "START DATE",
+   "SEASON STATUS",
+   "DAYS LIVE",
+   "PROGRESS",
+   "NEXUS UNIFIED DATE",
+   "SEASON 1",
+   "SEASON 2",
+   "SEASON 3",
+   "SEASON 4 +"
+  ],
+  "rows": 736
+ },
+ {
+  "sheet": "Experience Table",
+  "slug": "experience-table",
+  "columns": [
+   "Level",
+   "Experience Needed",
+   "Total Experience"
+  ],
+  "rows": 250
+ },
+ {
+  "sheet": "Astral Pact",
+  "slug": "astral-pact",
+  "columns": [
+   "Points",
+   "Buff",
+   "Cummulative"
+  ],
+  "rows": 208
+ },
+ {
+  "sheet": "Season Listing",
+  "slug": "season-listing",
+  "columns": [
+   "Season",
+   "Region",
+   "Start Date",
+   "End Date"
+  ],
+  "rows": 6
+ },
+ {
+  "sheet": "Event Relics",
+  "slug": "event-relics",
+  "columns": [
+   "IMAGE",
+   "NAME",
+   "RARITY",
+   "ATTRIBUTE",
+   "BASE STAT",
+   "RATE INCREASE PER STAR",
+   "AWAKENED STAT",
+   "ELEMENT"
+  ],
+  "rows": 13
+ },
+ {
+  "sheet": "Dungeon Drop Rate",
+  "slug": "dungeon-drop-rate",
+  "columns": [
+   "DUNGEONS",
+   "NORMAL (MYTHIC) SHARDS",
+   "N.FULL GEAR DROP",
+   "HARD (MYTHIC) SHARDS",
+   "H.MYTHIC GEAR DROP",
+   "H.DIVINE GEAR DROP",
+   "NIGHTMARE (DIVINE) SHARDS",
+   "NM.FULL GEAR DROP",
+   "PURGATORY (DIVINE) SHARDS",
+   "P. DIVINE GEAR DROP",
+   "P. THOR GEAR DROP",
+   "ABYSS  SHARDS",
+   "A. FULL GEAR DROP",
+   "BASE SETS",
+   "SET TYPE",
+   "SET TYPE 2",
+   "DIVINE SETS",
+   "SET TYPE 3"
+  ],
+  "rows": 29
+ },
+ {
+  "sheet": "Relics",
+  "slug": "relics",
+  "columns": [
+   "IMAGE",
+   "REGION",
+   "ZONE",
+   "NAME",
+   "RARITY",
+   "ATTRIBUTE",
+   "BASE STAT",
+   "RATE INCREASE PER STAR",
+   "AWAKENED STAT",
+   "ELEMENT",
+   "SETS"
+  ],
+  "rows": 2031
+ },
+ {
+  "sheet": "Relic Sets",
+  "slug": "relic-sets",
+  "columns": [
+   "SET NAME",
+   "COMPLETE SET BONUS",
+   "3-STAR SET BONUS",
+   "AWAKENED SET BONUS"
+  ],
+  "rows": 94
+ },
+ {
+  "sheet": "Monsters",
+  "slug": "monsters",
+  "columns": [
+   "Season",
+   "Image",
+   "Monster",
+   "Rarity",
+   "Dungeon",
+   "Min Level",
+   "Max Level",
+   "Level Difference",
+   "HP",
+   "DEF",
+   "ATK",
+   "SPD"
+  ],
+  "rows": 204
+ },
+ {
+  "sheet": "Skins",
+  "slug": "skins",
+  "columns": [
+   "W_IMAGE",
+   "M_IMAGE",
+   "WEP_IMAGE",
+   "SKINS",
+   "METHOD OF RECEIVING",
+   "DETAILS",
+   "CURRENT ORDER",
+   "RELEASE DATE"
+  ],
+  "rows": 67
+ },
+ {
+  "sheet": "Skin Details",
+  "slug": "skin-details",
+  "columns": [
+   "SKINS",
+   "COSMETIC",
+   "TYPE",
+   "STELLARIS",
+   "PRICE"
+  ],
+  "rows": 635
+ },
+ {
+  "sheet": "Copy of Dungeon Sets",
+  "slug": "dungeon-sets",
+  "columns": [
+   "SEASON",
+   "DUNGEON",
+   "IMAGE",
+   "SET",
+   "2 PIECE",
+   "4 PIECE",
+   "SKILL/CHARM",
+   "DESCRIPTION"
+  ],
+  "rows": 53
+ },
+ {
+  "sheet": "Gear Power",
+  "slug": "gear-power",
+  "columns": [
+   "SEASON",
+   "DUNGEON",
+   "LEGENDARY",
+   "MYTHIC",
+   "DIVINE",
+   "DIVINE+"
+  ],
+  "rows": 36
+ },
+ {
+  "sheet": "Collaborations",
+  "slug": "collaborations",
+  "columns": [
+   "SPLASH IMAGE",
+   "ESTIMATED TIME (DAY 1 SERVERS)",
+   "COLLABORATION",
+   "DURATION",
+   "LIMITED FANTOMON",
+   "LIMITED COMPANIONS",
+   "LIMITED COMPANIONS 2",
+   "LIMITED COMPANIONS 3",
+   "FREE COMPANION",
+   "DETAILS 1",
+   "DETAILS 2",
+   "DETAILS 3"
+  ],
+  "rows": 12
+ },
+ {
+  "sheet": "Companions",
+  "slug": "companions",
+  "columns": [
+   "REGION",
+   "REGION TYPE",
+   "Image",
+   "NAME",
+   "CLASS",
+   "MAIN FOCUS",
+   "SUB STATS",
+   "COLLAB"
+  ],
+  "rows": 95
+ },
+ {
+  "sheet": "Companion Visages",
+  "slug": "companion-visages",
+  "columns": [
+   "NAME",
+   "TYPE",
+   "COSMETIC"
+  ],
+  "rows": 172
+ },
+ {
+  "sheet": "Fantomon",
+  "slug": "fantomon",
+  "columns": [
+   "Image",
+   "Name",
+   "Rarity",
+   "Class",
+   "Time of Release",
+   "Materalization Energy Cap",
+   "Materialization Initial Energy",
+   "Materialization Recovery per turn"
+  ],
+  "rows": 19
+ },
+ {
+  "sheet": "Fantomon Skills",
+  "slug": "fantomon-skills",
+  "columns": [
+   "Name",
+   "Type",
+   "Skill Image",
+   "Skill Name",
+   "Skill"
+  ],
+  "rows": 60
+ },
+ {
+  "sheet": "Skills Log",
+  "slug": "skills",
+  "columns": [
+   "Image",
+   "Skill Name",
+   "Class Tier",
+   "Class",
+   "Technique/Charm",
+   "Cooldown",
+   "Element/Physical/Buff/Debuff",
+   "Description",
+   "Rarity",
+   "Skill Damage",
+   "Column 11",
+   "Rare",
+   "Epic",
+   "Legendary",
+   "Mythic",
+   "Divine",
+   "Immortal"
+  ],
+  "rows": 373
+ },
+ {
+  "sheet": "Builds",
+  "slug": "builds",
+  "columns": [
+   "Build Name",
+   "Class",
+   "Technique",
+   "Charm"
+  ],
+  "rows": 19
+ },
+ {
+  "sheet": "Game Statistics",
+  "slug": "game-statistics",
+  "columns": [
+   "label",
+   "value"
+  ],
+  "rows": 14
+ },
+ {
+  "sheet": "Glossary",
+  "slug": "glossary",
+  "columns": [
+   "Column 1",
+   "Season",
+   "Image",
+   "Location",
+   "Detail",
+   "Dungeon / Key Target"
+  ],
+  "rows": 69
+ },
+ {
+  "sheet": "Classes",
+  "slug": "classes",
+  "columns": [
+   "Image",
+   "Branch",
+   "Class",
+   "Sub Class",
+   "Tier"
+  ],
+  "rows": 24
+ }
+]

@@ -1,0 +1,170 @@
+[
+ {
+  "Image": "Classes_Images/Knight.Image.170457.jpg",
+  "Branch": "Warrior",
+  "Class": "Knight",
+  "Sub Class": "Tank",
+  "Tier": 2
+ },
+ {
+  "Image": "Classes_Images/Paladin.Image.170523.jpg",
+  "Branch": "Warrior",
+  "Class": "Paladin",
+  "Sub Class": "Tank",
+  "Tier": 3
+ },
+ {
+  "Image": "Classes_Images/Guardian.Image.170546.jpg",
+  "Branch": "Warrior",
+  "Class": "Guardian",
+  "Sub Class": "Tank",
+  "Tier": 4
+ },
+ {
+  "Image": "Classes_Images/Templar.Image.170553.jpg",
+  "Branch": "Warrior",
+  "Class": "Templar",
+  "Sub Class": "Tank",
+  "Tier": 5
+ },
+ {
+  "Image": "Classes_Images/Empyrean.Image.170558.jpg",
+  "Branch": "Warrior",
+  "Class": "Empyrean",
+  "Sub Class": "Tank",
+  "Tier": 6
+ },
+ {
+  "Image": "Classes_Images/Seraph.Image.170608.jpg",
+  "Branch": "Warrior",
+  "Class": "Seraph",
+  "Sub Class": "Tank",
+  "Tier": 7
+ },
+ {
+  "Image": "Classes_Images/Duelist.Image.170710.jpg",
+  "Branch": "Warrior",
+  "Class": "Duelist",
+  "Sub Class": "DPS",
+  "Tier": 2
+ },
+ {
+  "Image": "Classes_Images/Berserker.Image.170715.jpg",
+  "Branch": "Warrior",
+  "Class": "Berserker",
+  "Sub Class": "DPS",
+  "Tier": 3
+ },
+ {
+  "Image": "Classes_Images/Conqueror.Image.170719.jpg",
+  "Branch": "Warrior",
+  "Class": "Conqueror",
+  "Sub Class": "DPS",
+  "Tier": 4
+ },
+ {
+  "Image": "Classes_Images/Ravager.Image.170724.jpg",
+  "Branch": "Warrior",
+  "Class": "Ravager",
+  "Sub Class": "DPS",
+  "Tier": 5
+ },
+ {
+  "Image": "Classes_Images/Reaver.Image.170730.jpg",
+  "Branch": "Warrior",
+  "Class": "Reaver",
+  "Sub Class": "DPS",
+  "Tier": 6
+ },
+ {
+  "Image": "Classes_Images/Annihilator.Image.170736.jpg",
+  "Branch": "Warrior",
+  "Class": "Annihilator",
+  "Sub Class": "DPS",
+  "Tier": 7
+ },
+ {
+  "Image": "Classes_Images/Sorcerer.Image.170927.jpg",
+  "Branch": "Mage",
+  "Class": "Sorcerer",
+  "Sub Class": "DPS",
+  "Tier": 2
+ },
+ {
+  "Image": "Classes_Images/Archmage.Image.170934.jpg",
+  "Branch": "Mage",
+  "Class": "Archmage",
+  "Sub Class": "DPS",
+  "Tier": 3
+ },
+ {
+  "Image": "Classes_Images/Destroyer.Image.170946.jpg",
+  "Branch": "Mage",
+  "Class": "Destroyer",
+  "Sub Class": "DPS",
+  "Tier": 4
+ },
+ {
+  "Image": "Classes_Images/Magister.Image.170953.jpg",
+  "Branch": "Mage",
+  "Class": "Magister",
+  "Sub Class": "DPS",
+  "Tier": 5
+ },
+ {
+  "Image": "Classes_Images/Cataclyst.Image.171009.jpg",
+  "Branch": "Mage",
+  "Class": "Cataclyst",
+  "Sub Class": "DPS",
+  "Tier": 6
+ },
+ {
+  "Image": "Classes_Images/Voidcaller.Image.171015.jpg",
+  "Branch": "Mage",
+  "Class": "Voidcaller",
+  "Sub Class": "DPS",
+  "Tier": 7
+ },
+ {
+  "Image": "Classes_Images/Sage.Image.171023.jpg",
+  "Branch": "Mage",
+  "Class": "Sage",
+  "Sub Class": "Support",
+  "Tier": 2
+ },
+ {
+  "Image": "Classes_Images/Arcanist.Image.171029.jpg",
+  "Branch": "Mage",
+  "Class": "Arcanist",
+  "Sub Class": "Support",
+  "Tier": 3
+ },
+ {
+  "Image": "Classes_Images/Dominator.Image.171037.jpg",
+  "Branch": "Mage",
+  "Class": "Dominator",
+  "Sub Class": "Support",
+  "Tier": 4
+ },
+ {
+  "Image": "Classes_Images/Prophet.Image.171043.jpg",
+  "Branch": "Mage",
+  "Class": "Prophet",
+  "Sub Class": "Support",
+  "Tier": 5
+ },
+ {
+  "Image": "Classes_Images/Oracle.Image.171049.jpg",
+  "Branch": "Mage",
+  "Class": "Oracle",
+  "Sub Class": "Support",
+  "Tier": 6
+ },
+ {
+  "Image": "Classes_Images/Ascendant.Image.171100.jpg",
+  "Branch": "Mage",
+  "Class": "Ascendant",
+  "Sub Class": "Support",
+  "Tier": 7
+ }
+]

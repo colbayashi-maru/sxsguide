@@ -1,0 +1,192 @@
+[
+ {
+  "Image": "",
+  "Name": "Trickster",
+  "Rarity": "Mythic",
+  "Class": "DPS",
+  "Time of Release": "Day 46 of Hapadi",
+  "Materalization Energy Cap": 500,
+  "Materialization Initial Energy": "",
+  "Materialization Recovery per turn": ""
+ },
+ {
+  "Image": "Fantomon_Images/Rainbow Celestial.Image.015002.jpg",
+  "Name": "Prismora",
+  "Rarity": "Mythic",
+  "Class": "Support",
+  "Time of Release": "Day 46 of Aethyris",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": "",
+  "Materialization Recovery per turn": ""
+ },
+ {
+  "Image": "Fantomon_Images/Pandarial.Image.014937.jpg",
+  "Name": "Pandarial",
+  "Rarity": "Mythic",
+  "Class": "Support",
+  "Time of Release": "Day 46 of Loong Haven",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": "",
+  "Materialization Recovery per turn": ""
+ },
+ {
+  "Image": "Fantomon_Images/Nyxarchon.Image.015019.jpg",
+  "Name": "Nyxarchon",
+  "Rarity": "Mythic",
+  "Class": "DPS",
+  "Time of Release": "Day 1",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": "",
+  "Materialization Recovery per turn": ""
+ },
+ {
+  "Image": "Fantomon_Images/Aegiswing.Image.015034.jpg",
+  "Name": "Aegiswing",
+  "Rarity": "Mythic",
+  "Class": "Tank",
+  "Time of Release": "Day 1",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 825,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "Fantomon_Images/Cabbage Dog.Image.015049.jpg",
+  "Name": "Cabbage Dog",
+  "Rarity": "Legendary",
+  "Class": "Tank",
+  "Time of Release": "Vegetable Fairy Part 2",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": "",
+  "Materialization Recovery per turn": ""
+ },
+ {
+  "Image": "Fantomon_Images/Thousand Bright Spirit Steed.Image.015103.jpg",
+  "Name": "Thousand Bright Spirit Steed",
+  "Rarity": "Legendary",
+  "Class": "Tank",
+  "Time of Release": "Limited Time",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": "",
+  "Materialization Recovery per turn": ""
+ },
+ {
+  "Image": "Fantomon_Images/Adventure Duck.Image.015113.jpg",
+  "Name": "Adventure Duck",
+  "Rarity": "Legendary",
+  "Class": "Tank",
+  "Time of Release": "B.Duck",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": "",
+  "Materialization Recovery per turn": ""
+ },
+ {
+  "Image": "Fantomon_Images/Terragon.Image.015124.jpg",
+  "Name": "Terragon",
+  "Rarity": "Legendary",
+  "Class": "Tank",
+  "Time of Release": "",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 795,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "Fantomon_Images/Kels.Image.015139.jpg",
+  "Name": "Kels",
+  "Rarity": "Legendary",
+  "Class": "DPS",
+  "Time of Release": "Arena",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 637,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "Fantomon_Images/Armopi.Image.015153.jpg",
+  "Name": "Armopi",
+  "Rarity": "Legendary",
+  "Class": "Tank",
+  "Time of Release": "",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 780,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "Fantomon_Images/Zeioletus.Image.015204.jpg",
+  "Name": "Zeioletus",
+  "Rarity": "Legendary",
+  "Class": "DPS",
+  "Time of Release": "",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 675,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "Fantomon_Images/Sylvaerie.Image.015215.jpg",
+  "Name": "Sylvaerie",
+  "Rarity": "Legendary",
+  "Class": "Support",
+  "Time of Release": "",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 690,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "Fantomon_Images/Herbote.Image.015233.jpg",
+  "Name": "Herbote",
+  "Rarity": "Legendary",
+  "Class": "Support",
+  "Time of Release": "",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 615,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "Fantomon_Images/Chomusuke.Image.012119.jpg",
+  "Name": "Chomusuke",
+  "Rarity": "Epic",
+  "Class": "Support",
+  "Time of Release": "Konasuba",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 0,
+  "Materialization Recovery per turn": 0
+ },
+ {
+  "Image": "Fantomon_Images/Boaro.Image.015319.jpg",
+  "Name": "Boaro",
+  "Rarity": "Epic",
+  "Class": "Tank",
+  "Time of Release": "",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 750,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "Fantomon_Images/Mandragora.Image.015332.jpg",
+  "Name": "Mandragora",
+  "Rarity": "Epic",
+  "Class": "Support",
+  "Time of Release": "",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 540,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "Fantomon_Images/Falko.Image.015341.jpg",
+  "Name": "Falko",
+  "Rarity": "Epic",
+  "Class": "DPS",
+  "Time of Release": "",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 600,
+  "Materialization Recovery per turn": 50
+ },
+ {
+  "Image": "",
+  "Name": "Chicken Xiaofei",
+  "Rarity": "Legendary",
+  "Class": "DPS",
+  "Time of Release": "Scissor Seven",
+  "Materalization Energy Cap": 1000,
+  "Materialization Initial Energy": 550,
+  "Materialization Recovery per turn": 50
+ }
+]

@@ -1,0 +1,116 @@
+[
+ {
+  "Build Name": "PvE Ascendant Ignis",
+  "Class": "Ascendant",
+  "Technique": "Decoy Clone , Eroding Hex , Hexed Blast , Nightrite Sigil",
+  "Charm": "Curshed Shadow Link , Linked Misfortune , Shadow Erosion , Spirit Caller's Erosion"
+ },
+ {
+  "Build Name": "Healer Ascendant Ignis",
+  "Class": "Ascendant",
+  "Technique": "Benevolent Wish , Healing Radiance , Radiant Rhythm , Rejuvenating Rain",
+  "Charm": "Healing Mastery , Overhealing , Phantom Light , Rejuvenating Elixir"
+ },
+ {
+  "Build Name": "PvE- Wind Hapadi Cataclyst",
+  "Class": "Cataclyst",
+  "Technique": "Formation Breaker , Wind Blade Spiral , Storm Rhapsody , Twin Gale",
+  "Charm": "Cyclone Lament , Wind's Shadow , Overload Protection , Radiant Warp"
+ },
+ {
+  "Build Name": "PvE Fire Hapadi Cataclyst",
+  "Class": "Cataclyst",
+  "Technique": "Blast Spirit , Formation Breaker , Pyre Detonation , Smoldering Dark Flame",
+  "Charm": "Ember Flare , Fiery Burst , Overload Protection , Spirit Flame Detonation"
+ },
+ {
+  "Build Name": "Healer",
+  "Class": "Dominator",
+  "Technique": "Radiant Restoration , Rejuvenating Rain , Void Blessing , Waterling Summon",
+  "Charm": "Healing Mastery , Overhealing , Phantom Light , Resurrection"
+ },
+ {
+  "Build Name": "Chaos Support",
+  "Class": "Dominator",
+  "Technique": "Blazing Fire Ring , Decoy Clone , Frenzy Totem , Shadow of Termination",
+  "Charm": "Insight , Mana Surge , Mantra of Blessings , Water to Ice"
+ },
+ {
+  "Build Name": "PVE General",
+  "Class": "Dominator",
+  "Technique": "Abyssal Hand , Mana Blast , Shadow Impact , Waterling Summon",
+  "Charm": "Linked Misfortune , Shadow Erosion , Shadow Vengeance , Soul Pact Resonance"
+ },
+ {
+  "Build Name": "PvE Tank Hapadi Empyrean",
+  "Class": "Empyrean",
+  "Technique": "Heart of Challenge , Frostbite Blossom , Hamper Strike , Lunarwater Threads",
+  "Charm": "Frostbind Breath , Iron Will , Ripple Impact , Tidal Sigil"
+ },
+ {
+  "Build Name": "PvP Hapadi Empyrean",
+  "Class": "Empyrean",
+  "Technique": "Iron Slashes , Last Stand , Phantom Assault , Skyvault Shield Charge",
+  "Charm": "Block Awareness , Block Mastery , Iron Will , Punishing Force"
+ },
+ {
+  "Build Name": "Light- Aethyris",
+  "Class": "Magister",
+  "Technique": "Divine Wrath , Lightning Chain , Light Burst , Thunder of Judgment",
+  "Charm": "Radiant Sear , Thunderbolt Mark , Incarnation of Light , Rapid Cast"
+ },
+ {
+  "Build Name": "PvP Aethyris Magister",
+  "Class": "Magister",
+  "Technique": "Storm Rhapsody , Twin Gale , Wind Blade Spiral , Wind's Delight",
+  "Charm": "Cyclone Lament , Overload Protection , Radiant Sear , Radiant Warp"
+ },
+ {
+  "Build Name": "PvE Aethyris",
+  "Class": "Prophet",
+  "Technique": "Desperate Shadow , Hexed Blast , Soul Reap , Waterling Summon",
+  "Charm": "Ring of Omen , Shadow Vengeance , Shadowy Current , Soul Pact Resonance"
+ },
+ {
+  "Build Name": "PvP Aethyris",
+  "Class": "Prophet",
+  "Technique": "Desperate Shadow , Hexed Blast , Shadow of Termination , Soul Reap",
+  "Charm": "Linked Misfortune , Ring of Omen , Shadow Erosion , Shadow Vengeance"
+ },
+ {
+  "Build Name": "Healing Aethyris",
+  "Class": "Prophet",
+  "Technique": "Radiant Restoration , Radiant Rhythm , Rejuvenating Rain , Waterling Summon",
+  "Charm": "Healing Mastery , Overhealing , Phantom Light , Rejuvenating Elixir"
+ },
+ {
+  "Build Name": "PvP Ignis",
+  "Class": "Seraph",
+  "Technique": "Sacred Prism Armor , Twin Radiance Aegis , Frostward Guard , Desperate Protection",
+  "Charm": "Defensive Posture , Holy Aegis , Tidal Sigil , Ironguard Body"
+ },
+ {
+  "Build Name": "PvE Ignis",
+  "Class": "Seraph",
+  "Technique": "Frostward Guard , Charge Slash , Surging Vortex Dance , Charge Cry",
+  "Charm": "Energy Flow , Skyvault Radiance , Tidal Sigil , Ironguard Body"
+ },
+ {
+  "Build Name": "PVP Templar",
+  "Class": "Templar",
+  "Technique": "Hamper Strike , Heart of Challenge , Lunarwater Threads , Valor Surge",
+  "Charm": "Block Awareness , Block Mastery , Iron Will , Soul Protection"
+ },
+ {
+  "Build Name": "PVE Templar",
+  "Class": "Templar",
+  "Technique": "Iron Slashes , Phantom Blade , Star Shattering Slash , Swirling Blade",
+  "Charm": "Defensive Assault , Holy Recuperation , Pursuit of Victory , Sacred Rhythm"
+ },
+ {
+  "Build Name": "PvE Voidcaller",
+  "Class": "Voidcaller",
+  "Technique": "Formation Breaker , Thunderstom Net , Heaven's Wrath , Voidlight Abyss",
+  "Charm": "Rapid Cast , Gale Scar , Radiant Fusion , Radiant Warp"
+ }
+]

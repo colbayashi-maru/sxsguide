@@ -1,0 +1,38 @@
+[
+ {
+  "Season": "Season 1",
+  "Region": "Aqualis",
+  "Start Date": "2026-08-05T09:00:00",
+  "End Date": "2026-09-09T09:00:00"
+ },
+ {
+  "Season": "Season 2",
+  "Region": "Loong Haven",
+  "Start Date": "2026-09-09T09:00:00",
+  "End Date": "2026-11-15T09:00:00"
+ },
+ {
+  "Season": "Season 3",
+  "Region": "Aethyris",
+  "Start Date": "2026-11-15T09:00:00",
+  "End Date": "2027-02-24T09:00:00"
+ },
+ {
+  "Season": "Season 4",
+  "Region": "Hapadi",
+  "Start Date": "2027-02-24T09:00:00",
+  "End Date": "2027-06-05T09:00:00"
+ },
+ {
+  "Season": "Season 5",
+  "Region": "Ignis",
+  "Start Date": "2027-06-05T09:00:00",
+  "End Date": "2027-09-14T09:00:00"
+ },
+ {
+  "Season": "Season 6",
+  "Region": "Apex",
+  "Start Date": "2027-09-14T09:00:00",
+  "End Date": "2027-12-24T09:00:00"
+ }
+]

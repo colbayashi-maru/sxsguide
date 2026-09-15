@@ -1,0 +1,952 @@
+[
+ {
+  "REGION": "AETHYRIS",
+  "REGION TYPE": "AETHYRIS",
+  "Image": "Companions_Images/OPHELLIA.Image.160101.jpg",
+  "NAME": "OPHELLIA",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "ATK",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AETHYRIS",
+  "REGION TYPE": "AETHYRIS",
+  "Image": "Companions_Images/GERALD.Image.160120.jpg",
+  "NAME": "GERALD",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AETHYRIS",
+  "REGION TYPE": "AETHYRIS",
+  "Image": "Companions_Images/VIGARD.Image.154931.jpg",
+  "NAME": "VIGARD",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AETHYRIS",
+  "REGION TYPE": "AETHYRIS",
+  "Image": "Companions_Images/ASTRID.Image.160052.jpg",
+  "NAME": "ASTRID",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AETHYRIS",
+  "REGION TYPE": "AETHYRIS",
+  "Image": "Companions_Images/ISLA.Image.160036.jpg",
+  "NAME": "ISLA",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AETHYRIS",
+  "REGION TYPE": "AETHYRIS",
+  "Image": "Companions_Images/FREYA.Image.154957.jpg",
+  "NAME": "FREYA",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AETHYRIS",
+  "REGION TYPE": "AETHYRIS",
+  "Image": "Companions_Images/SYLVIA.Image.154940.jpg",
+  "NAME": "SYLVIA",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "APEX",
+  "REGION TYPE": "APEX",
+  "Image": "Companions_Images/TIANCHENG.Image.014820.jpg",
+  "NAME": "TIANCHENG",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "APEX",
+  "REGION TYPE": "APEX",
+  "Image": "Companions_Images/RUBY.Image.014801.jpg",
+  "NAME": "RUBY",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "APEX",
+  "REGION TYPE": "APEX",
+  "Image": "Companions_Images/LLIANG.Image.031001.png",
+  "NAME": "RYO",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "APEX",
+  "REGION TYPE": "APEX",
+  "Image": "Companions_Images/QIANXIA.Image.031054.jpg",
+  "NAME": "QIANXIA",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "APEX",
+  "REGION TYPE": "APEX",
+  "Image": "Companions_Images/LUCILLE.Image.031033.png",
+  "NAME": "LUCILLE",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "APEX",
+  "REGION TYPE": "APEX",
+  "Image": "Companions_Images/XIXI.Image.031113.png",
+  "NAME": "XIXI",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AQUALIS",
+  "REGION TYPE": "AQUALIS",
+  "Image": "Companions_Images/JUUBEE.Image.155649.jpg",
+  "NAME": "JUUBEE",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AQUALIS",
+  "REGION TYPE": "AQUALIS",
+  "Image": "Companions_Images/MAYOI.Image.155703.jpg",
+  "NAME": "MAYOI",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AQUALIS",
+  "REGION TYPE": "AQUALIS",
+  "Image": "Companions_Images/SUZU.Image.154830.jpg",
+  "NAME": "SUZU",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "CRIT RES, HEALING BOOST",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AQUALIS",
+  "REGION TYPE": "AQUALIS",
+  "Image": "Companions_Images/EIICHI.Image.155751.jpg",
+  "NAME": "EIICHI",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "AQUALIS",
+  "REGION TYPE": "AQUALIS",
+  "Image": "Companions_Images/MIO.Image.154900.jpg",
+  "NAME": "MIO",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "CINDER RIDGE",
+  "REGION TYPE": "CINDER RIDGE",
+  "Image": "Companions_Images/BRAULIO.Image.155337.jpg",
+  "NAME": "BRAULIO",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "CINDER RIDGE",
+  "REGION TYPE": "CINDER RIDGE",
+  "Image": "Companions_Images/MICAELA.Image.155446.jpg",
+  "NAME": "MICAELA",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "CINDER RIDGE",
+  "REGION TYPE": "CINDER RIDGE",
+  "Image": "Companions_Images/KARLOS.Image.155348.jpg",
+  "NAME": "KARLOS",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "CINDER RIDGE",
+  "REGION TYPE": "CINDER RIDGE",
+  "Image": "Companions_Images/MATEO.Image.154743.jpg",
+  "NAME": "MATEO",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "CINDER RIDGE",
+  "REGION TYPE": "CINDER RIDGE",
+  "Image": "Companions_Images/NAIRA.Image.154801.jpg",
+  "NAME": "NAIRA",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/KAZUMA (KONASUBA).Image.155558.jpg",
+  "NAME": "KAZUMA",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "ATK",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": "Konasuba"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/DARKNESS (KONASUBA).Image.154053.jpg",
+  "NAME": "DARKNESS",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": "Konasuba"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/AQUA (KONASUBA).Image.154109.jpg",
+  "NAME": "AQUA",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": "Konasuba"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/MEGUMIN (KONASUBA).Image.154122.jpg",
+  "NAME": "MEGUMIN",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": "Konasuba"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/YAN HE (MUSIC FESTIVAL).Image.155613.jpg",
+  "NAME": "YAN HE",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "ATK",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": "Luo Tianyi Music Festival"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/LUO TIANYI (MUSIC FESTIVAL).Image.154138.jpg",
+  "NAME": "LUO TIANYI",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "ATK",
+  "SUB STATS": "CRIT RES, HEALING BOOST",
+  "COLLAB": "Luo Tianyi Music Festival"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/LUO TIANYI ANNIVERSARY.Image.222523.jpg",
+  "NAME": "LUO TIANYI",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST",
+  "COLLAB": "Luo Tianyi 14th Anniversary"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/HE DACHUN (SCISSOR SEVEN).Image.051021.jpg",
+  "NAME": "HE DACHUN",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": "Scissor Seven"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/JI DABAO (SCISSOR SEVEN).Image.042457.jpg",
+  "NAME": "JI DABAO",
+  "CLASS": "",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": "Scissor Seven"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/MEI SHISAN (SCISSOR SEVEN).Image.051033.jpg",
+  "NAME": "MEI SHISAN",
+  "CLASS": "",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": "Scissor Seven"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/WU LIUQI (SCISSOR SEVEN).Image.051046.jpg",
+  "NAME": "WU LIUQI",
+  "CLASS": "",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": "Scissor Seven"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/LUO XIAOHEI.Image.042703.png",
+  "NAME": "LUO XIAOHEI",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": "Legend of Luo Xiaohei"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/WUXIAN.Image.042719.png",
+  "NAME": "WUXIAN",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": "Legend of Luo Xiaohei"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/LUYE.Image.042730.png",
+  "NAME": "LUYE",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": "Legend of Luo Xiaohei"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/NEZHA.Image.154254.jpg",
+  "NAME": "NEZHA",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": "Legend of Luo Xiaohei"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/RIMURU.Image.153557.jpg",
+  "NAME": "RIMURU",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": "The Time I got Reincarnated as a Slime"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/MILIM.Image.153533.jpg",
+  "NAME": "MILIM",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": "The Time I got Reincarnated as a Slime"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/SHUNA.Image.153246.jpg",
+  "NAME": "SHUNA",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "ATK",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": "The Time I got Reincarnated as a Slime"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/BENIMARU.Image.155719.jpg",
+  "NAME": "BENIMARU",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": "The Time I got Reincarnated as a Slime"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/ZIXIA FAIRY.Image.210556.jpg",
+  "NAME": "ZIXIA FAIRY",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": "A Chinese Odyssey"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/WUKONG.Image.210608.jpg",
+  "NAME": "WUKONG",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": "A Chinese Odyssey"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/SUPREME TREASURE.Image.210624.jpg",
+  "NAME": "SUPREME TREASURE",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "",
+  "COLLAB": "A Chinese Odyssey"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "Companions_Images/TANG SANZANG.Image.210548.jpg",
+  "NAME": "TANG SANZANG",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": "A Chinese Odyssey"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "",
+  "NAME": "HITORI GOTOH",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": "Bocchi Goro!"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "",
+  "NAME": "NIJIKA IJICHI",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": "Bocchi Goro!"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "",
+  "NAME": "RYO YAMADA",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": "Bocchi Goro!"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "",
+  "NAME": "IKUYO KITA",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": "Bocchi Goro!"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "",
+  "NAME": "JIU YUE",
+  "CLASS": "",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": "Fei Ren Zai"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "",
+  "NAME": "XIAO YU",
+  "CLASS": "",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": "Fei Ren Zai"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "",
+  "NAME": "AO LIE",
+  "CLASS": "",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": "Fei Ren Zai"
+ },
+ {
+  "REGION": "COLLAB",
+  "REGION TYPE": "COLLAB",
+  "Image": "",
+  "NAME": "NEZHA ZAI",
+  "CLASS": "",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": "Fei Ren Zai"
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/KARLOS - TRIUMPH.Image.153800.jpg",
+  "NAME": "KARLOS - TRIUMPH",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/QIN - LEAP.Image.153737.jpg",
+  "NAME": "QIN - LEAP",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/CHIEF - STARFROST SANTA.Image.154339.jpg",
+  "NAME": "CHIEF - STARFROST SANTA",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "ACCURACY",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/MOLLY - STARFROST WISH.Image.154330.jpg",
+  "NAME": "MOLLY - STARFROST WISH",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/REINA.Image.154524.jpg",
+  "NAME": "REINA",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/REINA- DREAM CARNIVAL.Image.153854.jpg",
+  "NAME": "REINA- DREAM CARNIVAL",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/AKANE- DREAM CARNIVAL.Image.153519.jpg",
+  "NAME": "AKANE- DREAM CARNIVAL",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/CAROL- DREAM CARNIVAL.Image.155820.jpg",
+  "NAME": "CAROL- DREAM CARNIVAL",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/MING- NEW YEARS.Image.153911.jpg",
+  "NAME": "MING- NEW YEARS",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/JIANG WIANG - LAMP BLESSING.Image.153824.jpg",
+  "NAME": "JIANG WIANG - LAMP BLESSING",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "CRIT RES, HEALING BOOST",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/SUIMO - LAMP OF GOOD FORTUNE.Image.155853.jpg",
+  "NAME": "SUIMO - LAMP OF GOOD FORTUNE",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/MOMOKO.Image.154311.jpg",
+  "NAME": "MOMOKO",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "EVENT",
+  "REGION TYPE": "EVENT",
+  "Image": "Companions_Images/ZEUS.Image.203516.png",
+  "NAME": "ZEUS",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "HAPADI",
+  "REGION TYPE": "HAPADI",
+  "Image": "Companions_Images/RIVEN.Image.160352.jpg",
+  "NAME": "RIVEN",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "HAPADI",
+  "REGION TYPE": "HAPADI",
+  "Image": "Companions_Images/ALICE.Image.155052.jpg",
+  "NAME": "ALICE",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "CRIT RES, HEALING BOOST",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "HAPADI",
+  "REGION TYPE": "HAPADI",
+  "Image": "Companions_Images/BELRIC.Image.231119.jpg",
+  "NAME": "BELRIC",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "HAPADI",
+  "REGION TYPE": "HAPADI",
+  "Image": "Companions_Images/LILLIE.Image.155103.jpg",
+  "NAME": "LILLIE",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "CRIT RES, HEALING BOOST",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "HAPADI",
+  "REGION TYPE": "HAPADI",
+  "Image": "Companions_Images/DERRICK.Image.160228.jpg",
+  "NAME": "DERRICK",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "HAPADI",
+  "REGION TYPE": "HAPADI",
+  "Image": "Companions_Images/LUTHER.Image.155112.jpg",
+  "NAME": "LUTHER",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "HAPADI",
+  "REGION TYPE": "HAPADI",
+  "Image": "Companions_Images/MYNN.Image.160406.jpg",
+  "NAME": "MYNN",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "HAPADI",
+  "REGION TYPE": "HAPADI",
+  "Image": "Companions_Images/DORA (ABSURD GOD).Image.152901.jpg",
+  "NAME": "DORA (ABSURD GOD)",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "IGNIS",
+  "REGION TYPE": "IGNIS",
+  "Image": "Companions_Images/YMIR (GOD OF BALANCE).Image.152734.jpg",
+  "NAME": "YMIR (GOD OF BALANCE)",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "",
+  "SUB STATS": "",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "IGNIS",
+  "REGION TYPE": "IGNIS",
+  "Image": "Companions_Images/WOLFFLAME.Image.160510.jpg",
+  "NAME": "WOLFFLAME",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "IGNIS",
+  "REGION TYPE": "IGNIS",
+  "Image": "Companions_Images/LEX.Image.160445.jpg",
+  "NAME": "LEX",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "IGNIS",
+  "REGION TYPE": "IGNIS",
+  "Image": "Companions_Images/CHARLES.Image.160500.jpg",
+  "NAME": "CHARLES",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "IGNIS",
+  "REGION TYPE": "IGNIS",
+  "Image": "Companions_Images/KASSANDRA.Image.155132.jpg",
+  "NAME": "KASSANDRA",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "IGNIS",
+  "REGION TYPE": "IGNIS",
+  "Image": "Companions_Images/SKADI.Image.155153.jpg",
+  "NAME": "SKADI",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "IGNIS",
+  "REGION TYPE": "IGNIS",
+  "Image": "Companions_Images/SOULT.Image.155205.jpg",
+  "NAME": "SOULT",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "LOONG HAVEN",
+  "REGION TYPE": "LOONG HAVEN",
+  "Image": "Companions_Images/JIANGWANG.Image.160134.jpg",
+  "NAME": "JIANGWANG",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "ATK",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "LOONG HAVEN",
+  "REGION TYPE": "LOONG HAVEN",
+  "Image": "Companions_Images/HUI.Image.160142.jpg",
+  "NAME": "HUI",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "LOONG HAVEN",
+  "REGION TYPE": "LOONG HAVEN",
+  "Image": "Companions_Images/SUIMO.Image.155017.jpg",
+  "NAME": "SUIMO",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "CRIT RES, HEALING BOOST",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "LOONG HAVEN",
+  "REGION TYPE": "LOONG HAVEN",
+  "Image": "Companions_Images/MING.Image.155029.jpg",
+  "NAME": "MING",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "LOONG HAVEN",
+  "REGION TYPE": "LOONG HAVEN",
+  "Image": "Companions_Images/WUJI.Image.160208.jpg",
+  "NAME": "WUJI",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "OTHERWORLD",
+  "REGION TYPE": "OTHERWORLD",
+  "Image": "Companions_Images/AKANE.Image.155625.jpg",
+  "NAME": "AKANE",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "ATK",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "OTHERWORLD",
+  "REGION TYPE": "OTHERWORLD",
+  "Image": "Companions_Images/MYSTERIOUS MERCHANT.Image.154402.jpg",
+  "NAME": "MYSTERIOUS MERCHANT",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "VERDANTGLADE",
+  "REGION TYPE": "VERDANTGLADE",
+  "Image": "Companions_Images/CAROL.Image.041604.jpg",
+  "NAME": "CAROL",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "ATK",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "VERDANTGLADE",
+  "REGION TYPE": "VERDANTGLADE",
+  "Image": "Companions_Images/HERMES.Image.155457.jpg",
+  "NAME": "HERMES",
+  "CLASS": "ARCHMAGE",
+  "MAIN FOCUS": "ATK",
+  "SUB STATS": "DMG BOOST, ACCURACY",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "VERDANTGLADE",
+  "REGION TYPE": "VERDANTGLADE",
+  "Image": "Companions_Images/MOLLY.Image.154547.jpg",
+  "NAME": "MOLLY",
+  "CLASS": "PALADIN",
+  "MAIN FOCUS": "DEF",
+  "SUB STATS": "DMG RES, BLOCK RATE",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "VERDANTGLADE",
+  "REGION TYPE": "VERDANTGLADE",
+  "Image": "Companions_Images/CHIEF.Image.155506.jpg",
+  "NAME": "CHIEF",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "VERDANTGLADE",
+  "REGION TYPE": "VERDANTGLADE",
+  "Image": "Companions_Images/KILLIAN.Image.155516.jpg",
+  "NAME": "KILLIAN",
+  "CLASS": "ARCANIST",
+  "MAIN FOCUS": "HP",
+  "SUB STATS": "DMG RES, CRIT RES",
+  "COLLAB": ""
+ },
+ {
+  "REGION": "VERDANTGLADE",
+  "REGION TYPE": "VERDANTGLADE",
+  "Image": "Companions_Images/QIN.Image.155532.jpg",
+  "NAME": "QIN",
+  "CLASS": "BERSERKER",
+  "MAIN FOCUS": "SPD",
+  "SUB STATS": "DMG BOOST, CRIT RATE",
+  "COLLAB": ""
+ }
+]

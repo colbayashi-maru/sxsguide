@@ -1,0 +1,1252 @@
+[
+ {
+  "Level": 1,
+  "Experience Needed": 0,
+  "Total Experience": 0
+ },
+ {
+  "Level": 2,
+  "Experience Needed": 80,
+  "Total Experience": 80
+ },
+ {
+  "Level": 3,
+  "Experience Needed": 90,
+  "Total Experience": 170
+ },
+ {
+  "Level": 4,
+  "Experience Needed": 90,
+  "Total Experience": 260
+ },
+ {
+  "Level": 5,
+  "Experience Needed": 90,
+  "Total Experience": 350
+ },
+ {
+  "Level": 6,
+  "Experience Needed": 90,
+  "Total Experience": 440
+ },
+ {
+  "Level": 7,
+  "Experience Needed": 90,
+  "Total Experience": 530
+ },
+ {
+  "Level": 8,
+  "Experience Needed": 90,
+  "Total Experience": 620
+ },
+ {
+  "Level": 9,
+  "Experience Needed": 90,
+  "Total Experience": 710
+ },
+ {
+  "Level": 10,
+  "Experience Needed": 100,
+  "Total Experience": 810
+ },
+ {
+  "Level": 11,
+  "Experience Needed": 350,
+  "Total Experience": 1160
+ },
+ {
+  "Level": 12,
+  "Experience Needed": 355,
+  "Total Experience": 1515
+ },
+ {
+  "Level": 13,
+  "Experience Needed": 360,
+  "Total Experience": 1875
+ },
+ {
+  "Level": 14,
+  "Experience Needed": 370,
+  "Total Experience": 2245
+ },
+ {
+  "Level": 15,
+  "Experience Needed": 375,
+  "Total Experience": 2620
+ },
+ {
+  "Level": 16,
+  "Experience Needed": 390,
+  "Total Experience": 3010
+ },
+ {
+  "Level": 17,
+  "Experience Needed": 400,
+  "Total Experience": 3410
+ },
+ {
+  "Level": 18,
+  "Experience Needed": 450,
+  "Total Experience": 3860
+ },
+ {
+  "Level": 19,
+  "Experience Needed": 500,
+  "Total Experience": 4360
+ },
+ {
+  "Level": 20,
+  "Experience Needed": 500,
+  "Total Experience": 4860
+ },
+ {
+  "Level": 21,
+  "Experience Needed": 1483,
+  "Total Experience": 6343
+ },
+ {
+  "Level": 22,
+  "Experience Needed": 1844,
+  "Total Experience": 8187
+ },
+ {
+  "Level": 23,
+  "Experience Needed": 1865,
+  "Total Experience": 10052
+ },
+ {
+  "Level": 24,
+  "Experience Needed": 1916,
+  "Total Experience": 11968
+ },
+ {
+  "Level": 25,
+  "Experience Needed": 2043,
+  "Total Experience": 14011
+ },
+ {
+  "Level": 26,
+  "Experience Needed": 2067,
+  "Total Experience": 16078
+ },
+ {
+  "Level": 27,
+  "Experience Needed": 2169,
+  "Total Experience": 18247
+ },
+ {
+  "Level": 28,
+  "Experience Needed": 2437,
+  "Total Experience": 20684
+ },
+ {
+  "Level": 29,
+  "Experience Needed": 2536,
+  "Total Experience": 23220
+ },
+ {
+  "Level": 30,
+  "Experience Needed": 2860,
+  "Total Experience": 26080
+ },
+ {
+  "Level": 31,
+  "Experience Needed": 2995,
+  "Total Experience": 29075
+ },
+ {
+  "Level": 32,
+  "Experience Needed": 3607,
+  "Total Experience": 32682
+ },
+ {
+  "Level": 33,
+  "Experience Needed": 3794,
+  "Total Experience": 36476
+ },
+ {
+  "Level": 34,
+  "Experience Needed": 3876,
+  "Total Experience": 40352
+ },
+ {
+  "Level": 35,
+  "Experience Needed": 3996,
+  "Total Experience": 44348
+ },
+ {
+  "Level": 36,
+  "Experience Needed": 4261,
+  "Total Experience": 48609
+ },
+ {
+  "Level": 37,
+  "Experience Needed": 4289,
+  "Total Experience": 52898
+ },
+ {
+  "Level": 38,
+  "Experience Needed": 4510,
+  "Total Experience": 57408
+ },
+ {
+  "Level": 39,
+  "Experience Needed": 4928,
+  "Total Experience": 62336
+ },
+ {
+  "Level": 40,
+  "Experience Needed": 5086,
+  "Total Experience": 67422
+ },
+ {
+  "Level": 41,
+  "Experience Needed": 17203,
+  "Total Experience": 84625
+ },
+ {
+  "Level": 42,
+  "Experience Needed": 19189,
+  "Total Experience": 103814
+ },
+ {
+  "Level": 43,
+  "Experience Needed": 21484,
+  "Total Experience": 125298
+ },
+ {
+  "Level": 44,
+  "Experience Needed": 21509,
+  "Total Experience": 146807
+ },
+ {
+  "Level": 45,
+  "Experience Needed": 23052,
+  "Total Experience": 169859
+ },
+ {
+  "Level": 46,
+  "Experience Needed": 24627,
+  "Total Experience": 194486
+ },
+ {
+  "Level": 47,
+  "Experience Needed": 25480,
+  "Total Experience": 219966
+ },
+ {
+  "Level": 48,
+  "Experience Needed": 26852,
+  "Total Experience": 246818
+ },
+ {
+  "Level": 49,
+  "Experience Needed": 29068,
+  "Total Experience": 275886
+ },
+ {
+  "Level": 50,
+  "Experience Needed": 32008,
+  "Total Experience": 307894
+ },
+ {
+  "Level": 51,
+  "Experience Needed": 33168,
+  "Total Experience": 341062
+ },
+ {
+  "Level": 52,
+  "Experience Needed": 33332,
+  "Total Experience": 374394
+ },
+ {
+  "Level": 53,
+  "Experience Needed": 34095,
+  "Total Experience": 408489
+ },
+ {
+  "Level": 54,
+  "Experience Needed": 35628,
+  "Total Experience": 444117
+ },
+ {
+  "Level": 55,
+  "Experience Needed": 35929,
+  "Total Experience": 480046
+ },
+ {
+  "Level": 56,
+  "Experience Needed": 37680,
+  "Total Experience": 517726
+ },
+ {
+  "Level": 57,
+  "Experience Needed": 38331,
+  "Total Experience": 556057
+ },
+ {
+  "Level": 58,
+  "Experience Needed": 38878,
+  "Total Experience": 594935
+ },
+ {
+  "Level": 59,
+  "Experience Needed": 39016,
+  "Total Experience": 633951
+ },
+ {
+  "Level": 60,
+  "Experience Needed": 41731,
+  "Total Experience": 675682
+ },
+ {
+  "Level": 61,
+  "Experience Needed": 43128,
+  "Total Experience": 718810
+ },
+ {
+  "Level": 62,
+  "Experience Needed": 45042,
+  "Total Experience": 763852
+ },
+ {
+  "Level": 63,
+  "Experience Needed": 45412,
+  "Total Experience": 809264
+ },
+ {
+  "Level": 64,
+  "Experience Needed": 47152,
+  "Total Experience": 856416
+ },
+ {
+  "Level": 65,
+  "Experience Needed": 47282,
+  "Total Experience": 903698
+ },
+ {
+  "Level": 66,
+  "Experience Needed": 47340,
+  "Total Experience": 951038
+ },
+ {
+  "Level": 67,
+  "Experience Needed": 50487,
+  "Total Experience": 1001525
+ },
+ {
+  "Level": 68,
+  "Experience Needed": 53076,
+  "Total Experience": 1054601
+ },
+ {
+  "Level": 69,
+  "Experience Needed": 54257,
+  "Total Experience": 1108858
+ },
+ {
+  "Level": 70,
+  "Experience Needed": 54405,
+  "Total Experience": 1163263
+ },
+ {
+  "Level": 71,
+  "Experience Needed": 197114,
+  "Total Experience": 1360377
+ },
+ {
+  "Level": 72,
+  "Experience Needed": 310414,
+  "Total Experience": 1670791
+ },
+ {
+  "Level": 73,
+  "Experience Needed": 330204,
+  "Total Experience": 2000995
+ },
+ {
+  "Level": 74,
+  "Experience Needed": 334735,
+  "Total Experience": 2335730
+ },
+ {
+  "Level": 75,
+  "Experience Needed": 348791,
+  "Total Experience": 2684521
+ },
+ {
+  "Level": 76,
+  "Experience Needed": 360389,
+  "Total Experience": 3044910
+ },
+ {
+  "Level": 77,
+  "Experience Needed": 360701,
+  "Total Experience": 3405611
+ },
+ {
+  "Level": 78,
+  "Experience Needed": 362826,
+  "Total Experience": 3768437
+ },
+ {
+  "Level": 79,
+  "Experience Needed": 378632,
+  "Total Experience": 4147069
+ },
+ {
+  "Level": 80,
+  "Experience Needed": 379059,
+  "Total Experience": 4526128
+ },
+ {
+  "Level": 81,
+  "Experience Needed": 408765,
+  "Total Experience": 4934893
+ },
+ {
+  "Level": 82,
+  "Experience Needed": 440713,
+  "Total Experience": 5375606
+ },
+ {
+  "Level": 83,
+  "Experience Needed": 464670,
+  "Total Experience": 5840276
+ },
+ {
+  "Level": 84,
+  "Experience Needed": 467234,
+  "Total Experience": 6307510
+ },
+ {
+  "Level": 85,
+  "Experience Needed": 477970,
+  "Total Experience": 6785480
+ },
+ {
+  "Level": 86,
+  "Experience Needed": 484690,
+  "Total Experience": 7270170
+ },
+ {
+  "Level": 87,
+  "Experience Needed": 509874,
+  "Total Experience": 7780044
+ },
+ {
+  "Level": 88,
+  "Experience Needed": 513879,
+  "Total Experience": 8293923
+ },
+ {
+  "Level": 89,
+  "Experience Needed": 527583,
+  "Total Experience": 8821506
+ },
+ {
+  "Level": 90,
+  "Experience Needed": 532378,
+  "Total Experience": 9353884
+ },
+ {
+  "Level": 91,
+  "Experience Needed": 583801,
+  "Total Experience": 9937685
+ },
+ {
+  "Level": 92,
+  "Experience Needed": 612907,
+  "Total Experience": 10550592
+ },
+ {
+  "Level": 93,
+  "Experience Needed": 643189,
+  "Total Experience": 11193781
+ },
+ {
+  "Level": 94,
+  "Experience Needed": 644274,
+  "Total Experience": 11838055
+ },
+ {
+  "Level": 95,
+  "Experience Needed": 670957,
+  "Total Experience": 12509012
+ },
+ {
+  "Level": 96,
+  "Experience Needed": 678226,
+  "Total Experience": 13187238
+ },
+ {
+  "Level": 97,
+  "Experience Needed": 706678,
+  "Total Experience": 13893916
+ },
+ {
+  "Level": 98,
+  "Experience Needed": 712891,
+  "Total Experience": 14606807
+ },
+ {
+  "Level": 99,
+  "Experience Needed": 749807,
+  "Total Experience": 15356614
+ },
+ {
+  "Level": 100,
+  "Experience Needed": 751452,
+  "Total Experience": 16108066
+ },
+ {
+  "Level": 101,
+  "Experience Needed": 2904398,
+  "Total Experience": 19012464
+ },
+ {
+  "Level": 102,
+  "Experience Needed": 3027527,
+  "Total Experience": 22039991
+ },
+ {
+  "Level": 103,
+  "Experience Needed": 3032011,
+  "Total Experience": 25072002
+ },
+ {
+  "Level": 104,
+  "Experience Needed": 3117883,
+  "Total Experience": 28189885
+ },
+ {
+  "Level": 105,
+  "Experience Needed": 3191855,
+  "Total Experience": 31381740
+ },
+ {
+  "Level": 106,
+  "Experience Needed": 3220513,
+  "Total Experience": 34602253
+ },
+ {
+  "Level": 107,
+  "Experience Needed": 3258763,
+  "Total Experience": 37861016
+ },
+ {
+  "Level": 108,
+  "Experience Needed": 3346658,
+  "Total Experience": 41207674
+ },
+ {
+  "Level": 109,
+  "Experience Needed": 3389858,
+  "Total Experience": 44597532
+ },
+ {
+  "Level": 110,
+  "Experience Needed": 3548753,
+  "Total Experience": 48146285
+ },
+ {
+  "Level": 111,
+  "Experience Needed": 3631694,
+  "Total Experience": 51777979
+ },
+ {
+  "Level": 112,
+  "Experience Needed": 3771824,
+  "Total Experience": 55549803
+ },
+ {
+  "Level": 113,
+  "Experience Needed": 3796167,
+  "Total Experience": 59345970
+ },
+ {
+  "Level": 114,
+  "Experience Needed": 3866624,
+  "Total Experience": 63212594
+ },
+ {
+  "Level": 115,
+  "Experience Needed": 3924404,
+  "Total Experience": 67136998
+ },
+ {
+  "Level": 116,
+  "Experience Needed": 4029348,
+  "Total Experience": 71166346
+ },
+ {
+  "Level": 117,
+  "Experience Needed": 4101565,
+  "Total Experience": 75267911
+ },
+ {
+  "Level": 118,
+  "Experience Needed": 4245434,
+  "Total Experience": 79513345
+ },
+ {
+  "Level": 119,
+  "Experience Needed": 4245686,
+  "Total Experience": 83759031
+ },
+ {
+  "Level": 120,
+  "Experience Needed": 4514881,
+  "Total Experience": 88273912
+ },
+ {
+  "Level": 121,
+  "Experience Needed": 4566377,
+  "Total Experience": 92840289
+ },
+ {
+  "Level": 122,
+  "Experience Needed": 4752888,
+  "Total Experience": 97593177
+ },
+ {
+  "Level": 123,
+  "Experience Needed": 4866448,
+  "Total Experience": 102459625
+ },
+ {
+  "Level": 124,
+  "Experience Needed": 5012377,
+  "Total Experience": 107472002
+ },
+ {
+  "Level": 125,
+  "Experience Needed": 5016341,
+  "Total Experience": 112488343
+ },
+ {
+  "Level": 126,
+  "Experience Needed": 5178619,
+  "Total Experience": 117666962
+ },
+ {
+  "Level": 127,
+  "Experience Needed": 5229563,
+  "Total Experience": 122896525
+ },
+ {
+  "Level": 128,
+  "Experience Needed": 5423881,
+  "Total Experience": 128320406
+ },
+ {
+  "Level": 129,
+  "Experience Needed": 5459728,
+  "Total Experience": 133780134
+ },
+ {
+  "Level": 130,
+  "Experience Needed": 6335318,
+  "Total Experience": 140115452
+ },
+ {
+  "Level": 131,
+  "Experience Needed": 22859655,
+  "Total Experience": 162975107
+ },
+ {
+  "Level": 132,
+  "Experience Needed": 23541185,
+  "Total Experience": 186516292
+ },
+ {
+  "Level": 133,
+  "Experience Needed": 23587156,
+  "Total Experience": 210103448
+ },
+ {
+  "Level": 134,
+  "Experience Needed": 24290510,
+  "Total Experience": 234393958
+ },
+ {
+  "Level": 135,
+  "Experience Needed": 24337860,
+  "Total Experience": 258731818
+ },
+ {
+  "Level": 136,
+  "Experience Needed": 25112507,
+  "Total Experience": 283844325
+ },
+ {
+  "Level": 137,
+  "Experience Needed": 25161277,
+  "Total Experience": 309005602
+ },
+ {
+  "Level": 138,
+  "Experience Needed": 25962089,
+  "Total Experience": 334967691
+ },
+ {
+  "Level": 139,
+  "Experience Needed": 26062556,
+  "Total Experience": 361030247
+ },
+ {
+  "Level": 140,
+  "Experience Needed": 26920314,
+  "Total Experience": 387950561
+ },
+ {
+  "Level": 141,
+  "Experience Needed": 27780149,
+  "Total Experience": 415730710
+ },
+ {
+  "Level": 142,
+  "Experience Needed": 28608441,
+  "Total Experience": 444339151
+ },
+ {
+  "Level": 143,
+  "Experience Needed": 28773140,
+  "Total Experience": 473112291
+ },
+ {
+  "Level": 144,
+  "Experience Needed": 29687769,
+  "Total Experience": 502800060
+ },
+ {
+  "Level": 145,
+  "Experience Needed": 29800863,
+  "Total Experience": 532600923
+ },
+ {
+  "Level": 146,
+  "Experience Needed": 30864506,
+  "Total Experience": 563465429
+ },
+ {
+  "Level": 147,
+  "Experience Needed": 30980992,
+  "Total Experience": 594446421
+ },
+ {
+  "Level": 148,
+  "Experience Needed": 32025290,
+  "Total Experience": 626471711
+ },
+ {
+  "Level": 149,
+  "Experience Needed": 32205262,
+  "Total Experience": 658676973
+ },
+ {
+  "Level": 150,
+  "Experience Needed": 33270698,
+  "Total Experience": 691947671
+ },
+ {
+  "Level": 151,
+  "Experience Needed": 34387276,
+  "Total Experience": 726334947
+ },
+ {
+  "Level": 152,
+  "Experience Needed": 35609150,
+  "Total Experience": 761944097
+ },
+ {
+  "Level": 153,
+  "Experience Needed": 35871344,
+  "Total Experience": 797815441
+ },
+ {
+  "Level": 154,
+  "Experience Needed": 37143639,
+  "Total Experience": 834959080
+ },
+ {
+  "Level": 155,
+  "Experience Needed": 37211154,
+  "Total Experience": 872170234
+ },
+ {
+  "Level": 156,
+  "Experience Needed": 38460179,
+  "Total Experience": 910630413
+ },
+ {
+  "Level": 157,
+  "Experience Needed": 38529719,
+  "Total Experience": 949160132
+ },
+ {
+  "Level": 158,
+  "Experience Needed": 39822474,
+  "Total Experience": 988982606
+ },
+ {
+  "Level": 159,
+  "Experience Needed": 40037353,
+  "Total Experience": 1029019959
+ },
+ {
+  "Level": 160,
+  "Experience Needed": 43248083,
+  "Total Experience": 1072268042
+ },
+ {
+  "Level": 161,
+  "Experience Needed": 229997342,
+  "Total Experience": 1302265384
+ },
+ {
+  "Level": 162,
+  "Experience Needed": 236878092,
+  "Total Experience": 1539143476
+ },
+ {
+  "Level": 163,
+  "Experience Needed": 236878092,
+  "Total Experience": 1776021568
+ },
+ {
+  "Level": 164,
+  "Experience Needed": 243965265,
+  "Total Experience": 2019986833
+ },
+ {
+  "Level": 165,
+  "Experience Needed": 243965265,
+  "Total Experience": 2263952098
+ },
+ {
+  "Level": 166,
+  "Experience Needed": 251265053,
+  "Total Experience": 2515217151
+ },
+ {
+  "Level": 167,
+  "Experience Needed": 251265053,
+  "Total Experience": 2766482204
+ },
+ {
+  "Level": 168,
+  "Experience Needed": 258783834,
+  "Total Experience": 3025266038
+ },
+ {
+  "Level": 169,
+  "Experience Needed": 258783834,
+  "Total Experience": 3284049872
+ },
+ {
+  "Level": 170,
+  "Experience Needed": 266655979,
+  "Total Experience": 3550705851
+ },
+ {
+  "Level": 171,
+  "Experience Needed": 274572142,
+  "Total Experience": 3825277993
+ },
+ {
+  "Level": 172,
+  "Experience Needed": 282786302,
+  "Total Experience": 4108064295
+ },
+ {
+  "Level": 173,
+  "Experience Needed": 282786302,
+  "Total Experience": 4390850597
+ },
+ {
+  "Level": 174,
+  "Experience Needed": 291246887,
+  "Total Experience": 4682097484
+ },
+ {
+  "Level": 175,
+  "Experience Needed": 291246887,
+  "Total Experience": 4973344371
+ },
+ {
+  "Level": 176,
+  "Experience Needed": 299961290,
+  "Total Experience": 5273305661
+ },
+ {
+  "Level": 177,
+  "Experience Needed": 299961290,
+  "Total Experience": 5573266951
+ },
+ {
+  "Level": 178,
+  "Experience Needed": 308937125,
+  "Total Experience": 5882204076
+ },
+ {
+  "Level": 179,
+  "Experience Needed": 308937125,
+  "Total Experience": 6191141201
+ },
+ {
+  "Level": 180,
+  "Experience Needed": 318373934,
+  "Total Experience": 6509515135
+ },
+ {
+  "Level": 181,
+  "Experience Needed": 327978823,
+  "Total Experience": 6837493958
+ },
+ {
+  "Level": 182,
+  "Experience Needed": 337789433,
+  "Total Experience": 7175283391
+ },
+ {
+  "Level": 183,
+  "Experience Needed": 337789433,
+  "Total Experience": 7513072824
+ },
+ {
+  "Level": 184,
+  "Experience Needed": 347894361,
+  "Total Experience": 7860967185
+ },
+ {
+  "Level": 185,
+  "Experience Needed": 347894361,
+  "Total Experience": 8208861546
+ },
+ {
+  "Level": 186,
+  "Experience Needed": 358302437,
+  "Total Experience": 8567163983
+ },
+ {
+  "Level": 187,
+  "Experience Needed": 358302437,
+  "Total Experience": 8925466420
+ },
+ {
+  "Level": 188,
+  "Experience Needed": 369022755,
+  "Total Experience": 9294489175
+ },
+ {
+  "Level": 189,
+  "Experience Needed": 369022755,
+  "Total Experience": 9663511930
+ },
+ {
+  "Level": 190,
+  "Experience Needed": 411631506,
+  "Total Experience": 10075143436
+ },
+ {
+  "Level": 191,
+  "Experience Needed": 1249630916,
+  "Total Experience": 11324774352
+ },
+ {
+  "Level": 192,
+  "Experience Needed": 1287034643,
+  "Total Experience": 12611808995
+ },
+ {
+  "Level": 193,
+  "Experience Needed": 1287034643,
+  "Total Experience": 13898843638
+ },
+ {
+  "Level": 194,
+  "Experience Needed": 1325560483,
+  "Total Experience": 15224404121
+ },
+ {
+  "Level": 195,
+  "Experience Needed": 1325560483,
+  "Total Experience": 16549964604
+ },
+ {
+  "Level": 196,
+  "Experience Needed": 1365242097,
+  "Total Experience": 17915206701
+ },
+ {
+  "Level": 197,
+  "Experience Needed": 1365242097,
+  "Total Experience": 19280448798
+ },
+ {
+  "Level": 198,
+  "Experience Needed": 1406114160,
+  "Total Experience": 20686562958
+ },
+ {
+  "Level": 199,
+  "Experience Needed": 1406114160,
+  "Total Experience": 22092677118
+ },
+ {
+  "Level": 200,
+  "Experience Needed": 1448780385,
+  "Total Experience": 23541457503
+ },
+ {
+  "Level": 201,
+  "Experience Needed": 1492401796,
+  "Total Experience": 25033859299
+ },
+ {
+  "Level": 202,
+  "Experience Needed": 1537071610,
+  "Total Experience": 26570930909
+ },
+ {
+  "Level": 203,
+  "Experience Needed": 1537071610,
+  "Total Experience": 28108002519
+ },
+ {
+  "Level": 204,
+  "Experience Needed": 1583081518,
+  "Total Experience": 29691084037
+ },
+ {
+  "Level": 205,
+  "Experience Needed": 1583081518,
+  "Total Experience": 31274165555
+ },
+ {
+  "Level": 206,
+  "Experience Needed": 1630471724,
+  "Total Experience": 32904637279
+ },
+ {
+  "Level": 207,
+  "Experience Needed": 1630471724,
+  "Total Experience": 34535109003
+ },
+ {
+  "Level": 208,
+  "Experience Needed": 1679283636,
+  "Total Experience": 36214392639
+ },
+ {
+  "Level": 209,
+  "Experience Needed": 1679283636,
+  "Total Experience": 37893676275
+ },
+ {
+  "Level": 210,
+  "Experience Needed": 1730411905,
+  "Total Experience": 39624088180
+ },
+ {
+  "Level": 211,
+  "Experience Needed": 1782206568,
+  "Total Experience": 41406294748
+ },
+ {
+  "Level": 212,
+  "Experience Needed": 1835544965,
+  "Total Experience": 43241839713
+ },
+ {
+  "Level": 213,
+  "Experience Needed": 1835544965,
+  "Total Experience": 45077384678
+ },
+ {
+  "Level": 214,
+  "Experience Needed": 1890483513,
+  "Total Experience": 46967868191
+ },
+ {
+  "Level": 215,
+  "Experience Needed": 1890483513,
+  "Total Experience": 48858351704
+ },
+ {
+  "Level": 216,
+  "Experience Needed": 1947070219,
+  "Total Experience": 50805421923
+ },
+ {
+  "Level": 217,
+  "Experience Needed": 1947070219,
+  "Total Experience": 52752492142
+ },
+ {
+  "Level": 218,
+  "Experience Needed": 2005354525,
+  "Total Experience": 54757846667
+ },
+ {
+  "Level": 219,
+  "Experience Needed": 2005354525,
+  "Total Experience": 56763201192
+ },
+ {
+  "Level": 220,
+  "Experience Needed": 2237009945,
+  "Total Experience": 59000211137
+ },
+ {
+  "Level": 221,
+  "Experience Needed": 6765798818,
+  "Total Experience": 65766009955
+ },
+ {
+  "Level": 222,
+  "Experience Needed": 6968389383,
+  "Total Experience": 72734399338
+ },
+ {
+  "Level": 223,
+  "Experience Needed": 6968389383,
+  "Total Experience": 79702788721
+ },
+ {
+  "Level": 224,
+  "Experience Needed": 7177057665,
+  "Total Experience": 86879846386
+ },
+ {
+  "Level": 225,
+  "Experience Needed": 7177057665,
+  "Total Experience": 94056904051
+ },
+ {
+  "Level": 226,
+  "Experience Needed": 7392095949,
+  "Total Experience": 101449000000
+ },
+ {
+  "Level": 227,
+  "Experience Needed": 7392000000,
+  "Total Experience": 108841000000
+ },
+ {
+  "Level": 228,
+  "Experience Needed": 7613000000,
+  "Total Experience": 116454000000
+ },
+ {
+  "Level": 229,
+  "Experience Needed": 7614000000,
+  "Total Experience": 124068000000
+ },
+ {
+  "Level": 230,
+  "Experience Needed": 7844000000,
+  "Total Experience": 131912000000
+ },
+ {
+  "Level": 231,
+  "Experience Needed": 8088000000,
+  "Total Experience": 140000000000
+ },
+ {
+  "Level": 232,
+  "Experience Needed": 8000000000,
+  "Total Experience": 148000000000
+ },
+ {
+  "Level": 233,
+  "Experience Needed": 9000000000,
+  "Total Experience": 157000000000
+ },
+ {
+  "Level": 234,
+  "Experience Needed": 8000000000,
+  "Total Experience": 165000000000
+ },
+ {
+  "Level": 235,
+  "Experience Needed": 9000000000,
+  "Total Experience": 174000000000
+ },
+ {
+  "Level": 236,
+  "Experience Needed": 9000000000,
+  "Total Experience": 183000000000
+ },
+ {
+  "Level": 237,
+  "Experience Needed": 8000000000,
+  "Total Experience": 191000000000
+ },
+ {
+  "Level": 238,
+  "Experience Needed": 10000000000,
+  "Total Experience": 201000000000
+ },
+ {
+  "Level": 239,
+  "Experience Needed": 9000000000,
+  "Total Experience": 210000000000
+ },
+ {
+  "Level": 240,
+  "Experience Needed": 9000000000,
+  "Total Experience": 219000000000
+ },
+ {
+  "Level": 241,
+  "Experience Needed": 10000000000,
+  "Total Experience": 229000000000
+ },
+ {
+  "Level": 242,
+  "Experience Needed": 10000000000,
+  "Total Experience": 239000000000
+ },
+ {
+  "Level": 243,
+  "Experience Needed": 9000000000,
+  "Total Experience": 248000000000
+ },
+ {
+  "Level": 244,
+  "Experience Needed": 11000000000,
+  "Total Experience": 259000000000
+ },
+ {
+  "Level": 245,
+  "Experience Needed": 10000000000,
+  "Total Experience": 269000000000
+ },
+ {
+  "Level": 246,
+  "Experience Needed": 11000000000,
+  "Total Experience": 280000000000
+ },
+ {
+  "Level": 247,
+  "Experience Needed": 10000000000,
+  "Total Experience": 290000000000
+ },
+ {
+  "Level": 248,
+  "Experience Needed": 11000000000,
+  "Total Experience": 301000000000
+ },
+ {
+  "Level": 249,
+  "Experience Needed": 11000000000,
+  "Total Experience": 312000000000
+ },
+ {
+  "Level": 250,
+  "Experience Needed": 12000000000,
+  "Total Experience": 324000000000
+ }
+]

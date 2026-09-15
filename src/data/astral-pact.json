@@ -1,0 +1,1042 @@
+[
+ {
+  "Points": 5,
+  "Buff": "ATK +1%",
+  "Cummulative": "ATK +1%"
+ },
+ {
+  "Points": 10,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +3%"
+ },
+ {
+  "Points": 15,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +1%"
+ },
+ {
+  "Points": 20,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 5%"
+ },
+ {
+  "Points": 25,
+  "Buff": "HP +1%",
+  "Cummulative": "HP +1%"
+ },
+ {
+  "Points": 30,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +2%"
+ },
+ {
+  "Points": 35,
+  "Buff": "SPD +1%",
+  "Cummulative": "SPD +1%"
+ },
+ {
+  "Points": 40,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +2%"
+ },
+ {
+  "Points": 48,
+  "Buff": "ATK +1%",
+  "Cummulative": "ATK +2%"
+ },
+ {
+  "Points": 56,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +6%"
+ },
+ {
+  "Points": 64,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +2%"
+ },
+ {
+  "Points": 72,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 10%"
+ },
+ {
+  "Points": 80,
+  "Buff": "HP +1%",
+  "Cummulative": "HP +2%"
+ },
+ {
+  "Points": 88,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +4%"
+ },
+ {
+  "Points": 96,
+  "Buff": "SPD +1%",
+  "Cummulative": "SPD +2%"
+ },
+ {
+  "Points": 104,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +4%"
+ },
+ {
+  "Points": 116,
+  "Buff": "ATK +1%",
+  "Cummulative": "ATK +3%"
+ },
+ {
+  "Points": 128,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +9%"
+ },
+ {
+  "Points": 140,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +3%"
+ },
+ {
+  "Points": 152,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 15%"
+ },
+ {
+  "Points": 164,
+  "Buff": "HP +1%",
+  "Cummulative": "HP +3%"
+ },
+ {
+  "Points": 176,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +6%"
+ },
+ {
+  "Points": 188,
+  "Buff": "SPD +1%",
+  "Cummulative": "SPD +3%"
+ },
+ {
+  "Points": 200,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +6%"
+ },
+ {
+  "Points": 215,
+  "Buff": "ATK +1%",
+  "Cummulative": "ATK +4%"
+ },
+ {
+  "Points": 230,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +12%"
+ },
+ {
+  "Points": 245,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +4%"
+ },
+ {
+  "Points": 260,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 20%"
+ },
+ {
+  "Points": 275,
+  "Buff": "HP +1%",
+  "Cummulative": "HP +4%"
+ },
+ {
+  "Points": 290,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +8%"
+ },
+ {
+  "Points": 305,
+  "Buff": "SPD +1%",
+  "Cummulative": "SPD +4%"
+ },
+ {
+  "Points": 320,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +8%"
+ },
+ {
+  "Points": 340,
+  "Buff": "ATK +1%",
+  "Cummulative": "ATK +5%"
+ },
+ {
+  "Points": 360,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +15%"
+ },
+ {
+  "Points": 380,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +5%"
+ },
+ {
+  "Points": 400,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 25%"
+ },
+ {
+  "Points": 420,
+  "Buff": "HP +1%",
+  "Cummulative": "HP +5%"
+ },
+ {
+  "Points": 440,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +10%"
+ },
+ {
+  "Points": 460,
+  "Buff": "SPD +1%",
+  "Cummulative": "SPD +5%"
+ },
+ {
+  "Points": 480,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +10%"
+ },
+ {
+  "Points": 505,
+  "Buff": "ATK +1%",
+  "Cummulative": "ATK +6%"
+ },
+ {
+  "Points": 530,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +18%"
+ },
+ {
+  "Points": 555,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +6%"
+ },
+ {
+  "Points": 580,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 30%"
+ },
+ {
+  "Points": 605,
+  "Buff": "HP +1%",
+  "Cummulative": "HP +6%"
+ },
+ {
+  "Points": 630,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +12%"
+ },
+ {
+  "Points": 655,
+  "Buff": "SPD +1%",
+  "Cummulative": "SPD +6%"
+ },
+ {
+  "Points": 680,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +12%"
+ },
+ {
+  "Points": 710,
+  "Buff": "ATK +1%",
+  "Cummulative": "ATK +7%"
+ },
+ {
+  "Points": 740,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +21%"
+ },
+ {
+  "Points": 770,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +7%"
+ },
+ {
+  "Points": 800,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 35%"
+ },
+ {
+  "Points": 830,
+  "Buff": "HP +1%",
+  "Cummulative": "HP +7%"
+ },
+ {
+  "Points": 860,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +14%"
+ },
+ {
+  "Points": 890,
+  "Buff": "SPD +1%",
+  "Cummulative": "SPD +7%"
+ },
+ {
+  "Points": 920,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +14%"
+ },
+ {
+  "Points": 955,
+  "Buff": "ATK +1%",
+  "Cummulative": "ATK +8%"
+ },
+ {
+  "Points": 990,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +24%"
+ },
+ {
+  "Points": 1025,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +8%"
+ },
+ {
+  "Points": 1060,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 40%"
+ },
+ {
+  "Points": 1095,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 1130,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +16%"
+ },
+ {
+  "Points": 1165,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 1200,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +16%"
+ },
+ {
+  "Points": 1240,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 1280,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +27%"
+ },
+ {
+  "Points": 1320,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +9%"
+ },
+ {
+  "Points": 1360,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 45%"
+ },
+ {
+  "Points": 1400,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 1440,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +18%"
+ },
+ {
+  "Points": 1480,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 1520,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +18%"
+ },
+ {
+  "Points": 1565,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 1610,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +30%"
+ },
+ {
+  "Points": 1655,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +10%"
+ },
+ {
+  "Points": 1700,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 50%"
+ },
+ {
+  "Points": 1745,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 1790,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +20%"
+ },
+ {
+  "Points": 1835,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 1880,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +20%"
+ },
+ {
+  "Points": 1940,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 2000,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +33%"
+ },
+ {
+  "Points": 2060,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +11%"
+ },
+ {
+  "Points": 2120,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 55%"
+ },
+ {
+  "Points": 2180,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 2240,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +22%"
+ },
+ {
+  "Points": 2300,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 2360,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +22%"
+ },
+ {
+  "Points": 2425,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 2490,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +36%"
+ },
+ {
+  "Points": 2555,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +12%"
+ },
+ {
+  "Points": 2620,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 60%"
+ },
+ {
+  "Points": 2685,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 2750,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +24%"
+ },
+ {
+  "Points": 2815,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 2880,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +24%"
+ },
+ {
+  "Points": 2950,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 3020,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +39%"
+ },
+ {
+  "Points": 3090,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +13%"
+ },
+ {
+  "Points": 3160,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 65%"
+ },
+ {
+  "Points": 3230,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 3300,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +26%"
+ },
+ {
+  "Points": 3370,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 3440,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +26%"
+ },
+ {
+  "Points": 3515,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 3590,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +42%"
+ },
+ {
+  "Points": 3665,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +14%"
+ },
+ {
+  "Points": 3740,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 70%"
+ },
+ {
+  "Points": 3815,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 3890,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +28%"
+ },
+ {
+  "Points": 3965,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 4040,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +28%"
+ },
+ {
+  "Points": 4120,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 4200,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +45%"
+ },
+ {
+  "Points": 4280,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +15%"
+ },
+ {
+  "Points": 4360,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 75%"
+ },
+ {
+  "Points": 4440,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 4520,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +30%"
+ },
+ {
+  "Points": 4600,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 4680,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +30%"
+ },
+ {
+  "Points": 4765,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 4850,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +48%"
+ },
+ {
+  "Points": 4935,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +16%"
+ },
+ {
+  "Points": 5020,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 80%"
+ },
+ {
+  "Points": 5105,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 5190,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +32%"
+ },
+ {
+  "Points": 5275,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 5360,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +32%"
+ },
+ {
+  "Points": 5450,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 5540,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +51%"
+ },
+ {
+  "Points": 5630,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +17%"
+ },
+ {
+  "Points": 5720,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 85%"
+ },
+ {
+  "Points": 5810,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 5900,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +34%"
+ },
+ {
+  "Points": 5990,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 6080,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +34%"
+ },
+ {
+  "Points": 6175,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 6270,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +54%"
+ },
+ {
+  "Points": 6365,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +18%"
+ },
+ {
+  "Points": 6460,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 90%"
+ },
+ {
+  "Points": 6555,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 6650,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +36%"
+ },
+ {
+  "Points": 6745,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 6840,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +36%"
+ },
+ {
+  "Points": 6940,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 7040,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +57%"
+ },
+ {
+  "Points": 7140,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +19%"
+ },
+ {
+  "Points": 7240,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 95%"
+ },
+ {
+  "Points": 7340,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 7440,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +38%"
+ },
+ {
+  "Points": 7540,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 7640,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +38%"
+ },
+ {
+  "Points": 7745,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 7850,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +60%"
+ },
+ {
+  "Points": 7955,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +20%"
+ },
+ {
+  "Points": 8060,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 100%"
+ },
+ {
+  "Points": 8165,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 8270,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +40%"
+ },
+ {
+  "Points": 8375,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 8480,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +40%"
+ },
+ {
+  "Points": 8590,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 8700,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +63%"
+ },
+ {
+  "Points": 8810,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +21%"
+ },
+ {
+  "Points": 8920,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 105%"
+ },
+ {
+  "Points": 9030,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 9140,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +42%"
+ },
+ {
+  "Points": 9250,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 9360,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +42%"
+ },
+ {
+  "Points": 9475,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 9590,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +66%"
+ },
+ {
+  "Points": 9705,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +22%"
+ },
+ {
+  "Points": 9820,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 110%"
+ },
+ {
+  "Points": 9935,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 10050,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +44%"
+ },
+ {
+  "Points": 10165,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 10280,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +44%"
+ },
+ {
+  "Points": 10400,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 10520,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +69%"
+ },
+ {
+  "Points": 10640,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +23%"
+ },
+ {
+  "Points": 10760,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 115%"
+ },
+ {
+  "Points": 10880,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 11000,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +46%"
+ },
+ {
+  "Points": 11120,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 11240,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +46%"
+ },
+ {
+  "Points": 11365,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 11490,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +72%"
+ },
+ {
+  "Points": 11615,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +24%"
+ },
+ {
+  "Points": 11740,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 120%"
+ },
+ {
+  "Points": 11865,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 11990,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +48%"
+ },
+ {
+  "Points": 12115,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 12240,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +48%"
+ },
+ {
+  "Points": 12370,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 12500,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +75%"
+ },
+ {
+  "Points": 12630,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +25%"
+ },
+ {
+  "Points": 12760,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 125%"
+ },
+ {
+  "Points": 12890,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 13020,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +50%"
+ },
+ {
+  "Points": 13150,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 13280,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +50%"
+ },
+ {
+  "Points": 13410,
+  "Buff": "ATK +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 13540,
+  "Buff": "DUNGEON GEAR DROP RATE +3%",
+  "Cummulative": "DUNGEON GEAR DROP RATE +78%"
+ },
+ {
+  "Points": 13670,
+  "Buff": "DEF +1%",
+  "Cummulative": "DEF +26%"
+ },
+ {
+  "Points": 13800,
+  "Buff": "GEM DROP RATE 5%",
+  "Cummulative": "GEM DROP RATE 130%"
+ },
+ {
+  "Points": 13930,
+  "Buff": "HP +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 14060,
+  "Buff": "DUNGEON 2X RATING REWARD +2%",
+  "Cummulative": "DUNGEON 2X RATING REWARD +52%"
+ },
+ {
+  "Points": 14190,
+  "Buff": "SPD +1%",
+  "Cummulative": ""
+ },
+ {
+  "Points": 14320,
+  "Buff": "EXP GAIN BOOST +2%",
+  "Cummulative": "EXP GAIN BOOST +52%"
+ }
+]

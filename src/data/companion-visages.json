@@ -1,0 +1,862 @@
+[
+ {
+  "NAME": "OPHELLIA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/OPHELLIA.COSMETICS 1.221035.jpg"
+ },
+ {
+  "NAME": "OPHELLIA",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/OPHELLIA.COSMETICS 2.221035.jpg"
+ },
+ {
+  "NAME": "GERALD",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/GERALD.COSMETICS 1.221137.jpg"
+ },
+ {
+  "NAME": "GERALD",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/GERALD.COSMETICS 2.221137.jpg"
+ },
+ {
+  "NAME": "VIGARD",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/VIGARD.COSMETICS 1.220545.jpg"
+ },
+ {
+  "NAME": "VIGARD",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/VIGARD.COSMETICS 2.220545.jpg"
+ },
+ {
+  "NAME": "ASTRID",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/ASTRID.COSMETICS 1.220920.jpg"
+ },
+ {
+  "NAME": "ASTRID",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/ASTRID.COSMETICS 2.220920.jpg"
+ },
+ {
+  "NAME": "ISLA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/ISLA.COSMETICS 1.221005.jpg"
+ },
+ {
+  "NAME": "ISLA",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/ISLA.COSMETICS 2.221005.jpg"
+ },
+ {
+  "NAME": "FREYA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/FREYA.COSMETICS 1.220756.jpg"
+ },
+ {
+  "NAME": "FREYA",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/FREYA.COSMETICS 2.220756.jpg"
+ },
+ {
+  "NAME": "SYLVIA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/SYLVIA.COSMETICS 1.220623.jpg"
+ },
+ {
+  "NAME": "SYLVIA",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/SYLVIA.COSMETICS 2.220623.jpg"
+ },
+ {
+  "NAME": "JUUBEE",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/JUUBEE.COSMETICS 1.215351.jpg"
+ },
+ {
+  "NAME": "JUUBEE",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/JUUBEE.COSMETICS 2.215351.jpg"
+ },
+ {
+  "NAME": "MAYOI",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/MAYOI.COSMETICS 1.215413.jpg"
+ },
+ {
+  "NAME": "MAYOI",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/MAYOI.COSMETICS 2.215413.jpg"
+ },
+ {
+  "NAME": "SUZU",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/SUZU.COSMETICS 1.215249.jpg"
+ },
+ {
+  "NAME": "SUZU",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/SUZU.COSMETICS 2.215249.jpg"
+ },
+ {
+  "NAME": "EIICHI",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/EIICHI.COSMETICS 1.215434.jpg"
+ },
+ {
+  "NAME": "EIICHI",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/EIICHI.COSMETICS 2.215434.jpg"
+ },
+ {
+  "NAME": "MIO",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/MIO.COSMETICS 1.215322.jpg"
+ },
+ {
+  "NAME": "MIO",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/MIO.COSMETICS 2.215322.jpg"
+ },
+ {
+  "NAME": "BRAULIO",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/BRAULIO.COSMETICS 1.214929.jpg"
+ },
+ {
+  "NAME": "BRAULIO",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/BRAULIO.COSMETICS 2.214929.jpg"
+ },
+ {
+  "NAME": "MICAELA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/MICAELA.COSMETICS 1.214957.jpg"
+ },
+ {
+  "NAME": "MICAELA",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/MICAELA.COSMETICS 2.214957.jpg"
+ },
+ {
+  "NAME": "KARLOS",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/KARLOS.COSMETICS 1.214840.jpg"
+ },
+ {
+  "NAME": "KARLOS",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/KARLOS.COSMETICS 2.214840.jpg"
+ },
+ {
+  "NAME": "MATEO",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/MATEO.COSMETICS 1.214811.jpg"
+ },
+ {
+  "NAME": "MATEO",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/MATEO.COSMETICS 2.214811.jpg"
+ },
+ {
+  "NAME": "NAIRA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/NAIRA.COSMETICS 1.214729.jpg"
+ },
+ {
+  "NAME": "NAIRA",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/NAIRA.COSMETICS 2.214729.jpg"
+ },
+ {
+  "NAME": "KAZUMA (KONASUBA)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "KAZUMA (KONASUBA)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "DARKNESS (KONASUBA)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "DARKNESS (KONASUBA)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "AQUA (KONASUBA)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "AQUA (KONASUBA)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MEGUMIN (KONASUBA)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MEGUMIN (KONASUBA)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "YAN HE (MUSIC FESTIVAL)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "YAN HE (MUSIC FESTIVAL)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "LUO TIANYI (MUSIC FESTIVAL)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "LUO TIANYI (MUSIC FESTIVAL)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "LUO TIANYI ANNIVERSARY",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "LUO TIANYI ANNIVERSARY",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "HE DACHUN (SCISSOR SEVEN)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "HE DACHUN (SCISSOR SEVEN)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "JI DABAO (SCISSOR SEVEN)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "JI DABAO (SCISSOR SEVEN)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MEI SHISAN (SCISSOR SEVEN)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MEI SHISAN (SCISSOR SEVEN)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "WU LIUQI (SCISSOR SEVEN)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "WU LIUQI (SCISSOR SEVEN)",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "LUO XIAOHEI",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "LUO XIAOHEI",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "WUXIAN",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "WUXIAN",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "LUYE",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "LUYE",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "NEZHA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "NEZHA",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "RIMURU",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "RIMURU",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MILIM",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MILIM",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "SHUNA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "SHUNA",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "BENIMARU",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "BENIMARU",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "KARLOS - TRIUMPH",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/KARLOS - TRIUMPH.COSMETICS 1.213547.jpg"
+ },
+ {
+  "NAME": "KARLOS - TRIUMPH",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/KARLOS - TRIUMPH.COSMETICS 2.213547.jpg"
+ },
+ {
+  "NAME": "QIN - LEAP",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/QIN - LEAP.COSMETICS 1.213643.jpg"
+ },
+ {
+  "NAME": "QIN - LEAP",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/QIN - LEAP.COSMETICS 2.213643.jpg"
+ },
+ {
+  "NAME": "CHIEF - STARFROST SANTA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/CHIEF - STARFROST SANTA.COSMETICS 1.214402.jpg"
+ },
+ {
+  "NAME": "CHIEF - STARFROST SANTA",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/CHIEF - STARFROST SANTA.COSMETICS 2.214402.jpg"
+ },
+ {
+  "NAME": "MOLLY - STARFROST WISH",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/MOLLY - STARFROST WISH.COSMETICS 1.214438.jpg"
+ },
+ {
+  "NAME": "MOLLY - STARFROST WISH",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/MOLLY - STARFROST WISH.COSMETICS 2.214438.jpg"
+ },
+ {
+  "NAME": "REINA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "REINA",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "REINA- DREAM CARNIVAL",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/REINA- DREAM CARNIVAL.COSMETICS 1.213458.jpg"
+ },
+ {
+  "NAME": "REINA- DREAM CARNIVAL",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/REINA- DREAM CARNIVAL.COSMETICS 2.213458.jpg"
+ },
+ {
+  "NAME": "AKANE- DREAM CARNIVAL",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/AKANE- DREAM CARNIVAL.COSMETICS 1.210537.jpg"
+ },
+ {
+  "NAME": "AKANE- DREAM CARNIVAL",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/AKANE- DREAM CARNIVAL.COSMETICS 2.210537.jpg"
+ },
+ {
+  "NAME": "CAROL- DREAM CARNIVAL",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/88.COSMETIC.024803.jpg"
+ },
+ {
+  "NAME": "CAROL- DREAM CARNIVAL",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/89.COSMETIC.024757.jpg"
+ },
+ {
+  "NAME": "MING- NEW YEARS",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/MING- NEW YEARS.COSMETICS 1.214246.jpg"
+ },
+ {
+  "NAME": "MING- NEW YEARS",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/MING- NEW YEARS.COSMETICS 2.214246.jpg"
+ },
+ {
+  "NAME": "JIANG WIANG - LAMP BLESSING",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/JIANG WIANG - LAMP BLESSING.COSMETICS 1.214212.jpg"
+ },
+ {
+  "NAME": "JIANG WIANG - LAMP BLESSING",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/JIANG WIANG - LAMP BLESSING.COSMETICS 2.214212.jpg"
+ },
+ {
+  "NAME": "SUIMO - LAMP OF GOOD FORTUNE",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/SUIMO - LAMP OF GOOD FORTUNE.COSMETICS 1.214319.jpg"
+ },
+ {
+  "NAME": "SUIMO - LAMP OF GOOD FORTUNE",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/SUIMO - LAMP OF GOOD FORTUNE.COSMETICS 2.214319.jpg"
+ },
+ {
+  "NAME": "MOMOKO",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/MOMOKO.COSMETICS 1.214608.jpg"
+ },
+ {
+  "NAME": "MOMOKO",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/MOMOKO.COSMETICS 2.214614.jpg"
+ },
+ {
+  "NAME": "RIVEN",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/RIVEN.COSMETICS 1.231219.jpg"
+ },
+ {
+  "NAME": "RIVEN",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/RIVEN.COSMETICS 2.231219.jpg"
+ },
+ {
+  "NAME": "ALICE",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/ALICE.COSMETICS 1.230719.jpg"
+ },
+ {
+  "NAME": "ALICE",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/ALICE.COSMETICS 2.230719.jpg"
+ },
+ {
+  "NAME": "BELRIC",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/BELRIC.COSMETICS 1.231105.jpg"
+ },
+ {
+  "NAME": "BELRIC",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/BELRIC.COSMETICS 2.231105.jpg"
+ },
+ {
+  "NAME": "LILLIE",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/LILLIE.COSMETICS 1.230805.jpg"
+ },
+ {
+  "NAME": "LILLIE",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/LILLIE.COSMETICS 2.230805.jpg"
+ },
+ {
+  "NAME": "DERRICK",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/DERRICK.COSMETICS 1.230946.jpg"
+ },
+ {
+  "NAME": "DERRICK",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/DERRICK.COSMETICS 2.230946.jpg"
+ },
+ {
+  "NAME": "LUTHER",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/LUTHER.COSMETICS 1.230910.jpg"
+ },
+ {
+  "NAME": "LUTHER",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/LUTHER.COSMETICS 2.230910.jpg"
+ },
+ {
+  "NAME": "MYNN",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/MYNN.COSMETICS 1.231151.jpg"
+ },
+ {
+  "NAME": "MYNN",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/MYNN.COSMETICS 2.231151.jpg"
+ },
+ {
+  "NAME": "DORA (ABSURD GOD)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/112.COSMETIC.150808.png"
+ },
+ {
+  "NAME": "DORA (ABSURD GOD)",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/113.COSMETIC.150823.png"
+ },
+ {
+  "NAME": "YMIR (GOD OF BALANCE)",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/114.COSMETIC.024540.jpg"
+ },
+ {
+  "NAME": "YMIR (GOD OF BALANCE)",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/115.COSMETIC.024533.jpg"
+ },
+ {
+  "NAME": "WOLFFLAME",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/116.COSMETIC.151150.png"
+ },
+ {
+  "NAME": "WOLFFLAME",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/117.COSMETIC.151134.png"
+ },
+ {
+  "NAME": "LEX",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/118.COSMETIC.150905.png"
+ },
+ {
+  "NAME": "LEX",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/119.COSMETIC.150919.png"
+ },
+ {
+  "NAME": "CHARLES",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/120.COSMETIC.151213.png"
+ },
+ {
+  "NAME": "CHARLES",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/121.COSMETIC.151229.png"
+ },
+ {
+  "NAME": "KASSANDRA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/122.COSMETIC.151304.png"
+ },
+ {
+  "NAME": "KASSANDRA",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/123.COSMETIC.151251.png"
+ },
+ {
+  "NAME": "SKADI",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/124.COSMETIC.151340.png"
+ },
+ {
+  "NAME": "SKADI",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/125.COSMETIC.151319.png"
+ },
+ {
+  "NAME": "SOULT",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/126.COSMETIC.151455.png"
+ },
+ {
+  "NAME": "SOULT",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/127.COSMETIC.151413.png"
+ },
+ {
+  "NAME": "JIANGWANG",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/JIANGWANG.COSMETICS 1.215625.jpg"
+ },
+ {
+  "NAME": "JIANGWANG",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/JIANGWANG.COSMETICS 2.215625.jpg"
+ },
+ {
+  "NAME": "HUI",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/HUI.COSMETICS 1.215647.jpg"
+ },
+ {
+  "NAME": "HUI",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/HUI.COSMETICS 2.215647.jpg"
+ },
+ {
+  "NAME": "SUIMO",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/SUIMO.COSMETICS 1.215534.jpg"
+ },
+ {
+  "NAME": "SUIMO",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/SUIMO.COSMETICS 2.215534.jpg"
+ },
+ {
+  "NAME": "MING",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/MING.COSMETICS 1.215601.jpg"
+ },
+ {
+  "NAME": "MING",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/MING.COSMETICS 2.215601.jpg"
+ },
+ {
+  "NAME": "WUJI",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/WUJI.COSMETICS 1.215714.jpg"
+ },
+ {
+  "NAME": "WUJI",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/WUJI.COSMETICS 2.215714.jpg"
+ },
+ {
+  "NAME": "AKANE",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "AKANE",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MYSTERIOUS MERCHANT",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MYSTERIOUS MERCHANT",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "CAROL",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "CAROL",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "HERMES",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "HERMES",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MOLLY",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "MOLLY",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "CHIEF",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/CHIEF.COSMETICS 1.215213.jpg"
+ },
+ {
+  "NAME": "CHIEF",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/CHIEF.COSMETICS 2.215213.jpg"
+ },
+ {
+  "NAME": "KILLIAN",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/KILLIAN.COSMETICS 1.215112.jpg"
+ },
+ {
+  "NAME": "KILLIAN",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/KILLIAN.COSMETICS 2.215112.jpg"
+ },
+ {
+  "NAME": "QIN",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companions_Images/QIN.COSMETICS 1.215143.jpg"
+ },
+ {
+  "NAME": "QIN",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companions_Images/QIN.COSMETICS 2.215143.jpg"
+ },
+ {
+  "NAME": "ZIXIA FAIRY",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "ZIXIA FAIRY",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "IMIR",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "IMIR",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "WUKONG",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "WUKONG",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "SUPREME TREASURE",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "SUPREME TREASURE",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "TANG SANZANG",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "TANG SANZANG",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "HITORI GOTOH",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "HITORI GOTOH",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "NIJIKA IJICHI",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "NIJIKA IJICHI",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "RYO YAMADA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "RYO YAMADA",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "IKUYO KITA",
+  "TYPE": "OFFHAND",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "IKUYO KITA",
+  "TYPE": "MAIN",
+  "COSMETIC": ""
+ },
+ {
+  "NAME": "TIANCHENG",
+  "TYPE": "MAIN",
+  "COSMETIC": "Companion Visages_Images/172.COSMETIC.043603.png"
+ },
+ {
+  "NAME": "TIANCHENG",
+  "TYPE": "OFFHAND",
+  "COSMETIC": "Companion Visages_Images/173.COSMETIC.043723.png"
+ }
+]

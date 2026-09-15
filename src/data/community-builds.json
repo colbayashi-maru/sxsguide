@@ -1,0 +1,50 @@
+[
+ {
+  "Build Name": "Just build it",
+  "Class": "CONQUEROR (T4)",
+  "Skill Slot 1": "Gale Dance",
+  "Skill Slot 2": "Flash Fire",
+  "Skill Slot 3": "Flickering Blade",
+  "Skill Slot 4": "Wind Blade Slash",
+  "Charm Slot 1": "Indomitable Will",
+  "Charm Slot 2": "Insightful Eye",
+  "Charm Slot 3": "Piercing Assault",
+  "Charm Slot 4": "Tactical Adaptation"
+ },
+ {
+  "Build Name": "General PvP",
+  "Class": "RAVAGER (T5)",
+  "Skill Slot 1": "Flash Fire",
+  "Skill Slot 2": "Shattering Dance",
+  "Skill Slot 3": "Blade Storm",
+  "Skill Slot 4": "Flickering Blade",
+  "Charm Slot 1": "Piercing Assault",
+  "Charm Slot 2": "Tactical Adaptation",
+  "Charm Slot 3": "Insightful Eye",
+  "Charm Slot 4": "Indomitable Will"
+ },
+ {
+  "Build Name": "PVP Templar",
+  "Class": "TEMPLAR (T5)",
+  "Skill Slot 1": "Valor Surge",
+  "Skill Slot 2": "Hamper Strike",
+  "Skill Slot 3": "Heart of Challenge",
+  "Skill Slot 4": "Lunarwater Threads",
+  "Charm Slot 1": "Block Awareness",
+  "Charm Slot 2": "Block Mastery",
+  "Charm Slot 3": "Iron Will",
+  "Charm Slot 4": "Soul Protection"
+ },
+ {
+  "Build Name": "Pvp",
+  "Class": "DESTROYER (T4)",
+  "Skill Slot 1": "Formation Breaker",
+  "Skill Slot 2": "Wind's Delight",
+  "Skill Slot 3": "Thunder of Judgment",
+  "Skill Slot 4": "Divine Wrath",
+  "Charm Slot 1": "Repelling Wind",
+  "Charm Slot 2": "Rapid Cast",
+  "Charm Slot 3": "Radiant Sear",
+  "Charm Slot 4": "Void Bubble"
+ }
+]

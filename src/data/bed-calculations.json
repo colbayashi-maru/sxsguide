@@ -1,0 +1,578 @@
+[
+ {
+  "Blessing Level": 1,
+  "Base XP/h": 50
+ },
+ {
+  "Blessing Level": 2,
+  "Base XP/h": 500
+ },
+ {
+  "Blessing Level": 3,
+  "Base XP/h": 525
+ },
+ {
+  "Blessing Level": 4,
+  "Base XP/h": 550
+ },
+ {
+  "Blessing Level": 5,
+  "Base XP/h": 570
+ },
+ {
+  "Blessing Level": 6,
+  "Base XP/h": 585
+ },
+ {
+  "Blessing Level": 7,
+  "Base XP/h": 600
+ },
+ {
+  "Blessing Level": 8,
+  "Base XP/h": 620
+ },
+ {
+  "Blessing Level": 9,
+  "Base XP/h": 640
+ },
+ {
+  "Blessing Level": 10,
+  "Base XP/h": 660
+ },
+ {
+  "Blessing Level": 11,
+  "Base XP/h": 680
+ },
+ {
+  "Blessing Level": 12,
+  "Base XP/h": 700
+ },
+ {
+  "Blessing Level": 13,
+  "Base XP/h": 720
+ },
+ {
+  "Blessing Level": 14,
+  "Base XP/h": 740
+ },
+ {
+  "Blessing Level": 15,
+  "Base XP/h": 765
+ },
+ {
+  "Blessing Level": 16,
+  "Base XP/h": 785
+ },
+ {
+  "Blessing Level": 17,
+  "Base XP/h": 810
+ },
+ {
+  "Blessing Level": 18,
+  "Base XP/h": 835
+ },
+ {
+  "Blessing Level": 19,
+  "Base XP/h": 2575
+ },
+ {
+  "Blessing Level": 20,
+  "Base XP/h": 2655
+ },
+ {
+  "Blessing Level": 21,
+  "Base XP/h": 2735
+ },
+ {
+  "Blessing Level": 22,
+  "Base XP/h": 2815
+ },
+ {
+  "Blessing Level": 23,
+  "Base XP/h": 2900
+ },
+ {
+  "Blessing Level": 24,
+  "Base XP/h": 2985
+ },
+ {
+  "Blessing Level": 25,
+  "Base XP/h": 3075
+ },
+ {
+  "Blessing Level": 26,
+  "Base XP/h": 3170
+ },
+ {
+  "Blessing Level": 27,
+  "Base XP/h": 3265
+ },
+ {
+  "Blessing Level": 28,
+  "Base XP/h": 3360
+ },
+ {
+  "Blessing Level": 29,
+  "Base XP/h": 3465
+ },
+ {
+  "Blessing Level": 30,
+  "Base XP/h": 3565
+ },
+ {
+  "Blessing Level": 31,
+  "Base XP/h": 3675
+ },
+ {
+  "Blessing Level": 32,
+  "Base XP/h": 3785
+ },
+ {
+  "Blessing Level": 33,
+  "Base XP/h": 3895
+ },
+ {
+  "Blessing Level": 34,
+  "Base XP/h": 4015
+ },
+ {
+  "Blessing Level": 35,
+  "Base XP/h": 4135
+ },
+ {
+  "Blessing Level": 36,
+  "Base XP/h": 4260
+ },
+ {
+  "Blessing Level": 37,
+  "Base XP/h": 13160
+ },
+ {
+  "Blessing Level": 38,
+  "Base XP/h": 13555
+ },
+ {
+  "Blessing Level": 39,
+  "Base XP/h": 13960
+ },
+ {
+  "Blessing Level": 40,
+  "Base XP/h": 14380
+ },
+ {
+  "Blessing Level": 41,
+  "Base XP/h": 14810
+ },
+ {
+  "Blessing Level": 42,
+  "Base XP/h": 15255
+ },
+ {
+  "Blessing Level": 43,
+  "Base XP/h": 15710
+ },
+ {
+  "Blessing Level": 44,
+  "Base XP/h": 16185
+ },
+ {
+  "Blessing Level": 45,
+  "Base XP/h": 16670
+ },
+ {
+  "Blessing Level": 46,
+  "Base XP/h": 17170
+ },
+ {
+  "Blessing Level": 47,
+  "Base XP/h": 17685
+ },
+ {
+  "Blessing Level": 48,
+  "Base XP/h": 18215
+ },
+ {
+  "Blessing Level": 49,
+  "Base XP/h": 18760
+ },
+ {
+  "Blessing Level": 50,
+  "Base XP/h": 19325
+ },
+ {
+  "Blessing Level": 51,
+  "Base XP/h": 19905
+ },
+ {
+  "Blessing Level": 52,
+  "Base XP/h": 20500
+ },
+ {
+  "Blessing Level": 53,
+  "Base XP/h": 21115
+ },
+ {
+  "Blessing Level": 54,
+  "Base XP/h": 21750
+ },
+ {
+  "Blessing Level": 55,
+  "Base XP/h": 67205
+ },
+ {
+  "Blessing Level": 56,
+  "Base XP/h": 69225
+ },
+ {
+  "Blessing Level": 57,
+  "Base XP/h": 71300
+ },
+ {
+  "Blessing Level": 58,
+  "Base XP/h": 73440
+ },
+ {
+  "Blessing Level": 59,
+  "Base XP/h": 75640
+ },
+ {
+  "Blessing Level": 60,
+  "Base XP/h": 77910
+ },
+ {
+  "Blessing Level": 61,
+  "Base XP/h": 80250
+ },
+ {
+  "Blessing Level": 62,
+  "Base XP/h": 82655
+ },
+ {
+  "Blessing Level": 63,
+  "Base XP/h": 85135
+ },
+ {
+  "Blessing Level": 64,
+  "Base XP/h": 87690
+ },
+ {
+  "Blessing Level": 65,
+  "Base XP/h": 90320
+ },
+ {
+  "Blessing Level": 66,
+  "Base XP/h": 93030
+ },
+ {
+  "Blessing Level": 67,
+  "Base XP/h": 95820
+ },
+ {
+  "Blessing Level": 68,
+  "Base XP/h": 98695
+ },
+ {
+  "Blessing Level": 69,
+  "Base XP/h": 101655
+ },
+ {
+  "Blessing Level": 70,
+  "Base XP/h": 104705
+ },
+ {
+  "Blessing Level": 71,
+  "Base XP/h": 107845
+ },
+ {
+  "Blessing Level": 72,
+  "Base XP/h": 111080
+ },
+ {
+  "Blessing Level": 73,
+  "Base XP/h": 343245
+ },
+ {
+  "Blessing Level": 74,
+  "Base XP/h": 353540
+ },
+ {
+  "Blessing Level": 75,
+  "Base XP/h": 364145
+ },
+ {
+  "Blessing Level": 76,
+  "Base XP/h": 375070
+ },
+ {
+  "Blessing Level": 77,
+  "Base XP/h": 386325
+ },
+ {
+  "Blessing Level": 78,
+  "Base XP/h": 397915
+ },
+ {
+  "Blessing Level": 79,
+  "Base XP/h": 409850
+ },
+ {
+  "Blessing Level": 80,
+  "Base XP/h": 422145
+ },
+ {
+  "Blessing Level": 81,
+  "Base XP/h": 434810
+ },
+ {
+  "Blessing Level": 82,
+  "Base XP/h": 447855
+ },
+ {
+  "Blessing Level": 83,
+  "Base XP/h": 461290
+ },
+ {
+  "Blessing Level": 84,
+  "Base XP/h": 475130
+ },
+ {
+  "Blessing Level": 85,
+  "Base XP/h": 489385
+ },
+ {
+  "Blessing Level": 86,
+  "Base XP/h": 504065
+ },
+ {
+  "Blessing Level": 87,
+  "Base XP/h": 519185
+ },
+ {
+  "Blessing Level": 88,
+  "Base XP/h": 534760
+ },
+ {
+  "Blessing Level": 89,
+  "Base XP/h": 550805
+ },
+ {
+  "Blessing Level": 90,
+  "Base XP/h": 567330
+ },
+ {
+  "Blessing Level": 91,
+  "Base XP/h": 2921745
+ },
+ {
+  "Blessing Level": 92,
+  "Base XP/h": 3009395
+ },
+ {
+  "Blessing Level": 93,
+  "Base XP/h": 3099680
+ },
+ {
+  "Blessing Level": 94,
+  "Base XP/h": 3192670
+ },
+ {
+  "Blessing Level": 95,
+  "Base XP/h": 3288450
+ },
+ {
+  "Blessing Level": 96,
+  "Base XP/h": 3387100
+ },
+ {
+  "Blessing Level": 97,
+  "Base XP/h": 3488715
+ },
+ {
+  "Blessing Level": 98,
+  "Base XP/h": 3593375
+ },
+ {
+  "Blessing Level": 99,
+  "Base XP/h": 3701180
+ },
+ {
+  "Blessing Level": 100,
+  "Base XP/h": 3812215
+ },
+ {
+  "Blessing Level": 101,
+  "Base XP/h": 3926580
+ },
+ {
+  "Blessing Level": 102,
+  "Base XP/h": 4044375
+ },
+ {
+  "Blessing Level": 103,
+  "Base XP/h": 4165710
+ },
+ {
+  "Blessing Level": 104,
+  "Base XP/h": 4290680
+ },
+ {
+  "Blessing Level": 105,
+  "Base XP/h": 4419400
+ },
+ {
+  "Blessing Level": 106,
+  "Base XP/h": 4551980
+ },
+ {
+  "Blessing Level": 107,
+  "Base XP/h": 4688540
+ },
+ {
+  "Blessing Level": 108,
+  "Base XP/h": 4829200
+ },
+ {
+  "Blessing Level": 109,
+  "Base XP/h": 14922220
+ },
+ {
+  "Blessing Level": 110,
+  "Base XP/h": 15369890
+ },
+ {
+  "Blessing Level": 111,
+  "Base XP/h": 15830985
+ },
+ {
+  "Blessing Level": 112,
+  "Base XP/h": 16305915
+ },
+ {
+  "Blessing Level": 113,
+  "Base XP/h": 16795090
+ },
+ {
+  "Blessing Level": 114,
+  "Base XP/h": 17298945
+ },
+ {
+  "Blessing Level": 115,
+  "Base XP/h": 17817915
+ },
+ {
+  "Blessing Level": 116,
+  "Base XP/h": 18352450
+ },
+ {
+  "Blessing Level": 117,
+  "Base XP/h": 18903025
+ },
+ {
+  "Blessing Level": 118,
+  "Base XP/h": 19470115
+ },
+ {
+  "Blessing Level": 119,
+  "Base XP/h": 20054220
+ },
+ {
+  "Blessing Level": 120,
+  "Base XP/h": 20655845
+ },
+ {
+  "Blessing Level": 121,
+  "Base XP/h": 21275520
+ },
+ {
+  "Blessing Level": 122,
+  "Base XP/h": 21913785
+ },
+ {
+  "Blessing Level": 123,
+  "Base XP/h": 22571200
+ },
+ {
+  "Blessing Level": 124,
+  "Base XP/h": 23248335
+ },
+ {
+  "Blessing Level": 125,
+  "Base XP/h": 23945785
+ },
+ {
+  "Blessing Level": 126,
+  "Base XP/h": 24664160
+ },
+ {
+  "Blessing Level": 127,
+  "Base XP/h": 76212250
+ },
+ {
+  "Blessing Level": 128,
+  "Base XP/h": 78498615
+ },
+ {
+  "Blessing Level": 129,
+  "Base XP/h": 80853575
+ },
+ {
+  "Blessing Level": 130,
+  "Base XP/h": 83279180
+ },
+ {
+  "Blessing Level": 131,
+  "Base XP/h": 85777555
+ },
+ {
+  "Blessing Level": 132,
+  "Base XP/h": 88350885
+ },
+ {
+  "Blessing Level": 133,
+  "Base XP/h": 91001410
+ },
+ {
+  "Blessing Level": 134,
+  "Base XP/h": 93731450
+ },
+ {
+  "Blessing Level": 135,
+  "Base XP/h": 96543395
+ },
+ {
+  "Blessing Level": 136,
+  "Base XP/h": 99439700
+ },
+ {
+  "Blessing Level": 137,
+  "Base XP/h": 102422890
+ },
+ {
+  "Blessing Level": 138,
+  "Base XP/h": 105495575
+ },
+ {
+  "Blessing Level": 139,
+  "Base XP/h": 108660445
+ },
+ {
+  "Blessing Level": 140,
+  "Base XP/h": 111920255
+ },
+ {
+  "Blessing Level": 141,
+  "Base XP/h": 115277865
+ },
+ {
+  "Blessing Level": 142,
+  "Base XP/h": 118736200
+ },
+ {
+  "Blessing Level": 143,
+  "Base XP/h": 122298285
+ },
+ {
+  "Blessing Level": 144,
+  "Base XP/h": 125967235
+ }
+]

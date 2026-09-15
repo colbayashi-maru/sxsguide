@@ -1,0 +1,290 @@
+[
+ {
+  "SEASON": "",
+  "DUNGEON": "Ocean Palace Ruins (100)",
+  "LEGENDARY": 50400,
+  "MYTHIC": 56200,
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 1",
+  "DUNGEON": "Aquorigin Shrine (100 - 150)",
+  "LEGENDARY": 183000,
+  "MYTHIC": 206000,
+  "DIVINE": 221000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 1",
+  "DUNGEON": "Hellhold (100 - 200)",
+  "LEGENDARY": 418000,
+  "MYTHIC": 472000,
+  "DIVINE": 507000,
+  "DIVINE+": 649000
+ },
+ {
+  "SEASON": "SEASON 2",
+  "DUNGEON": "Demonseal Gorge (130)",
+  "LEGENDARY": 13000,
+  "MYTHIC": 145000,
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 2",
+  "DUNGEON": "Warlord's Rest (130 - 165)",
+  "LEGENDARY": 326000,
+  "MYTHIC": 366000,
+  "DIVINE": 394000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 2",
+  "DUNGEON": "Cloudcrest Temple (130 - 195)",
+  "LEGENDARY": 566000,
+  "MYTHIC": 636000,
+  "DIVINE": 690000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 3",
+  "DUNGEON": "Bladeshire (130 - 225)",
+  "LEGENDARY": 1000000,
+  "MYTHIC": 1130000,
+  "DIVINE": 1230000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 3",
+  "DUNGEON": "Celestship (130 - 260)",
+  "LEGENDARY": 1570000,
+  "MYTHIC": 1780000,
+  "DIVINE": 1950000,
+  "DIVINE+": 2400000
+ },
+ {
+  "SEASON": "SEASON 3",
+  "DUNGEON": "Crystal Spiral Tree (160)",
+  "LEGENDARY": 313000,
+  "MYTHIC": 349000,
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 3",
+  "DUNGEON": "Eternal Flower Garden (160 - 200)",
+  "LEGENDARY": 935000,
+  "MYTHIC": 1050000,
+  "DIVINE": 1160000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 3",
+  "DUNGEON": "Battle Abyss Fortress (160 - 235)",
+  "LEGENDARY": 1860000,
+  "MYTHIC": 2100000,
+  "DIVINE": 2320000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 4",
+  "DUNGEON": "Purification Court (160 - 270)",
+  "LEGENDARY": 3520000,
+  "MYTHIC": 3990000,
+  "DIVINE": 4410000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 4",
+  "DUNGEON": "Order Temple (160 - 305)",
+  "LEGENDARY": 5950000,
+  "MYTHIC": 6750000,
+  "DIVINE": 7470000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 4",
+  "DUNGEON": "Blazing Sun Spire (160 - 340)",
+  "LEGENDARY": 9360000,
+  "MYTHIC": 10610000,
+  "DIVINE": 11740000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 4",
+  "DUNGEON": "Sovereign's Nest (160 - 425)",
+  "LEGENDARY": 14330000,
+  "MYTHIC": 16260000,
+  "DIVINE": 22570000,
+  "DIVINE+": 27600000
+ },
+ {
+  "SEASON": "SEASON 4",
+  "DUNGEON": "Wonderful Clock Tower (190)",
+  "LEGENDARY": 745000,
+  "MYTHIC": 829000,
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Paradise Pirate Ship (190 - 225)",
+  "LEGENDARY": 1850000,
+  "MYTHIC": 2070000,
+  "DIVINE": 2270000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Poseidon's Submarine (190 - 260)",
+  "LEGENDARY": 3750000,
+  "MYTHIC": 4200000,
+  "DIVINE": 4620000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Clockwork Fortress (190 - 295)",
+  "LEGENDARY": 7680000,
+  "MYTHIC": 8660000,
+  "DIVINE": 9550000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Celestial Observatory (190 - 330)",
+  "LEGENDARY": 13000000,
+  "MYTHIC": 14710000,
+  "DIVINE": 16240000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Titan Hot Air Balloon (190 - 365)",
+  "LEGENDARY": 20420000,
+  "MYTHIC": 23130000,
+  "DIVINE": 25570000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Star City (190 - 455)",
+  "LEGENDARY": 31380000,
+  "MYTHIC": 35580000,
+  "DIVINE": 51360000,
+  "DIVINE+": 63560000
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Ice Spire (220)",
+  "LEGENDARY": 1650000,
+  "MYTHIC": 1850000,
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Blackrock Ruins (220 - 255)",
+  "LEGENDARY": 4150000,
+  "MYTHIC": 4660000,
+  "DIVINE": 5120000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Everfrost Castle (220 - 290)",
+  "LEGENDARY": 8460000,
+  "MYTHIC": 9540000,
+  "DIVINE": 10500000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Throne of Inferno (220 - 325)",
+  "LEGENDARY": 17540000,
+  "MYTHIC": 19860000,
+  "DIVINE": 21940000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Moon Palace (220 - 360)",
+  "LEGENDARY": 29900000,
+  "MYTHIC": 33920000,
+  "DIVINE": 37530000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "SEASON 5",
+  "DUNGEON": "Crimson Wedge (220 - 395)",
+  "LEGENDARY": 47120000,
+  "MYTHIC": 53500000,
+  "DIVINE": 59250000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "",
+  "DUNGEON": "Origin Gate (220 - 485)",
+  "LEGENDARY": 72540000,
+  "MYTHIC": 82420000,
+  "DIVINE": 119000000,
+  "DIVINE+": 145000000
+ },
+ {
+  "SEASON": "",
+  "DUNGEON": "Hurricane Pillar (250)",
+  "LEGENDARY": 3670000,
+  "MYTHIC": 4120000,
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "",
+  "DUNGEON": "Tide Temple (250 - 295)",
+  "LEGENDARY": 11160000,
+  "MYTHIC": 12570000,
+  "DIVINE": 13840000,
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "",
+  "DUNGEON": "Burning Crystal City",
+  "LEGENDARY": "",
+  "MYTHIC": "",
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "",
+  "DUNGEON": "Panyan Battle Formation",
+  "LEGENDARY": "",
+  "MYTHIC": "",
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "",
+  "DUNGEON": "Holy Dawn Court",
+  "LEGENDARY": "",
+  "MYTHIC": "",
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "",
+  "DUNGEON": "Abyss",
+  "LEGENDARY": "",
+  "MYTHIC": "",
+  "DIVINE": "",
+  "DIVINE+": ""
+ },
+ {
+  "SEASON": "",
+  "DUNGEON": "Tianyun Fortress",
+  "LEGENDARY": "",
+  "MYTHIC": "",
+  "DIVINE": "",
+  "DIVINE+": ""
+ }
+]
