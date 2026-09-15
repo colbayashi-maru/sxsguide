@@ -118,6 +118,21 @@ export interface ExperiencePlan {
   steps: { level: number; needed: number; cumulative: number }[];
 }
 
+/** Cumulative experience required to reach a level, or null if off the table. */
+export function totalExperienceAt(level: number): number | null {
+  const row = experienceTable.find((r) => r.Level === level);
+  return row && typeof row['Total Experience'] === 'number'
+    ? row['Total Experience']
+    : null;
+}
+
+/** Experience to climb from one level to another. Null if either is off-table. */
+export function experienceBetween(from: number, to: number): number | null {
+  const a = totalExperienceAt(from);
+  const b = totalExperienceAt(to);
+  return a === null || b === null ? null : Math.max(0, b - a);
+}
+
 const totalExpAt = (level: number): number | null => {
   const row = experienceTable.find((r) => r.Level === level);
   return row && typeof row['Total Experience'] === 'number'

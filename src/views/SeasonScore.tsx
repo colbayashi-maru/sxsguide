@@ -4,6 +4,7 @@ import { formatNumber, parseDate, seasonForDay, serverDay } from '../lib/compute
 import type { ScoreBand, SeasonScoring } from '../lib/types';
 import type { Profile } from '../lib/profile';
 import { Empty, Panel, Stat } from '../components/ui';
+import Improve from './Improve';
 
 type Inputs = Record<string, number>;
 
@@ -90,6 +91,12 @@ export default function SeasonScore({ profile }: { profile: Profile }) {
   const band = gradeFor(total, season.bands);
   const nextBand = season.bands.find((b) => b.min > total);
 
+  // Re-key the flat input map by plain label for the advisor.
+  const gameplayScores = Object.fromEntries(
+    season.gameplay.map((label) => [label, inputs[`g:${label}`] || 0]));
+  const progressionLevels = Object.fromEntries(
+    progressionRows.map(({ rule, levels }) => [rule.label, levels]));
+
   return (
     <>
       <Panel
@@ -132,6 +139,16 @@ export default function SeasonScore({ profile }: { profile: Profile }) {
           />
         </div>
       </Panel>
+
+      <Improve
+        season={season}
+        gameplayScores={gameplayScores}
+        progressionLevels={progressionLevels}
+        total={total}
+        band={band}
+        nextBand={nextBand}
+        expPerHour={profile.expPerHour}
+      />
 
       <Panel title="Gameplay rating" note="Points earned from each season activity">
         <div className="grid cols-3">
