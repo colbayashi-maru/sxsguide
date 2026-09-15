@@ -22,6 +22,9 @@ function num(value: string): number | null {
 
 export default function Setup({ profile, update, setProfile, reset, onDone }: Props) {
   const [servers, setServers] = useState<ServerRow[] | null>(null);
+  // What the player has typed so far, kept apart from the confirmed selection
+  // so a half-typed name does not wipe the server they already picked.
+  const [query, setQuery] = useState(profile.serverName);
 
   useEffect(() => {
     let cancelled = false;
@@ -29,30 +32,44 @@ export default function Setup({ profile, update, setProfile, reset, onDone }: Pr
     return () => { cancelled = true; };
   }, []);
 
-  const nexusList = useMemo(() => {
-    const set = new Set<number>();
-    for (const s of servers ?? []) if (typeof s.NEXUS === 'number') set.add(s.NEXUS);
-    return [...set].sort((a, b) => a - b);
-  }, [servers]);
+  // Every server name in the workbook is unique, so the name alone identifies a
+  // server and the nexus can be derived rather than asked for.
+  const sortedServers = useMemo(
+    () => [...(servers ?? [])].sort((a, b) =>
+      a['SERVER NAME'].localeCompare(b['SERVER NAME'], undefined, { numeric: true })),
+    [servers],
+  );
 
-  const serversInNexus = useMemo(() => {
-    if (!servers || profile.nexus === null) return [];
-    return servers
-      .filter((s) => s.NEXUS === profile.nexus)
-      .sort((a, b) => Number(a['SERVER #']) - Number(b['SERVER #']));
-  }, [servers, profile.nexus]);
+  const matched = useMemo(() => {
+    const needle = query.trim().toLowerCase();
+    if (!needle) return undefined;
+    return sortedServers.find((s) => s['SERVER NAME'].toLowerCase() === needle);
+  }, [sortedServers, query]);
 
-  function pickServer(name: string) {
-    const server = serversInNexus.find((s) => s['SERVER NAME'] === name);
+  // Partial matches, so a half-typed name reads as progress rather than as an
+  // error. Only text that matches nothing at all is reported as not found.
+  const partialCount = useMemo(() => {
+    const needle = query.trim().toLowerCase();
+    if (!needle || matched) return 0;
+    return sortedServers.filter((s) => s['SERVER NAME'].toLowerCase().includes(needle)).length;
+  }, [sortedServers, query, matched]);
+
+  function typeServer(value: string) {
+    setQuery(value);
+    const needle = value.trim().toLowerCase();
+    const server = sortedServers.find((s) => s['SERVER NAME'].toLowerCase() === needle);
     if (!server) {
-      setProfile({ ...profile, serverName: '', serverNumber: null });
+      // Keep whatever start date is already set: a player mid-keystroke has not
+      // asked to clear their server, and unlisted servers rely on it.
+      setProfile({ ...profile, serverName: '', serverNumber: null, nexus: null });
       return;
     }
-    // Selecting a server is what supplies the start date the whole guide is
-    // keyed on, so write both in one update.
+    // Picking a server is what supplies the start date the whole guide is keyed
+    // on, so write it and the nexus together.
     setProfile({
       ...profile,
       serverName: server['SERVER NAME'],
+      nexus: typeof server.NEXUS === 'number' ? server.NEXUS : null,
       serverNumber: typeof server['SERVER #'] === 'number' ? server['SERVER #'] : null,
       startDate: server['START DATE'] || server['SERVER CREATION TIME'] || '',
     });
@@ -76,40 +93,35 @@ export default function Setup({ profile, update, setProfile, reset, onDone }: Pr
         title="Your server"
         note="Everything in the guide is dated from the day your server opened."
       >
-        <div className="grid cols-3">
+        <div className="grid cols-2">
           <div className="field">
-            <label htmlFor="nexus">Nexus</label>
-            <select
-              id="nexus"
-              value={profile.nexus ?? ''}
-              disabled={!servers}
-              onChange={(e) => setProfile({
-                ...profile,
-                nexus: num(e.target.value),
-                serverName: '',
-                serverNumber: null,
-              })}
-            >
-              <option value="">{servers ? 'Select…' : 'Loading…'}</option>
-              {nexusList.map((n) => <option key={n} value={n}>{n}</option>)}
-            </select>
-          </div>
-
-          <div className="field">
-            <label htmlFor="server">Server</label>
-            <select
+            <label htmlFor="server">Server name</label>
+            <input
               id="server"
-              value={profile.serverName}
-              disabled={!serversInNexus.length}
-              onChange={(e) => pickServer(e.target.value)}
-            >
-              <option value="">{profile.nexus === null ? 'Pick a nexus first' : 'Select…'}</option>
-              {serversInNexus.map((s) => (
-                <option key={`${s['SERVER #']}-${s['SERVER NAME']}`} value={s['SERVER NAME']}>
-                  {s['SERVER #']} · {s['SERVER NAME']}
+              list="server-options"
+              autoComplete="off"
+              spellCheck={false}
+              value={query}
+              placeholder={servers ? 'Start typing, e.g. First Dawn' : 'Loading servers…'}
+              disabled={!servers}
+              onChange={(e) => typeServer(e.target.value)}
+            />
+            <datalist id="server-options">
+              {sortedServers.map((s) => (
+                <option key={s['SERVER NAME']} value={s['SERVER NAME']}>
+                  Nexus {s.NEXUS} · server {s['SERVER #']}
                 </option>
               ))}
-            </select>
+            </datalist>
+            <span className="hint">
+              {matched
+                ? `Nexus ${matched.NEXUS} · server ${matched['SERVER #']} · ${matched.STATUS.toLowerCase()}`
+                : partialCount > 0
+                  ? `${partialCount} server${partialCount === 1 ? '' : 's'} match — keep typing, or pick one from the list.`
+                  : query.trim()
+                    ? `No server called "${query.trim()}" — check the spelling, or set the start date below yourself.`
+                    : `${sortedServers.length || ''} servers. Your nexus is filled in for you.`}
+            </span>
           </div>
 
           <div className="field">
@@ -123,7 +135,7 @@ export default function Setup({ profile, update, setProfile, reset, onDone }: Pr
             <span className="hint">
               {day !== null
                 ? `Day ${day.toLocaleString()} · opened ${formatDate(start)}`
-                : 'Set this directly if your server is not listed.'}
+                : 'Filled in when you pick a server. Set it directly if yours is not listed.'}
             </span>
           </div>
         </div>
