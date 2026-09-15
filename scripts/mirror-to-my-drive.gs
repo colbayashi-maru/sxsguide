@@ -18,6 +18,8 @@
  * If it stops partway with a timeout, set RESUME_FROM to the number the log
  * reports and run it again — it appends to the same output spreadsheet as long
  * as you paste its ID into DEST_ID.
+ *
+ * Chart-only tabs are skipped; they hold a rendered chart rather than cells.
  */
 
 const SOURCE_ID = '1uZqmE-71qg2JbEEeBKQXppDToqo4UwQ1zdMFs75UyrU';
@@ -52,6 +54,15 @@ function mirror() {
 
     const sheet = sheets[i];
     const name = sheet.getName().slice(0, 99);
+
+    // Chart sheets hold an embedded chart instead of a grid, and getDataRange
+    // throws "The action is not supported for OBJECT sheet" on them. There is
+    // no tabular data to mirror, so skip them.
+    if (sheet.getType() !== SpreadsheetApp.SheetType.GRID) {
+      Logger.log('[' + i + '] ' + name + ': skipped (not a grid sheet)');
+      continue;
+    }
+
     const range = sheet.getDataRange();
     // Display values, so formulas arrive as the numbers and text a reader sees.
     const values = range.getDisplayValues();
