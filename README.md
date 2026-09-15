@@ -22,6 +22,13 @@ date. That is what makes the guide personal.
 - **Dungeons** — clear power by difficulty, gear power, drop rates and set
   bonuses, joined across four tabs and defaulted to your current season. Gear
   tiers are marked in reach or ahead of you against your power rating.
+- **Season score** — the season scoring model rebuilt as a live calculator.
+  Enter your activity scores, season levels and gear ratings; it totals the
+  gameplay, progression and gear ratings and places you in the season's grade
+  band. Rates, thresholds and bands all differ per season and are read from the
+  workbook. Astral points are not calculated: the workbook derives them
+  differently in each season tab and the formula is not recoverable from the
+  exported values.
 - **Reference** — searchable, facet-filtered tables for relics, relic sets,
   monsters, companions, fantomon, cosmetics, servers and more.
 
@@ -37,6 +44,14 @@ npm run dev
 `npm run build` produces a static site in `dist/`. The build assumes GitHub
 Pages project-site hosting; set `BASE_PATH=/` (or your own prefix) to deploy
 elsewhere.
+
+## Deploying
+
+`.github/workflows/deploy.yml` typechecks, builds and publishes to GitHub Pages
+on every push to `main`, and can be run by hand from the Actions tab. It needs
+Pages switched on once first: **Settings → Pages → Build and deployment →
+Source: GitHub Actions**. The site then serves from
+`https://<owner>.github.io/sxsguide/`.
 
 ## Updating the data
 
@@ -62,8 +77,10 @@ imported. `data/` is gitignored — see below.
   exported, and the workbook itself is gitignored so it does not reach the
   repo either. Only the aggregated, anonymous half of `Form Responses 2` (the
   per-class rating averages) is imported.
-- **Dashboard scaffolding.** `MAIN PAGE` and the season calculators are
-  formulas wired to the author's own character; the app recomputes these.
+- **Dashboard scaffolding.** `MAIN PAGE` and `Season Primo Calculator` are
+  formulas wired to the author's own character; the app recomputes these. The
+  per-season scoring tabs are read for their rates, thresholds and bands only —
+  the author's own figures in them are discarded.
 - **Duplicates and irregular layouts.** `Servers` is a wide pivot of
   `Copy of Servers`; `Skills` is superseded by `Skills Log`; `Dungeon Layout`
   and `Timeline` have no consistent row shape.

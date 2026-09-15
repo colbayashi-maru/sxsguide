@@ -180,3 +180,28 @@ export interface StatRow {
   label: string;
   value: number | string;
 }
+
+export interface ScoreBand {
+  min: number;
+  /** null on the top band, which has no ceiling. */
+  max: number | null;
+  grade: string;
+}
+
+export interface ProgressionRule {
+  label: string;
+  /** Level above which points start accruing; null if the label omitted it. */
+  threshold: number | null;
+  perLevel: number;
+}
+
+export interface SeasonScoring {
+  season: string;
+  title: string;
+  experienceCap: number | null;
+  gameplay: string[];
+  progression: ProgressionRule[];
+  gearSlots: string[];
+  rarities: string[];
+  bands: ScoreBand[];
+}

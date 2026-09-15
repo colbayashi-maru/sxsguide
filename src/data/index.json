@@ -413,5 +413,17 @@
    "Tier"
   ],
   "rows": 24
+ },
+ {
+  "sheet": "Season scoring tabs",
+  "slug": "season-scoring",
+  "columns": [
+   "season",
+   "gameplay",
+   "progression",
+   "gearSlots",
+   "bands"
+  ],
+  "rows": 5
  }
 ]

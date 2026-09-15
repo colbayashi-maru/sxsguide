@@ -1,0 +1,447 @@
+[
+ {
+  "season": "Season 1",
+  "title": "Witching Trials",
+  "experienceCap": 1830000,
+  "gameplay": [
+   "Arena (Top Placement)",
+   "Crucible (Highest Damage %)",
+   "Dungeon (Difficulty + Rating)",
+   "Tournament (Top Placement)",
+   "Season Map (Exploration)",
+   "Fantasia Ascent (Highest Floor)"
+  ],
+  "progression": [
+   {
+    "label": "Season Character Levels",
+    "threshold": 100,
+    "perLevel": 100
+   },
+   {
+    "label": "Season Skill Level",
+    "threshold": 100,
+    "perLevel": 13
+   },
+   {
+    "label": "Season Gear Level",
+    "threshold": 100,
+    "perLevel": 38
+   },
+   {
+    "label": "Season Fantomon Level",
+    "threshold": 100,
+    "perLevel": 14
+   },
+   {
+    "label": "Season Relic Level",
+    "threshold": 10,
+    "perLevel": 57
+   }
+  ],
+  "gearSlots": [
+   "MAIN WEAPON",
+   "SUB WEAPON",
+   "HEAD",
+   "CHEST",
+   "BOOTS"
+  ],
+  "rarities": [
+   "LEGENDARY",
+   "MYTHIC",
+   "DIVINE"
+  ],
+  "bands": [
+   {
+    "min": 0,
+    "max": 12999,
+    "grade": "D"
+   },
+   {
+    "min": 13000,
+    "max": 19999,
+    "grade": "C"
+   },
+   {
+    "min": 20000,
+    "max": 27999,
+    "grade": "B"
+   },
+   {
+    "min": 28000,
+    "max": 35999,
+    "grade": "A"
+   },
+   {
+    "min": 36000,
+    "max": 38999,
+    "grade": "S"
+   },
+   {
+    "min": 39000,
+    "max": 42999,
+    "grade": "SS"
+   },
+   {
+    "min": 43000,
+    "max": null,
+    "grade": "SSS"
+   }
+  ]
+ },
+ {
+  "season": "Season 2",
+  "title": "Crossing Paths",
+  "experienceCap": 13400000,
+  "gameplay": [
+   "Arena (Top Placement)",
+   "Crucible (Highest Damage %)",
+   "Dungeon (Difficulty + Rating)",
+   "Tournament (Top Placement)",
+   "Season Map (Exploration)",
+   "Demonbind Tower (Highest Floor)"
+  ],
+  "progression": [
+   {
+    "label": "Season Character Levels",
+    "threshold": 130,
+    "perLevel": 100
+   },
+   {
+    "label": "Season Skill Level",
+    "threshold": 130,
+    "perLevel": 7
+   },
+   {
+    "label": "Season Gear Level",
+    "threshold": 130,
+    "perLevel": 18
+   },
+   {
+    "label": "Season Fantomon Level",
+    "threshold": 130,
+    "perLevel": 8
+   },
+   {
+    "label": "Season Relic Level",
+    "threshold": 13,
+    "perLevel": 33
+   }
+  ],
+  "gearSlots": [
+   "MAIN WEAPON",
+   "SUB WEAPON",
+   "HEAD",
+   "CHEST",
+   "BOOTS"
+  ],
+  "rarities": [
+   "LEGENDARY",
+   "MYTHIC",
+   "DIVINE"
+  ],
+  "bands": [
+   {
+    "min": 0,
+    "max": 15999,
+    "grade": "D"
+   },
+   {
+    "min": 16000,
+    "max": 25999,
+    "grade": "C"
+   },
+   {
+    "min": 26000,
+    "max": 34999,
+    "grade": "B"
+   },
+   {
+    "min": 35000,
+    "max": 44999,
+    "grade": "A"
+   },
+   {
+    "min": 45000,
+    "max": 48999,
+    "grade": "S"
+   },
+   {
+    "min": 49000,
+    "max": 53999,
+    "grade": "SS"
+   },
+   {
+    "min": 54000,
+    "max": null,
+    "grade": "SSS"
+   }
+  ]
+ },
+ {
+  "season": "Season 3",
+  "title": "Finale of Chaos",
+  "experienceCap": 2205662,
+  "gameplay": [
+   "Arena (Top Placement)",
+   "Crucible (Highest Damage %)",
+   "Dungeon (Difficulty + Rating)",
+   "Tournament (Top Placement)",
+   "Season Map (Exploration)",
+   "Bond Odyssey"
+  ],
+  "progression": [
+   {
+    "label": "Season Character Levels",
+    "threshold": 160,
+    "perLevel": 100
+   },
+   {
+    "label": "Season Skill Level",
+    "threshold": 160,
+    "perLevel": 5
+   },
+   {
+    "label": "Season Gear Level",
+    "threshold": 160,
+    "perLevel": 14
+   },
+   {
+    "label": "Season Fantomon Level",
+    "threshold": 160,
+    "perLevel": 6
+   },
+   {
+    "label": "Season Relic Level",
+    "threshold": 16,
+    "perLevel": 26
+   }
+  ],
+  "gearSlots": [
+   "MAIN WEAPON",
+   "SUB WEAPON",
+   "HEAD",
+   "CHEST",
+   "BOOTS"
+  ],
+  "rarities": [
+   "LEGENDARY",
+   "MYTHIC",
+   "DIVINE"
+  ],
+  "bands": [
+   {
+    "min": 0,
+    "max": 15999,
+    "grade": "D"
+   },
+   {
+    "min": 16000,
+    "max": 25999,
+    "grade": "C"
+   },
+   {
+    "min": 26000,
+    "max": 34999,
+    "grade": "B"
+   },
+   {
+    "min": 35000,
+    "max": 44999,
+    "grade": "A"
+   },
+   {
+    "min": 45000,
+    "max": 48999,
+    "grade": "S"
+   },
+   {
+    "min": 49000,
+    "max": 53999,
+    "grade": "SS"
+   },
+   {
+    "min": 54000,
+    "max": null,
+    "grade": "SSS"
+   }
+  ]
+ },
+ {
+  "season": "Season 4",
+  "title": "Bizzare Theatre",
+  "experienceCap": 3300000,
+  "gameplay": [
+   "Arena (Top Placement)",
+   "Crucible (Highest Damage %)",
+   "Dungeon (Difficulty + Rating)",
+   "Tournament (Top Placement)",
+   "Season Map (Exploration)",
+   "Bond Odyssey"
+  ],
+  "progression": [
+   {
+    "label": "Season Character Levels",
+    "threshold": 190,
+    "perLevel": 100
+   },
+   {
+    "label": "Season Skill Level",
+    "threshold": 190,
+    "perLevel": 5
+   },
+   {
+    "label": "Season Gear Level",
+    "threshold": 190,
+    "perLevel": 17
+   },
+   {
+    "label": "Season Fantomon Level",
+    "threshold": 190,
+    "perLevel": 11
+   },
+   {
+    "label": "Season Relic Level",
+    "threshold": 19,
+    "perLevel": 28
+   }
+  ],
+  "gearSlots": [
+   "MAIN WEAPON",
+   "SUB WEAPON",
+   "HEAD",
+   "CHEST",
+   "BOOTS"
+  ],
+  "rarities": [
+   "LEGENDARY",
+   "MYTHIC",
+   "DIVINE"
+  ],
+  "bands": [
+   {
+    "min": 0,
+    "max": 15999,
+    "grade": "D"
+   },
+   {
+    "min": 16000,
+    "max": 25999,
+    "grade": "C"
+   },
+   {
+    "min": 26000,
+    "max": 34999,
+    "grade": "B"
+   },
+   {
+    "min": 35000,
+    "max": 44999,
+    "grade": "A"
+   },
+   {
+    "min": 45000,
+    "max": 48999,
+    "grade": "S"
+   },
+   {
+    "min": 49000,
+    "max": 53999,
+    "grade": "SS"
+   },
+   {
+    "min": 54000,
+    "max": null,
+    "grade": "SSS"
+   }
+  ]
+ },
+ {
+  "season": "Season 5",
+  "title": "Firefrost Anthem",
+  "experienceCap": 3300000,
+  "gameplay": [
+   "Arena (Top Placement)",
+   "Crucible (Highest Damage %)",
+   "Dungeon (Difficulty + Rating)",
+   "Tournament (Top Placement)",
+   "Season Map (Exploration)",
+   "Bond Odyssey"
+  ],
+  "progression": [
+   {
+    "label": "Season Character Levels",
+    "threshold": 210,
+    "perLevel": 100
+   },
+   {
+    "label": "Season Skill Level",
+    "threshold": 210,
+    "perLevel": 6
+   },
+   {
+    "label": "Season Gear Level",
+    "threshold": 210,
+    "perLevel": 18
+   },
+   {
+    "label": "Season Fantomon Level",
+    "threshold": 210,
+    "perLevel": 12
+   },
+   {
+    "label": "Season Relic Level",
+    "threshold": 22,
+    "perLevel": 30
+   }
+  ],
+  "gearSlots": [
+   "MAIN WEAPON",
+   "SUB WEAPON",
+   "HEAD",
+   "CHEST",
+   "BOOTS"
+  ],
+  "rarities": [
+   "LEGENDARY",
+   "MYTHIC",
+   "DIVINE"
+  ],
+  "bands": [
+   {
+    "min": 0,
+    "max": 15999,
+    "grade": "D"
+   },
+   {
+    "min": 16000,
+    "max": 25999,
+    "grade": "C"
+   },
+   {
+    "min": 26000,
+    "max": 34999,
+    "grade": "B"
+   },
+   {
+    "min": 35000,
+    "max": 44999,
+    "grade": "A"
+   },
+   {
+    "min": 45000,
+    "max": 48999,
+    "grade": "S"
+   },
+   {
+    "min": 49000,
+    "max": 53999,
+    "grade": "SS"
+   },
+   {
+    "min": 54000,
+    "max": null,
+    "grade": "SSS"
+   }
+  ]
+ }
+]

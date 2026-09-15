@@ -24,6 +24,11 @@ OUT = Path("src/data")
 # Tabs with real email addresses and player IDs in them. Never exported.
 SKIP_PII = {"User_Start_Dates", "Form Responses 1", "Form Responses 3"}
 
+# The per-season scoring tabs share one fixed layout, read by season_scoring().
+SEASON_SCORE_PREFIX = "Season "
+SEASON_SCORE_EXCLUDE = {"Season Listing", "Season Primo Calculator"}
+
+
 # Tabs that are dashboard scaffolding, duplicates of a cleaner tab, or layouts
 # too irregular to read as a table. Listed so the report can show them as
 # deliberate omissions rather than silent gaps.
@@ -129,6 +134,80 @@ def to_records(grid, header_row, cols):
     return columns, records
 
 
+def raw_grid(ws):
+    """Grid with blank rows kept, because the season tabs are read by position."""
+    return [[clean(c) for c in row] for row in ws.iter_rows(values_only=True)]
+
+
+def at(grid, row, col):
+    if row >= len(grid) or col >= len(grid[row]):
+        return ""
+    return grid[row][col]
+
+
+def season_scoring(name, grid):
+    """
+    Reads one "Season N <title>" tab.
+
+    Every one of these tabs uses the same fixed layout, so the rows are read by
+    position rather than by header:
+      rows 3-8    gameplay components  (label, the player's score)
+      rows 11-15  progression          (label, points per level, levels, points)
+      rows 18-21  gear                 (slot names on 18, one row per rarity)
+      rows 1-7    scoring bands in columns 9-11
+    Only the labels and rates are exported; the values are the author's own
+    numbers and the app collects those from the player instead.
+    """
+    gameplay = [str(at(grid, r, 0)) for r in range(3, 9) if str(at(grid, r, 0)).strip()]
+
+    progression = []
+    for r in range(11, 16):
+        label = str(at(grid, r, 0)).strip()
+        per_level = at(grid, r, 1)
+        if not label or not isinstance(per_level, (int, float)):
+            continue
+        # Labels read "Season Gear Level > 130"; the number is the level above
+        # which points start accruing.
+        threshold = None
+        if ">" in label:
+            tail = label.split(">")[-1].strip()
+            if tail.replace(".", "").isdigit():
+                threshold = int(float(tail))
+        progression.append({
+            "label": label.split(">")[0].strip(),
+            "threshold": threshold,
+            "perLevel": per_level,
+        })
+
+    gear_slots = [str(at(grid, 18, c)) for c in range(1, 6) if str(at(grid, 18, c)).strip()]
+    rarities = [str(at(grid, r, 0)).strip() for r in range(19, 22) if str(at(grid, r, 0)).strip()]
+
+    bands = []
+    for r in range(1, 8):
+        low, high, grade = at(grid, r, 9), at(grid, r, 10), str(at(grid, r, 11)).strip()
+        if not grade or not isinstance(low, (int, float)):
+            continue
+        bands.append({
+            "min": low,
+            # The top band's max is written as "-", meaning no ceiling.
+            "max": high if isinstance(high, (int, float)) else None,
+            "grade": grade,
+        })
+
+    cap = at(grid, 1, 1)
+    parts = name.split(" ", 2)
+    return {
+        "season": " ".join(parts[:2]),
+        "title": parts[2] if len(parts) > 2 else "",
+        "experienceCap": cap if isinstance(cap, (int, float)) else None,
+        "gameplay": gameplay,
+        "progression": progression,
+        "gearSlots": gear_slots,
+        "rarities": rarities,
+        "bands": bands,
+    }
+
+
 def key_value_sheet(grid):
     """Game Statistics is a two-column label/number list, not a table."""
     return [{"label": str(r[0]).rstrip(":"), "value": r[1] if len(r) > 1 else ""}
@@ -143,6 +222,7 @@ def main():
     wb = openpyxl.load_workbook(src, data_only=True)
     OUT.mkdir(parents=True, exist_ok=True)
     index = []
+    season_scores = []
 
     for name in wb.sheetnames:
         if name in SKIP_PII:
@@ -150,6 +230,13 @@ def main():
             continue
         if name in SKIP_LAYOUT:
             print(f"  skip (not tabular)    {name}")
+            continue
+
+        if (name.startswith(SEASON_SCORE_PREFIX)
+                and name not in SEASON_SCORE_EXCLUDE
+                and name not in TABLES):
+            season_scores.append(season_scoring(name, raw_grid(wb[name])))
+            print(f"  {name:24} -> season-scoring.json")
             continue
 
         grid = read_grid(wb[name])
@@ -166,6 +253,15 @@ def main():
         (OUT / f"{slug}.json").write_text(json.dumps(records, ensure_ascii=False, indent=1))
         index.append({"sheet": name, "slug": slug, "columns": columns, "rows": len(records)})
         print(f"  {name:24} -> {slug}.json  ({len(records)} rows, {len(columns)} cols)")
+
+    if season_scores:
+        (OUT / "season-scoring.json").write_text(
+            json.dumps(season_scores, ensure_ascii=False, indent=1))
+        index.append({
+            "sheet": "Season scoring tabs", "slug": "season-scoring",
+            "columns": ["season", "gameplay", "progression", "gearSlots", "bands"],
+            "rows": len(season_scores),
+        })
 
     (OUT / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1))
     print(f"\n{len(index)} datasets -> {OUT}/")

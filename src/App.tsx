@@ -9,6 +9,7 @@ import Setup from './views/Setup';
 const Schedule = lazy(() => import('./views/Schedule'));
 const ClassGuide = lazy(() => import('./views/ClassGuide'));
 const Dungeons = lazy(() => import('./views/Dungeons'));
+const SeasonScore = lazy(() => import('./views/SeasonScore'));
 const Reference = lazy(() => import('./views/Reference'));
 
 const TABS = [
@@ -16,6 +17,7 @@ const TABS = [
   { id: 'schedule', label: 'Schedule' },
   { id: 'class', label: 'Class' },
   { id: 'dungeons', label: 'Dungeons' },
+  { id: 'score', label: 'Season score' },
   { id: 'reference', label: 'Reference' },
   { id: 'setup', label: 'Setup' },
 ] as const;
@@ -87,6 +89,7 @@ export default function App() {
           {tab === 'schedule' && <Schedule profile={profile} onSetup={() => go('setup')} />}
           {tab === 'class' && <ClassGuide profile={profile} />}
           {tab === 'dungeons' && <Dungeons profile={profile} />}
+          {tab === 'score' && <SeasonScore profile={profile} />}
           {tab === 'reference' && <Reference />}
           {tab === 'setup' && (
             <Setup

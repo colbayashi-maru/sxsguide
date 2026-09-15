@@ -17,11 +17,12 @@ import dropRatesJson from '../data/dungeon-drop-rate.json';
 import gearPowerJson from '../data/gear-power.json';
 import relicSetsJson from '../data/relic-sets.json';
 import statsJson from '../data/game-statistics.json';
+import seasonScoringJson from '../data/season-scoring.json';
 
 import type {
   BuildRow, ClassRatingRow, ClassRow, CommunityBuildRow, DungeonRow,
   DungeonSetRow, ExperienceRow, GearPowerRow, MilestoneRow, RelicSetRow,
-  SeasonRow, StatRow,
+  SeasonRow, SeasonScoring, StatRow,
 } from './types';
 
 export const classes = classesJson as ClassRow[];
@@ -36,6 +37,7 @@ export const dropRates = dropRatesJson as Record<string, string | number>[];
 export const gearPower = gearPowerJson as GearPowerRow[];
 export const relicSets = relicSetsJson as RelicSetRow[];
 export const gameStats = statsJson as StatRow[];
+export const seasonScoring = seasonScoringJson as SeasonScoring[];
 
 // The ratings tab doubles as the survey's own scratch space: the leftmost
 // column holds notes like "Add Review Here" and a form link rather than a
